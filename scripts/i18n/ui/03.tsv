@@ -1,0 +1,237 @@
+复古胶片写真	Ảnh phim cổ điển	Vintage film portrait
+2.5D 游戏原画立绘	Artwork game 2.5D	2.5D game character art
+日系二次元插画	Minh họa anime Nhật	Japanese anime illustration
+新海诚感动画电影	Phim hoạt hình kiểu Shinkai	Shinkai-style anime film
+日式黑白漫画网点	Manga đen trắng có screentone	Black-and-white manga screentone
+3D 次世代角色渲染	Render nhân vật 3D next-gen	Next-gen 3D character render
+3D 潮玩手办质感	Figure đồ chơi 3D	3D collectible figure
+赛博朋克霓虹	Neon cyberpunk	Cyberpunk neon
+角色设定集立绘（纯白底）	Bảng thiết kế nhân vật (nền trắng)	Character sheet (plain white)
+请先选择人像/服装/姿势或上传附加参考图。	Hãy chọn chân dung/trang phục/tư thế hoặc tải lên ảnh tham chiếu bổ sung trước.	Choose a portrait/costume/pose or upload an extra reference first.
+读取文件失败	Đọc tệp thất bại	Failed to read file
+解析图片失败	Phân tích ảnh thất bại	Failed to parse image
+加载图片失败: {}	Tải ảnh thất bại: {}	Failed to load image: {}
+图{} · 人像	Ảnh {} · Chân dung	Image {} · Portrait
+图{} · 服装	Ảnh {} · Trang phục	Image {} · Costume
+图{} · 姿势	Ảnh {} · Tư thế	Image {} · Pose
+图{} · 附加	Ảnh {} · Bổ sung	Image {} · Extra
+· 深度图	· Depth map	· Depth map
+（深度图）	(Depth map)	(depth map)
+自定义参考图	Ảnh tham chiếu tùy chỉnh	Custom reference
+请至少选择或上传 1 张参考图	Hãy chọn hoặc tải lên ít nhất 1 ảnh tham chiếu	Choose or upload at least 1 reference image
+图1：人物/服装参考 (Person)	Ảnh 1: Tham chiếu nhân vật/trang phục (Person)	Image 1: Person/costume reference (Person)
+图2：姿势参考 (Pose)	Ảnh 2: Tham chiếu tư thế (Pose)	Image 2: Pose reference (Pose)
+图1：人像参考 (Portrait)	Ảnh 1: Tham chiếu chân dung (Portrait)	Image 1: Portrait reference (Portrait)
+图2：人物/服装参考图 (Person)	Ảnh 2: Tham chiếu nhân vật/trang phục (Person)	Image 2: Person/costume reference (Person)
+图2：服装参考 (Costume)	Ảnh 2: Tham chiếu trang phục (Costume)	Image 2: Costume reference (Costume)
+图3：姿势参考 (Pose)	Ảnh 3: Tham chiếu tư thế (Pose)	Image 3: Pose reference (Pose)
+图1：姿势参考图 (Pose)	Ảnh 1: Tham chiếu tư thế (Pose)	Image 1: Pose reference (Pose)
+加载 Qwen Image 2.1 基础模型	Tải model nền Qwen Image 2.1	Load Qwen Image 2.1 base model
+加载姿态编辑 LoRA 适配器 (Qwen 2.1 专用)	Tải LoRA chỉnh tư thế (riêng cho Qwen 2.1)	Load pose-edit LoRA adapter (Qwen 2.1 only)
+Qwen Image 2.1 条件缓存	Bộ đệm điều kiện Qwen Image 2.1	Qwen Image 2.1 conditioning cache
+加载 Qwen3-VL 8B 编码器	Tải bộ mã hóa Qwen3-VL 8B	Load Qwen3-VL 8B encoder
+加载 Qwen Image 2.1 VAE	Tải VAE Qwen Image 2.1	Load Qwen Image 2.1 VAE
+正向提示词与多图编码 (Qwen 2.1)	Prompt khẳng định & mã hóa nhiều ảnh (Qwen 2.1)	Positive prompt & multi-image encoding (Qwen 2.1)
+KSampler 采样器	Bộ lấy mẫu KSampler	KSampler
+VAE 解码	Giải mã VAE	VAE decode
+保存生成结果	Lưu kết quả	Save result
+Qwen Image Edit 2509 三图合成（人像+服装+姿势）· 推荐	Qwen Image Edit 2509 ghép 3 ảnh (chân dung + trang phục + tư thế) · Khuyến nghị	Qwen Image Edit 2509 three-image blend (portrait + costume + pose) · Recommended
+Qwen Image Edit 2509 双图姿态迁移（人物+姿势）	Qwen Image Edit 2509 chuyển tư thế 2 ảnh (nhân vật + tư thế)	Qwen Image Edit 2509 two-image pose transfer (person + pose)
+Qwen-Image 2.1 三图合成（需另装 2.1 模型）	Qwen-Image 2.1 ghép 3 ảnh (cần cài thêm model 2.1)	Qwen-Image 2.1 three-image blend (requires the 2.1 model)
+Qwen-Image 2.1 双图姿态迁移（需另装 2.1 模型）	Qwen-Image 2.1 chuyển tư thế 2 ảnh (cần cài thêm model 2.1)	Qwen-Image 2.1 two-image pose transfer (requires the 2.1 model)
+工作流 JSON 为空	JSON workflow đang trống	Workflow JSON is empty
+无效的 JSON 对象	Đối tượng JSON không hợp lệ	Invalid JSON object
+检测到普通画布格式 JSON，请在 ComfyUI 中使用「工作流 → 导出 (API)」得到 API 格式 JSON	Phát hiện JSON dạng canvas thường; trong ComfyUI hãy dùng «Workflow → Export (API)» để lấy JSON định dạng API	This is a regular canvas JSON. In ComfyUI, use "Workflow → Export (API)" to get API-format JSON
+未在 JSON 中找到任何 ComfyUI 节点	Không tìm thấy node ComfyUI nào trong JSON	No ComfyUI nodes found in the JSON
+JSON 解析失败: {}	Phân tích JSON thất bại: {}	JSON parse error: {}
+语法错误	lỗi cú pháp	syntax error
+[ComfyUI] 请求 {} 超时：ComfyUI 可能正忙或无响应，请查看 ComfyUI 终端日志。	[ComfyUI] Yêu cầu {} quá thời gian: ComfyUI có thể đang bận hoặc không phản hồi, hãy xem log terminal của ComfyUI.	[ComfyUI] Request to {} timed out: ComfyUI may be busy or unresponsive. Check the ComfyUI terminal log.
+[ComfyUI] 本地代理 {} 无法连通 ComfyUI：请确认 ComfyUI 已启动，且端口与启动网页时的 COMFYUI_URL 一致（默认 http://127.0.0.1:8000）。	[ComfyUI] Proxy cục bộ {} không kết nối được ComfyUI: hãy chắc chắn ComfyUI đang chạy và cổng khớp với COMFYUI_URL khi khởi động trang (mặc định http://127.0.0.1:8000).	[ComfyUI] Local proxy {} can't reach ComfyUI: make sure it's running and the port matches COMFYUI_URL used to start the site (default http://127.0.0.1:8000).
+① ComfyUI 未启动，或地址/端口不对（Desktop 版默认 8000，便携版默认 8188）	① ComfyUI chưa chạy hoặc sai địa chỉ/cổng (bản Desktop mặc định 8000, bản portable 8188)	① ComfyUI isn't running, or the address/port is wrong (Desktop default 8000, portable 8188)
+② 跨域 (CORS) 被拦截：ComfyUI 启动参数需包含 --enable-cors-header "{}"（该参数只能填一个来源）	② Bị chặn CORS: tham số khởi động ComfyUI cần có --enable-cors-header "{}" (chỉ điền được một nguồn)	② Blocked by CORS: start ComfyUI with --enable-cors-header "{}" (only one origin allowed)
+③ 浏览器「本地网络访问」权限被拒绝：请点击地址栏左侧图标允许访问本地设备	③ Trình duyệt từ chối quyền «truy cập mạng cục bộ»: bấm biểu tượng bên trái thanh địa chỉ để cho phép truy cập thiết bị cục bộ	③ The browser denied "local network access": click the icon left of the address bar to allow local devices
+④ HTTPS 页面不能访问局域网 HTTP 地址（混合内容限制），请改用 127.0.0.1 或本地运行本站	④ Trang HTTPS không truy cập được địa chỉ HTTP trong mạng LAN (giới hạn mixed content); hãy dùng 127.0.0.1 hoặc chạy trang này cục bộ	④ HTTPS pages can't reach LAN HTTP addresses (mixed content); use 127.0.0.1 or run this site locally
+。可能原因：	. Nguyên nhân có thể:	. Possible causes:
+[ComfyUI] {} 拒绝访问 (HTTP {})，请检查 API Key / 鉴权设置	[ComfyUI] {} từ chối truy cập (HTTP {}), hãy kiểm tra API key / cấu hình xác thực	[ComfyUI] {} denied access (HTTP {}); check the API key / auth settings
+[ComfyUI] {}/system_stats 返回 HTTP {}，该地址可能不是 ComfyUI	[ComfyUI] {}/system_stats trả về HTTP {}, địa chỉ này có thể không phải ComfyUI	[ComfyUI] {}/system_stats returned HTTP {}; this may not be ComfyUI
+[ComfyUI] {} 的响应不是 ComfyUI 格式，请检查地址	[ComfyUI] Phản hồi từ {} không đúng định dạng ComfyUI, hãy kiểm tra địa chỉ	[ComfyUI] The response from {} isn't ComfyUI format; check the address
+未知版本	Phiên bản không rõ	Unknown version
+本地设备	Thiết bị cục bộ	Local device
+· 显存 {} GB	· VRAM {} GB	· VRAM {} GB
+[ComfyUI] 无法读取节点「{}」的定义（HTTP {}），请检查连接地址、访问令牌和网关接口权限。	[ComfyUI] Không đọc được định nghĩa node «{}» (HTTP {}), hãy kiểm tra địa chỉ kết nối, token truy cập và quyền của gateway.	[ComfyUI] Can't read the definition of node "{}" (HTTP {}); check the address, access token and gateway permissions.
+缺少节点「{}」（节点 {}：{}）。请在 ComfyUI Manager 安装对应的自定义节点，或升级 ComfyUI。	Thiếu node «{}» (node {}: {}). Hãy cài custom node tương ứng trong ComfyUI Manager hoặc nâng cấp ComfyUI.	Missing node "{}" (node {}: {}). Install the matching custom node in ComfyUI Manager or update ComfyUI.
+节点 {}「{}」缺少必填输入 {}.{}	Node {} «{}» thiếu đầu vào bắt buộc {}.{}	Node {} "{}" is missing required input {}.{}
+节点 {}「{}」缺少必填输入 {}	Node {} «{}» thiếu đầu vào bắt buộc {}	Node {} "{}" is missing required input {}
+节点 {}「{}」引用的图片 {} 不在 ComfyUI input 目录中，且未映射到人像/服装/姿势槽位	Ảnh {} mà node {} «{}» tham chiếu không có trong thư mục input của ComfyUI và chưa gán vào ô chân dung/trang phục/tư thế	Node {} "{}" references image {} which isn't in the ComfyUI input folder and isn't mapped to a portrait/costume/pose slot
+节点 {}「{}」{}：{} → {}（自动修正路径）	Node {} «{}» {}: {} → {} (đã tự sửa đường dẫn)	Node {} "{}" {}: {} → {} (path auto-corrected)
+节点 {}「{}」的 {} = {} 在本机不存在（通常是模型文件未安装或路径不同）。本机可选：{}{}	{2} = {3} của node {0} «{1}» không có trên máy (thường do chưa cài model hoặc khác đường dẫn). Lựa chọn trên máy: {4}{5}	Node {} "{}": {} = {} doesn't exist on this machine (usually a missing model file or different path). Available: {}{}
+{} 的值不在本机可选列表中{}——通常是模型文件不存在或路径不同	Giá trị của {} không nằm trong danh sách trên máy{} — thường do thiếu tệp model hoặc khác đường dẫn	The value of {} isn't in the local options{} — usually a missing model file or different path
+缺少必填输入 {}	Thiếu đầu vào bắt buộc {}	Missing required input {}
+节点连线类型不匹配{}	Kiểu kết nối node không khớp{}	Node link type mismatch{}
+参数超出范围{}	Tham số vượt phạm vi{}	Parameter out of range{}
+校验失败	Kiểm tra hợp lệ thất bại	Validation failed
+{}校验失败	{}kiểm tra hợp lệ thất bại	{}validation failed
+缺少节点类型：{}。请在 ComfyUI Manager 安装缺失的自定义节点或升级 ComfyUI	Thiếu loại node: {}. Hãy cài custom node còn thiếu trong ComfyUI Manager hoặc nâng cấp ComfyUI	Missing node type: {}. Install the missing custom nodes in ComfyUI Manager or update ComfyUI
+工作流没有输出节点（SaveImage / PreviewImage）	Workflow không có node đầu ra (SaveImage / PreviewImage)	Workflow has no output node (SaveImage / PreviewImage)
+节点 {}「{}」：{}	Node {} «{}»: {}	Node {} "{}": {}
+[ComfyUI] 提交工作流失败：	[ComfyUI] Gửi workflow thất bại:	[ComfyUI] Failed to submit workflow:
+[ComfyUI] 显存不足（节点 {}「{}」）。已请求 ComfyUI 释放显存。	[ComfyUI] Thiếu VRAM (node {} «{}»). Đã yêu cầu ComfyUI giải phóng VRAM.	[ComfyUI] Out of VRAM (node {} "{}"). Asked ComfyUI to free VRAM.
+建议：关闭其他占用显卡的程序；在工作流中把「按姿势图比例确定输出尺寸」节点的 megapixels 从 1.0 调低到 0.6；然后重试。	Gợi ý: đóng các chương trình khác đang dùng GPU; trong workflow, giảm megapixels của node «xác định kích thước đầu ra theo tỉ lệ ảnh tư thế» từ 1.0 xuống 0.6; rồi thử lại.	Tip: close other GPU-heavy apps; in the workflow, lower megapixels on the "size output from pose ratio" node from 1.0 to 0.6, then retry.
+[ComfyUI] 执行出错（节点 {}「{}」）：{}	[ComfyUI] Lỗi khi chạy (node {} «{}»): {}	[ComfyUI] Execution error (node {} "{}"): {}
+[ComfyUI] 任务已被中断（可能在 ComfyUI 界面中点击了取消）	[ComfyUI] Tác vụ đã bị ngắt (có thể đã bấm hủy trong giao diện ComfyUI)	[ComfyUI] Task interrupted (Cancel may have been clicked in ComfyUI)
+[ComfyUI] 工作流执行出错：{}	[ComfyUI] Lỗi khi chạy workflow: {}	[ComfyUI] Workflow execution error: {}
+读取生成结果失败	Không đọc được kết quả	Failed to read the result
+读取参考图失败：{}	Không đọc được ảnh tham chiếu: {}	Failed to read reference: {}
+[ComfyUI] 上传参考图失败 (HTTP {})：{}	[ComfyUI] Tải ảnh tham chiếu lên thất bại (HTTP {}): {}	[ComfyUI] Reference upload failed (HTTP {}): {}
+[ComfyUI] 提交结果未知：服务端可能已接受任务，请先检查队列与历史记录，勿直接重复提交。	[ComfyUI] Không rõ kết quả gửi: máy chủ có thể đã nhận tác vụ, hãy kiểm tra hàng đợi và lịch sử trước, đừng gửi lại ngay.	[ComfyUI] Submission result unknown: the server may have accepted the task. Check the queue and history before resubmitting.
+已停止跟踪，后台任务继续执行	Đã dừng theo dõi, tác vụ nền vẫn chạy	Stopped tracking; the background task keeps running
+正在确认 ComfyUI 任务状态…	Đang xác nhận trạng thái tác vụ ComfyUI…	Confirming ComfyUI task status…
+已停止跟踪	Đã dừng theo dõi	Stopped tracking
+[ComfyUI] 访问被拒绝 (HTTP {})，请检查凭据和来源后恢复任务。	[ComfyUI] Bị từ chối truy cập (HTTP {}), hãy kiểm tra thông tin xác thực và nguồn rồi khôi phục tác vụ.	[ComfyUI] Access denied (HTTP {}); check credentials and origin, then resume the task.
+正在执行：{}	Đang chạy: {}	Running: {}
+当前节点（{}/{}）	Node hiện tại ({}/{})	Current node ({}/{})
+正在复用已缓存节点…	Đang dùng lại node đã lưu đệm…	Reusing cached nodes…
+节点已完成，继续执行工作流…	Node đã xong, tiếp tục chạy workflow…	Node done, continuing workflow…
+ComfyUI 开始执行任务…	ComfyUI bắt đầu chạy tác vụ…	ComfyUI started the task…
+任务状态查询暂时失败，正在重试…	Truy vấn trạng thái tạm thất bại, đang thử lại…	Status check failed temporarily, retrying…
+[ComfyUI] 工作流完成但没有输出图片，请检查 SaveImage 节点。	[ComfyUI] Workflow chạy xong nhưng không có ảnh đầu ra, hãy kiểm tra node SaveImage.	[ComfyUI] Workflow finished without an output image; check the SaveImage node.
+正在获取生成结果…	Đang lấy kết quả…	Fetching the result…
+图片下载暂时失败，正在重试…	Tải ảnh tạm thất bại, đang thử lại…	Image download failed temporarily, retrying…
+[ComfyUI] 生成结果不是有效图片，可恢复后重新下载。	[ComfyUI] Kết quả không phải ảnh hợp lệ, có thể khôi phục rồi tải lại.	[ComfyUI] The result isn't a valid image; resume to download again.
+ComfyUI 工作流	Workflow ComfyUI	ComfyUI workflow
+排队中，前方还有 {} 个任务	Đang xếp hàng, còn {} tác vụ phía trước	Queued, {} tasks ahead
+ComfyUI 正在执行任务…	ComfyUI đang chạy tác vụ…	ComfyUI is running the task…
+暂未在队列或历史中找到任务，继续确认…	Chưa thấy tác vụ trong hàng đợi hoặc lịch sử, đang tiếp tục xác nhận…	Task not found in queue or history yet, still checking…
+队列查询暂时失败，正在等待任务状态…	Truy vấn hàng đợi tạm thất bại, đang chờ trạng thái tác vụ…	Queue check failed temporarily, waiting for task status…
+[ComfyUI] 已停止跟踪，后台任务继续执行，可恢复查看。	[ComfyUI] Đã dừng theo dõi, tác vụ nền vẫn chạy, có thể khôi phục để xem.	[ComfyUI] Stopped tracking; the task keeps running in the background and can be resumed.
+[ComfyUI] 等待结果超时，后台任务继续执行，可恢复查看。	[ComfyUI] Chờ kết quả quá lâu, tác vụ nền vẫn chạy, có thể khôi phục để xem.	[ComfyUI] Timed out waiting; the task keeps running in the background and can be resumed.
+[ComfyUI] 跟踪任务失败，可恢复查看。	[ComfyUI] Theo dõi tác vụ thất bại, có thể khôi phục để xem.	[ComfyUI] Tracking failed; you can resume to check.
+[ComfyUI] {}	[ComfyUI] {}	[ComfyUI] {}
+正在检查 ComfyUI 服务与模型…	Đang kiểm tra dịch vụ và model ComfyUI…	Checking ComfyUI service and models…
+[ComfyUI] 工作流与本机不匹配：	[ComfyUI] Workflow không khớp với máy:	[ComfyUI] Workflow doesn't match this machine:
+[ComfyUI] {}节点映射已失效，请重新识别或选择节点	[ComfyUI] Gán node {} không còn hợp lệ, hãy nhận diện lại hoặc chọn node	[ComfyUI] {} node mapping is stale; re-detect or choose nodes
+[ComfyUI] 请先选择或上传：{}	[ComfyUI] Hãy chọn hoặc tải lên trước: {}	[ComfyUI] Choose or upload first: {}
+当前工作流需要「{}」参考图（节点 {}），请先在图库中选择	Workflow hiện tại cần ảnh tham chiếu «{}» (node {}), hãy chọn trong thư viện trước	This workflow needs a "{}" reference (node {}); pick one from the gallery first
+正在上传{}参考图…	Đang tải lên ảnh tham chiếu {}…	Uploading {} reference…
+正在上传{}…	Đang tải lên {}…	Uploading {}…
+正在上传参考拼图…	Đang tải lên ảnh ghép tham chiếu…	Uploading reference collage…
+正在提交工作流…	Đang gửi workflow…	Submitting workflow…
+[ComfyUI] 任务已提交，但保存恢复记录失败。请保留任务编号后恢复，勿重复提交。	[ComfyUI] Đã gửi tác vụ nhưng lưu bản ghi khôi phục thất bại. Hãy giữ mã tác vụ để khôi phục, đừng gửi lại.	[ComfyUI] Task submitted but saving the recovery record failed. Keep the task ID to resume; don't resubmit.
+请先配置 {} 的 API Key	Hãy cấu hình API key cho {} trước	Set the API key for {} first
+请先选择或上传至少 1 张参考图	Hãy chọn hoặc tải lên ít nhất 1 ảnh tham chiếu	Choose or upload at least 1 reference image
+请选择或填写有效的模型名称	Hãy chọn hoặc nhập tên model hợp lệ	Choose or enter a valid model name
+请求失败 (HTTP {})	Yêu cầu thất bại (HTTP {})	Request failed (HTTP {})
+接口已响应但未解析到图片输出：{}	API đã phản hồi nhưng không đọc được ảnh đầu ra: {}	The API responded but no image output was found: {}
+[PixAI] 提交结果未知：可能已创建任务并扣除额度。请在 PixAI 核对任务，勿重复提交。	[PixAI] Không rõ kết quả gửi: có thể đã tạo tác vụ và trừ credit. Hãy kiểm tra trên PixAI, đừng gửi lại.	[PixAI] Submission result unknown: a task may have been created and credits charged. Check on PixAI; don't resubmit.
+[PixAI] HTTP {}：{}	[PixAI] HTTP {}: {}	[PixAI] HTTP {}: {}
+[PixAI] 首版仅支持官方地址 https://api.pixai.art	[PixAI] Bản đầu chỉ hỗ trợ địa chỉ chính thức https://api.pixai.art	[PixAI] This version only supports the official https://api.pixai.art
+[PixAI] 请补齐人像、服装、姿势三张参考图	[PixAI] Hãy bổ sung đủ ba ảnh chân dung, trang phục, tư thế	[PixAI] Add all three references: portrait, costume and pose
+[PixAI] 最多支持三图，请先移除附加参考图	[PixAI] Tối đa ba ảnh, hãy gỡ ảnh tham chiếu bổ sung trước	[PixAI] Max three images; remove extra references first
+[PixAI] 请选择 Tsubaki.3 或 Tsubaki.3 Flash	[PixAI] Hãy chọn Tsubaki.3 hoặc Tsubaki.3 Flash	[PixAI] Choose Tsubaki.3 or Tsubaki.3 Flash
+[PixAI] 提示词须为 1–10000 字符	[PixAI] Prompt phải từ 1–10000 ký tự	[PixAI] Prompt must be 1–10000 characters
+[PixAI] 必须按人像、服装、姿势上传三图	[PixAI] Phải tải lên ba ảnh theo thứ tự chân dung, trang phục, tư thế	[PixAI] Upload three images in order: portrait, costume, pose
+[PixAI] Flash 请使用模型默认模式	[PixAI] Với Flash hãy dùng chế độ mặc định của model	[PixAI] Use the model's default mode with Flash
+[PixAI] 负向提示词不能超过 4096 字符	[PixAI] Prompt phủ định không được quá 4096 ký tự	[PixAI] Negative prompt can't exceed 4096 characters
+[PixAI] Seed 必须为安全整数	[PixAI] Seed phải là số nguyên an toàn	[PixAI] Seed must be a safe integer
+无法读取素材；远程图片可能不允许跨域读取，可下载后上传到该槽位	Không đọc được tư liệu; ảnh từ xa có thể chặn đọc CORS, hãy tải về rồi tải lên ô này	Can't read the asset; the remote image may block cross-origin reads. Download it and upload to this slot
+素材文件不存在，请重新选择或上传图片；本地开发请检查图库素材是否已下载	Tệp tư liệu không tồn tại, hãy chọn lại hoặc tải ảnh lên; khi phát triển cục bộ hãy kiểm tra đã tải tư liệu thư viện chưa	Asset file missing; choose or upload again. For local dev, check that the gallery assets are downloaded
+素材请求失败 HTTP {}	Yêu cầu tư liệu thất bại HTTP {}	Asset request failed HTTP {}
+素材地址返回了网页而非图片，请检查素材文件是否缺失或地址是否正确	Địa chỉ tư liệu trả về trang web thay vì ảnh, hãy kiểm tra tệp có thiếu hoặc địa chỉ có đúng không	The asset URL returned a web page instead of an image; check the file and address
+未识别到有效的 PNG、JPEG、WebP、GIF 或 AVIF 图片数据	Không nhận diện được dữ liệu ảnh PNG, JPEG, WebP, GIF hoặc AVIF hợp lệ	No valid PNG, JPEG, WebP, GIF or AVIF data found
+图片尺寸无效	Kích thước ảnh không hợp lệ	Invalid image size
+无法处理图片	Không xử lý được ảnh	Can't process image
+图片转换失败	Chuyển đổi ảnh thất bại	Image conversion failed
+图片须小于等于 10 MiB，请压缩后重试	Ảnh phải nhỏ hơn hoặc bằng 10 MiB, hãy nén rồi thử lại	Image must be 10 MiB or less; compress and retry
+[PixAI] {}读取失败：{}	[PixAI] Đọc {} thất bại: {}	[PixAI] Failed to read {}: {}
+无法读取图片	Không đọc được ảnh	Can't read image
+[PixAI] 请配置 API Key	[PixAI] Hãy cấu hình API key	[PixAI] Set your API key
+PixAI 查询中断，正在退避重试；任务记录已保留	Truy vấn PixAI bị gián đoạn, đang chờ rồi thử lại; đã giữ bản ghi tác vụ	PixAI query interrupted, backing off and retrying; task record kept
+[PixAI] 任务 {} {}：{}	[PixAI] Tác vụ {} {}: {}	[PixAI] Task {} {}: {}
+PixAI 生成完成，正在下载并保存图片…	PixAI đã tạo xong, đang tải và lưu ảnh…	PixAI finished; downloading and saving the image…
+[PixAI] 任务 {} 完成但没有有效图片：{}	[PixAI] Tác vụ {} xong nhưng không có ảnh hợp lệ: {}	[PixAI] Task {} finished with no valid image: {}
+[PixAI] 结果下载中断；任务 {} 已保留，可恢复重试	[PixAI] Tải kết quả bị gián đoạn; đã giữ tác vụ {}, có thể khôi phục để thử lại	[PixAI] Result download interrupted; task {} kept, resume to retry
+[PixAI] 图片下载失败 HTTP {}；可恢复任务 {}	[PixAI] Tải ảnh thất bại HTTP {}; có thể khôi phục tác vụ {}	[PixAI] Image download failed HTTP {}; task {} can be resumed
+[PixAI] 下载结果不是有效图片；请恢复任务重试	[PixAI] Kết quả tải về không phải ảnh hợp lệ; hãy khôi phục tác vụ để thử lại	[PixAI] The download isn't a valid image; resume the task to retry
+[PixAI] 图片保存失败，请恢复任务重试	[PixAI] Lưu ảnh thất bại, hãy khôi phục tác vụ để thử lại	[PixAI] Saving the image failed; resume the task to retry
+[PixAI] 未知任务状态 {}，任务 {} 已保留	[PixAI] Trạng thái tác vụ không rõ {}, đã giữ tác vụ {}	[PixAI] Unknown task status {}; task {} kept
+PixAI 排队中…	PixAI đang xếp hàng…	PixAI queued…
+PixAI 生成中…	PixAI đang tạo…	PixAI generating…
+[PixAI] 查询超时；任务 {} 已保留，可稍后恢复	[PixAI] Truy vấn quá thời gian; đã giữ tác vụ {}, có thể khôi phục sau	[PixAI] Query timed out; task {} kept, resume later
+正在上传第 {}/3 张：{}…	Đang tải lên ảnh {}/3: {}…	Uploading {}/3: {}…
+[PixAI] {}上传没有返回 media ID	[PixAI] Tải lên {} không trả về media ID	[PixAI] Uploading {} returned no media ID
+正在提交 PixAI 任务…	Đang gửi tác vụ PixAI…	Submitting PixAI task…
+[PixAI] 任务已创建但记录保存失败。任务编号：{}；请保留编号并恢复，勿重复提交。	[PixAI] Đã tạo tác vụ nhưng lưu bản ghi thất bại. Mã tác vụ: {}; hãy giữ mã để khôi phục, đừng gửi lại.	[PixAI] Task created but saving the record failed. Task ID: {}; keep it to resume and don't resubmit.
+无法读取浏览器存储，已暂停生成以保护待确认任务；请恢复存储后刷新	Không đọc được bộ nhớ trình duyệt, đã tạm dừng tạo để bảo vệ tác vụ chờ xác nhận; hãy khôi phục bộ nhớ rồi tải lại trang	Can't read browser storage; generation is paused to protect pending tasks. Restore storage and reload
+配方保存失败，请检查浏览器存储空间	Lưu công thức thất bại, hãy kiểm tra dung lượng bộ nhớ trình duyệt	Failed to save the recipe; check browser storage space
+已解锁 18+ 完整图库模式	Đã mở khóa chế độ thư viện đầy đủ 18+	Full 18+ gallery unlocked
+已开启安全模式（已隐藏 18+ 敏感分类）	Đã bật chế độ an toàn (ẩn danh mục 18+)	Safe mode on (18+ categories hidden)
+已切换姿势图为：深度图 (Depth)	Đã chuyển ảnh tư thế sang: Depth map	Pose image switched to: depth map
+已切换姿势图为：素体白模	Đã chuyển ảnh tư thế sang: Mô hình trắng	Pose image switched to: mannequin
+已移除人像	Đã bỏ chân dung	Portrait removed
+已选人像：{}	Đã chọn chân dung: {}	Portrait selected: {}
+已移除服装	Đã bỏ trang phục	Costume removed
+已选服装：{}	Đã chọn trang phục: {}	Costume selected: {}
+已移除姿势	Đã bỏ tư thế	Pose removed
+已选姿势：{}（{}{}）	Đã chọn tư thế: {} ({}{})	Pose selected: {} ({}{})
+附加参考	Tham chiếu bổ sung	Extra reference
+已添加附加参考图	Đã thêm ảnh tham chiếu bổ sung	Extra reference added
+已清空配方	Đã xóa công thức	Recipe cleared
+已随机抽取一套角色配方（安全模式）	Đã chọn ngẫu nhiên một công thức nhân vật (chế độ an toàn)	Random character recipe picked (safe mode)
+已随机抽取一套角色配方	Đã chọn ngẫu nhiên một công thức nhân vật	Random character recipe picked
+参考已更改，本次换样已取消	Tham chiếu đã thay đổi, lần đổi này bị hủy	References changed; this shuffle was cancelled
+没有其他同类素材，可切到“全部”再试	Không còn tư liệu cùng loại, hãy chuyển sang "Tất cả" rồi thử lại	No other items of this type; switch to "All" and try again
+没有其他可用素材	Không còn tư liệu khả dụng	No other items available
+已更换{}，其他参考保持不变	Đã đổi {}, các tham chiếu khác giữ nguyên	Swapped {}; other references unchanged
+历史记录保存失败	Lưu lịch sử thất bại	Failed to save history
+已删除该条记录	Đã xóa bản ghi	Record deleted
+删除失败	Xóa thất bại	Delete failed
+已清空记录	Đã xóa hết lịch sử	History cleared
+清空记录失败	Xóa lịch sử thất bại	Failed to clear history
+已合成参考拼图	Đã ghép ảnh tham chiếu	Reference collage created
+角色图已完成并保存	Ảnh nhân vật đã xong và được lưu	Character image done and saved
+任务记录清除失败	Xóa bản ghi tác vụ thất bại	Failed to clear the task record
+无法确认任务状态，记录已保留	Không xác nhận được trạng thái tác vụ, đã giữ bản ghi	Couldn't confirm task status; record kept
+已暂停本地跟踪，任务记录已保留；服务器任务继续执行	Đã tạm dừng theo dõi cục bộ, giữ bản ghi tác vụ; tác vụ trên máy chủ vẫn chạy	Local tracking paused, record kept; the server task keeps running
+暂停状态保存失败，原任务记录仍保留	Lưu trạng thái tạm dừng thất bại, bản ghi tác vụ gốc vẫn được giữ	Failed to save pause state; the original record is kept
+放弃本地恢复记录？这不会取消服务器任务，重新生成可能再次扣除额度。	Bỏ bản ghi khôi phục cục bộ? Việc này không hủy tác vụ trên máy chủ, và tạo lại có thể bị trừ credit lần nữa.	Discard the local recovery record? This won't cancel the server task, and regenerating may charge credits again.
+已放弃本地记录；服务器任务可能仍在执行	Đã bỏ bản ghi cục bộ; tác vụ trên máy chủ có thể vẫn đang chạy	Local record discarded; the server task may still be running
+任务编号格式无效	Mã tác vụ sai định dạng	Invalid task ID format
+恢复记录保存失败	Lưu bản ghi khôi phục thất bại	Failed to save the recovery record
+存在待确认任务，请先恢复或明确放弃记录	Có tác vụ chờ xác nhận, hãy khôi phục hoặc bỏ bản ghi trước	There's a pending task; resume it or discard its record first
+自定义合成	Ghép tùy chỉnh	Custom generation
+任务失败记录未能清除，请放弃记录后重试	Không xóa được bản ghi tác vụ lỗi, hãy bỏ bản ghi rồi thử lại	Couldn't clear the failed task record; discard it and retry
+调用失败	Gọi API thất bại	Call failed
+🔞 年龄确认与免责声明（NSFW 18+）	🔞 Xác nhận tuổi & miễn trừ trách nhiệm (NSFW 18+)	🔞 Age confirmation & disclaimer (NSFW 18+)
+关闭「安全模式 (SFW)」后，图库将显示包含成人向艺术参考的敏感分类：	Khi tắt «Chế độ an toàn (SFW)», thư viện sẽ hiện các danh mục nhạy cảm có tham chiếu nghệ thuật dành cho người lớn:	Turning off "Safe mode (SFW)" shows sensitive categories with adult-oriented art references:
+：全身单人・性感系（399 张）、双人缠绵（275 张）	: Toàn thân 1 người · Gợi cảm (399 ảnh), Hai người · Quấn quýt (275 ảnh)	: Full body solo · Sexy (399 images), Couple · Intimate (275 images)
+：内衣・睡衣（199 套）、性感穿搭（140 套）	: Nội y · Đồ ngủ (199 bộ), Trang phục gợi cảm (140 bộ)	: Lingerie · Sleepwear (199 sets), Sexy outfits (140 sets)
+免责声明	Miễn trừ trách nhiệm	Disclaimer
+年龄限制	Giới hạn độ tuổi	Age limit
+：未满 18 周岁的未成年人严禁关闭安全模式或浏览上述敏感分类。	: người dưới 18 tuổi tuyệt đối không được tắt chế độ an toàn hoặc xem các danh mục nhạy cảm trên.	: anyone under 18 must not turn off safe mode or browse these categories.
+来源说明	Nguồn	Sources
+：原有图鉴素材来自 ギア（@giaaibusi）；二次元服装来自 たき AI · CharaDB，适用独立来源条件，禁止真人、未成年人用途及图片再分发，首次使用须确认。	: tư liệu gốc đến từ Gia (@giaaibusi); trang phục anime đến từ Taki AI · CharaDB, áp dụng điều kiện nguồn riêng: cấm dùng cho người thật, trẻ vị thành niên và phân phối lại ảnh; cần xác nhận khi dùng lần đầu.	: original assets come from Gia (@giaaibusi); anime costumes come from Taki AI · CharaDB under their own terms: no real people, minors or image redistribution; confirm on first use.
+合法使用	Sử dụng hợp pháp	Lawful use
+：本工具与素材	: công cụ và tư liệu này	: this tool and its assets are
+仅供 AI 绘画学习与合法艺术创作使用，严禁用于任何违法违规、色情传播或侵害他人肖像权（如未经授权的真人换脸）等用途	chỉ dùng cho học vẽ AI và sáng tác nghệ thuật hợp pháp, nghiêm cấm dùng cho mục đích trái pháp luật, phát tán khiêu dâm hoặc xâm phạm quyền hình ảnh (như ghép mặt người thật khi chưa được phép)	for AI art learning and lawful creation only; illegal use, spreading pornography, or infringing image rights (e.g. unauthorized face swaps of real people) is strictly prohibited
+，使用者须自行承担一切法律责任。	; người dùng tự chịu mọi trách nhiệm pháp lý.	; users bear all legal responsibility.
+保持安全模式	Giữ chế độ an toàn	Keep safe mode
+我已年满 18 岁并同意免责声明	Tôi đã đủ 18 tuổi và đồng ý với miễn trừ trách nhiệm	I'm 18 or older and accept the disclaimer
+未配置地址	Chưa cấu hình địa chỉ	No address set
+尚未检测	Chưa kiểm tra	Not checked
+检测中…	Đang kiểm tra…	Checking…
+HTTP 可达	HTTP truy cập được	HTTP reachable
+连接失败	Kết nối thất bại	Connection failed
+浏览器离线	Trình duyệt đang offline	Browser offline
+正在检测 ComfyUI HTTP 连接…	Đang kiểm tra kết nối HTTP tới ComfyUI…	Checking ComfyUI HTTP connection…
+HTTP 连接成功：{}	Kết nối HTTP thành công: {}	HTTP connected: {}
+鉴权失败（HTTP {}），请检查 API Key / 鉴权设置	Xác thực thất bại (HTTP {}), hãy kiểm tra API key / cấu hình xác thực	Auth failed (HTTP {}); check the API key / auth settings
+HTTP {}，请检查 ComfyUI 服务与代理	HTTP {}, hãy kiểm tra dịch vụ ComfyUI và proxy	HTTP {}; check the ComfyUI service and proxy
+响应不是 ComfyUI system_stats 格式，请检查地址	Phản hồi không đúng định dạng system_stats của ComfyUI, hãy kiểm tra địa chỉ	Response isn't ComfyUI system_stats format; check the address
+连接检测超时（8 秒），请检查 ComfyUI 是否忙碌或无响应	Kiểm tra kết nối quá thời gian (8 giây), hãy xem ComfyUI có đang bận hoặc không phản hồi	Connection check timed out (8 s); check whether ComfyUI is busy or unresponsive
+无法读取 ComfyUI 状态，请检查服务、地址、跨域和本地网络访问权限	Không đọc được trạng thái ComfyUI, hãy kiểm tra dịch vụ, địa chỉ, CORS và quyền truy cập mạng cục bộ	Can't read ComfyUI status; check the service, address, CORS and local network permission
+输入	đầu vào	input
+补充参考	tham chiếu bổ sung	extra reference
+补充元素	yếu tố bổ sung	extra element
+默认地址	địa chỉ mặc định	default address
+（空）	(trống)	(empty)
+[ComfyUI] 无法连接 {}。可能原因：	[ComfyUI] Không kết nối được {}. Nguyên nhân có thể: 	[ComfyUI] Cannot connect to {}. Possible causes: 

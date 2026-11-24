@@ -4,6 +4,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { ThemeProvider } from '@/components/theme/ThemeProvider'
 import { StudioProvider } from '@/store/studioStore'
+import { initI18n } from './i18n/translator'
 import { routeTree } from './routeTree.gen'
 import './index.css'
 import './notifications.css'
@@ -34,6 +35,8 @@ declare module '@tanstack/react-router' {
     title?: string
   }
 }
+
+initI18n()
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

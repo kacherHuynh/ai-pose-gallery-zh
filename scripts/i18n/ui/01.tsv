@@ -1,0 +1,221 @@
+体系	Hệ	System
+加载姿势数据失败: HTTP {}	Không tải được dữ liệu tư thế: HTTP {}	Failed to load pose data: HTTP {}
+加载服装数据失败: HTTP {}	Không tải được dữ liệu trang phục: HTTP {}	Failed to load costume data: HTTP {}
+加载人像数据失败: HTTP {}	Không tải được dữ liệu chân dung: HTTP {}	Failed to load portrait data: HTTP {}
+图片大图预览	Xem ảnh lớn	Large image preview
+下载原图	Tải ảnh gốc	Download original
+关闭图片预览	Đóng xem ảnh	Close image preview
+对比参考	So sánh tham chiếu	Compare references
+关闭参考对比	Đóng so sánh	Close comparison
+参考来自这次生成保存的提交快照。两图共同缩放与移动，按原比例显示。	Tham chiếu lấy từ bản chụp đã lưu khi gửi lần tạo này. Hai ảnh phóng to và di chuyển cùng nhau, hiển thị theo tỉ lệ gốc.	References come from the snapshot saved with this generation. Both images zoom and pan together at their original ratio.
+共同缩放控制	Điều khiển thu phóng chung	Shared zoom controls
+共同缩小	Cùng thu nhỏ	Zoom both out
+共同放大	Cùng phóng to	Zoom both in
+复位	Đặt lại	Reset
+选择参考	Chọn tham chiếu	Choose reference
+选择本次生成的参考	Chọn tham chiếu của lần tạo này	Choose a reference from this generation
+对比模式	Chế độ so sánh	Comparison mode
+并排	Cạnh nhau	Side by side
+滑杆	Thanh trượt	Slider
+这条提交快照没有可用的参考图。	Bản chụp này không có ảnh tham chiếu dùng được.	This snapshot has no usable reference image.
+这条旧记录没有生成快照，无法确定当时的参考图。	Bản ghi cũ này không có bản chụp, không xác định được ảnh tham chiếu lúc đó.	This older record has no snapshot, so its reference images are unknown.
+仍可查看生成结果。	Bạn vẫn có thể xem kết quả.	You can still view the result.
+滑杆对比	So sánh bằng thanh trượt	Slider comparison
+生成结果	Kết quả	Result
+参考图	Ảnh tham chiếu	Reference image
+参考图显示比例	Tỉ lệ hiển thị ảnh tham chiếu	Reference display ratio
+{}% 参考图	{}% ảnh tham chiếu	{}% reference
+参考占比	Tỉ lệ tham chiếu	Reference share
+滚轮或双指共同缩放 · 放大后拖动 · 加减键缩放、方向键移动、0 键复位	Lăn chuột hoặc chụm hai ngón để cùng thu phóng · Kéo khi đã phóng to · Phím +/- để thu phóng, phím mũi tên để di chuyển, phím 0 để đặt lại	Scroll or pinch to zoom both · Drag when zoomed · +/- to zoom, arrow keys to pan, 0 to reset
+图片加载中…	Đang tải ảnh…	Loading image…
+{}加载失败，可选择其他参考或稍后重试。	{} tải thất bại, hãy chọn tham chiếu khác hoặc thử lại sau.	{} failed to load. Choose another reference or try again later.
+{}；共同缩放和移动	{}; thu phóng và di chuyển cùng nhau	{}; zoom and pan together
+图片预览	Xem ảnh	Image preview
+图片缩放控制	Điều khiển thu phóng ảnh	Image zoom controls
+缩小图片	Thu nhỏ ảnh	Zoom out
+放大图片	Phóng to ảnh	Zoom in
+适应窗口	Vừa khung	Fit to window
+{}；加减键缩放，方向键移动，0 键复位	{}; phím +/- để thu phóng, phím mũi tên để di chuyển, phím 0 để đặt lại	{}; +/- to zoom, arrow keys to pan, 0 to reset
+图片加载失败，请检查网络后重试。	Không tải được ảnh, hãy kiểm tra mạng rồi thử lại.	Image failed to load. Check your connection and try again.
+重新加载图片	Tải lại ảnh	Reload image
+滚轮或双指缩放 · 放大后拖动 · 100% 为适应窗口	Lăn chuột hoặc chụm hai ngón để thu phóng · Kéo khi đã phóng to · 100% là vừa khung	Scroll or pinch to zoom · Drag when zoomed · 100% = fit to window
+当前已开启安全模式（已隐藏 18+ 敏感内容），点击可解锁完整图库	Đang bật chế độ an toàn (đã ẩn nội dung nhạy cảm 18+), bấm để mở khóa toàn bộ thư viện	Safe mode is on (18+ content hidden). Click to unlock the full gallery
+当前已显示 18+ 完整图库，点击可切回安全模式	Đang hiển thị toàn bộ thư viện 18+, bấm để quay lại chế độ an toàn	Showing the full 18+ gallery. Click to switch back to safe mode
+安全模式 (SFW)	Chế độ an toàn (SFW)	Safe mode (SFW)
+18+ 完整模式	Chế độ đầy đủ 18+	Full 18+ mode
+随机捏人	Tạo nhân vật ngẫu nhiên	Random character
+AI 合成台，已选 {} 项参考图	Bàn ghép AI, đã chọn {} ảnh tham chiếu	AI studio, {} references selected
+AI 合成台	Bàn ghép AI	AI Studio
+AI 角色三合一参考台	Bàn tham chiếu nhân vật AI 3 trong 1	AI 3-in-1 character reference desk
+当前角色配方	Công thức nhân vật hiện tại	Current character recipe
+角色配方槽 (	Ô công thức nhân vật (	Recipe slots (
+未选择 · 点击去捏人	Chưa chọn · Bấm để tạo nhân vật	None selected · Click to build a character
+点击进入 AI 合成台	Bấm để vào Bàn ghép AI	Open the AI Studio
+访问 GitHub 仓库	Xem repo GitHub	Visit the GitHub repo
+已复制提示词	Đã sao chép prompt	Prompt copied
+清除人像参考图	Xóa ảnh chân dung tham chiếu	Clear portrait reference
+人像	Chân dung	Portrait
+清除服装参考图	Xóa ảnh trang phục tham chiếu	Clear costume reference
+服装	Trang phục	Costume
+白模	Mô hình trắng	Mannequin
+深度	Độ sâu	Depth
+清除姿势参考图	Xóa ảnh tư thế tham chiếu	Clear pose reference
+姿势	Tư thế	Pose
+随机	Ngẫu nhiên	Random
+复制提示词	Sao chép prompt	Copy prompt
+复制词	Chép prompt	Copy prompt
+清空参考图	Xóa hết ảnh tham chiếu	Clear references
+生成中…	Đang tạo…	Generating…
+合成 (	Ghép (	Generate (
+工作台	Bàn làm việc	Workspace
+图库总览	Tổng quan thư viện	Gallery overview
+AI 角色合成台	Bàn ghép nhân vật AI	AI Character Studio
+三大参考图库	Ba thư viện tham chiếu	Reference libraries
+动作姿势库	Thư viện tư thế	Pose library
+服装穿搭库	Thư viện trang phục	Costume library
+人像颜值库	Thư viện chân dung	Portrait library
+配置与说明	Cấu hình & hướng dẫn	Settings & guide
+API 接口配置	Cấu hình API	API settings
+使用说明与免责声明	Hướng dẫn & miễn trừ trách nhiệm	Guide & disclaimer
+最近检测 {}	Kiểm tra gần nhất {}	Last checked {}
+尚无检测记录	Chưa có lần kiểm tra nào	Not checked yet
+；HTTP 检测不代表任务 WebSocket 已连接	; kiểm tra HTTP không có nghĩa là WebSocket của tác vụ đã kết nối	; an HTTP check does not mean the task WebSocket is connected
+检测连接	Kiểm tra kết nối	Test connection
+恢复{}默认值	Khôi phục mặc định của {}	Reset {} to default
+恢复默认	Khôi phục mặc định	Reset to default
+请输入参数允许范围内的数字	Hãy nhập số trong phạm vi cho phép	Enter a number within the allowed range
+已覆盖工作流默认值	Đã ghi đè giá trị mặc định của workflow	Overrides the workflow default
+沿用工作流默认值	Dùng giá trị mặc định của workflow	Uses the workflow default
+已修改	Đã sửa	Modified
+请选择图片文件	Hãy chọn tệp ảnh	Please choose an image file
+图片读取失败，已保留原图，请重新选择	Không đọc được ảnh, đã giữ ảnh cũ, hãy chọn lại	Couldn't read the image; kept the original. Please choose again
+工作流高级参数	Tham số nâng cao của workflow	Advanced workflow parameters
+全部恢复默认	Khôi phục tất cả mặc định	Reset all to default
+按当前 ComfyUI 节点定义显示；未修改的参数沿用导入 API。	Hiển thị theo định nghĩa node ComfyUI hiện tại; tham số chưa sửa giữ nguyên theo API đã nhập.	Shown per the current ComfyUI node definitions; unchanged parameters keep the imported API values.
+（可选）	(tùy chọn)	(optional)
+（可替换）	(có thể thay)	(replaceable)
+预览{}	Xem trước {}	Preview {}
+选择{}	Chọn {}	Choose {}
+替换图片	Thay ảnh	Replace image
+选择图片	Chọn ảnh	Choose image
+已选择，生成时上传	Đã chọn, sẽ tải lên khi tạo	Selected; uploads on generate
+正在读取图片…	Đang đọc ảnh…	Reading image…
+清除{}	Xóa {}	Clear {}
+未选择（可选），可添加参考图片。	Chưa chọn (tùy chọn), có thể thêm ảnh tham chiếu.	None selected (optional). You can add a reference image.
+默认沿用工作流原图；选择后替换，清除后恢复原图。	Mặc định dùng ảnh gốc của workflow; chọn ảnh để thay, xóa để khôi phục ảnh gốc.	Uses the workflow's original image by default; choosing replaces it, clearing restores it.
+可选择完整角色设定集，人物身份与外观以此图为准。	Có thể chọn một bảng thiết kế nhân vật đầy đủ; danh tính và ngoại hình nhân vật sẽ theo ảnh này.	You can choose a full character sheet; identity and appearance follow this image.
+清除图片	Xóa ảnh	Clear image
+正在读取节点参数…	Đang đọc tham số node…	Reading node parameters…
+节点参数读取失败：	Không đọc được tham số node:	Failed to read node parameters:
+重试	Thử lại	Retry
+其他可调参数（	Tham số khác (	Other parameters (
+此工作流没有可编辑的普通参数。	Workflow này không có tham số thường để chỉnh.	This workflow has no editable regular parameters.
+useTheme 必须在 ThemeProvider 内使用	useTheme phải được dùng bên trong ThemeProvider	useTheme must be used inside ThemeProvider
+切换主题	Đổi giao diện	Toggle theme
+浅色	Sáng	Light
+深色	Tối	Dark
+跟随系统	Theo hệ thống	System
+操作通知（Alt+T 聚焦，Esc 关闭）	Thông báo (Alt+T để chọn, Esc để đóng)	Notifications (Alt+T to focus, Esc to close)
+关闭此通知	Đóng thông báo này	Close this notification
+收起通知	Thu gọn thông báo	Collapse notifications
+展开通知	Mở rộng thông báo	Expand notifications
+角色设定集	Bảng thiết kế nhân vật	Character sheet
+参考图 · {}	Ảnh tham chiếu · {}	Reference · {}
+参考图 #	Ảnh tham chiếu #	Reference #
+当前参考图组合不受此工作流支持，可用组合：	Workflow này không hỗ trợ tổ hợp ảnh tham chiếu hiện tại. Tổ hợp dùng được:	This workflow doesn't support the current reference combination. Supported combinations:
+人像 · {}	Chân dung · {}	Portrait · {}
+服装 · {}	Trang phục · {}	Costume · {}
+姿势 · {}{}	Tư thế · {}{}	Pose · {}{}
+附加参考 · {}	Tham chiếu bổ sung · {}	Extra reference · {}
+无	Không có	None
+工作流参考 · {}	Tham chiếu workflow · {}	Workflow reference · {}
+ギア · 写实	Gia · Ảnh thực	Gia · Realistic
+ギア（@giaaibusi）AI 服装参考。	Tham chiếu trang phục AI của Gia (@giaaibusi).	AI costume references by Gia (@giaaibusi).
+ギア · 动漫	Gia · Anime	Gia · Anime
+仅收录元数据，图片由ギア原站提供；使用请遵守原站说明。	Chỉ lưu metadata, ảnh do trang gốc của Gia cung cấp; khi dùng hãy tuân theo hướng dẫn của trang gốc.	Metadata only; images are served by Gia's original site. Follow that site's terms.
+たき AI · CharaDB	Taki AI · CharaDB	Taki AI · CharaDB
+仅供参考，须遵守原作者限制；请阅读来源条款。	Chỉ để tham khảo, phải tuân theo giới hạn của tác giả gốc; hãy đọc điều khoản nguồn.	For reference only; follow the original author's restrictions and read the source terms.
+Shisei · 中国历代	Shisei · Trang phục Trung Hoa qua các triều đại	Shisei · Historical Chinese
+wquguru 的 AI 生成服装参考，CC0；标注来源。并非专业历史服饰复原。	Tham chiếu trang phục do AI tạo của wquguru, CC0; ghi rõ nguồn. Không phải phục dựng trang phục lịch sử chuyên nghiệp.	AI-generated costume references by wquguru, CC0; credit the source. Not a professional historical reconstruction.
+浏览器存储写入失败	Ghi vào bộ nhớ trình duyệt thất bại	Failed to write to browser storage
+图片下载失败	Tải ảnh thất bại	Image download failed
+引用不是图片	Tham chiếu không phải ảnh	Reference is not an image
+图片读取失败	Đọc ảnh thất bại	Failed to read image
+预览图	Ảnh xem trước	Preview
+上传	Tải lên	Upload
+查看 {} 大图	Xem ảnh lớn {}	View {} full size
+已选	Đã chọn	Selected
+加入配方	Thêm vào công thức	Add to recipe
+图片加载失败	Không tải được ảnh	Image failed to load
+重新加载 {} 缩略图	Tải lại ảnh thu nhỏ {}	Reload {} thumbnail
+重新加载	Tải lại	Reload
+全部	Tất cả	All
+服装一级分类	Nhóm trang phục chính	Costume type
+服装来源	Nguồn trang phục	Costume source
+全部来源	Tất cả nguồn	All sources
+：	:	:
+全部穿搭 (	Tất cả trang phục (	All outfits (
+🔒 解锁 18+ 敏感服装 (	🔒 Mở khóa trang phục nhạy cảm 18+ (	🔒 Unlock 18+ costumes (
+搜索服装款式、颜色、材质、英文词条 (如 denim, lace, 针织, 迷你裙)…	Tìm kiểu dáng, màu, chất liệu, từ khóa (vd: denim, lace, len, váy ngắn)…	Search style, color, material, keywords (e.g. denim, lace, knit, mini skirt)…
+单品/颜色标签	Thẻ món đồ/màu	Item/color tag
+全部单品与颜色标签	Tất cả thẻ món đồ & màu	All item & color tags
+重置	Đặt lại	Reset
+没有找到匹配的服装穿搭	Không tìm thấy trang phục phù hợp	No matching costumes
+试试更换搜索词或切换分类	Thử từ khóa khác hoặc đổi danh mục	Try another search or category
+ギア · 现实服装	Gia · Trang phục thực	Gia · Realistic outfits
+加载更多（剩余	Tải thêm (còn	Load more (
+套）	bộ)	left)
+上一张图片	Ảnh trước	Previous image
+下一张图片	Ảnh sau	Next image
+ギア（@giaaibusi）	Gia (@giaaibusi)	Gia (@giaaibusi)
+来源：	Nguồn:	Source:
+Shisei / wquguru · CC0 · AI 生成服装参考，并非专业复原。	Shisei / wquguru · CC0 · Tham chiếu trang phục do AI tạo, không phải phục dựng chuyên nghiệp.	Shisei / wquguru · CC0 · AI-generated costume reference, not a professional reconstruction.
+Shisei 来源与许可	Nguồn & giấy phép Shisei	Shisei source & license
+原仓库	Repo gốc	Original repo
+条目目录（	Danh mục mục (	Item catalog (
+，固定版本）	, phiên bản cố định)	, pinned version)
+图片许可证（CC0）	Giấy phép ảnh (CC0)	Image license (CC0)
+图片仅作参考，禁止真人、未成年人及再分发；查看原作者条件	Ảnh chỉ để tham khảo; cấm dùng cho người thật, trẻ vị thành niên và phân phối lại; xem điều kiện của tác giả	Reference only; no real people, minors, or redistribution. See the author's terms
+服装视角	Góc nhìn trang phục	Costume view
+中文单品与色彩标签	Thẻ món đồ & màu sắc	Item & color tags
+英文 Prompt 词条	Từ khóa prompt tiếng Anh	English prompt keywords
+已复制英文服装 Prompt	Đã sao chép prompt trang phục tiếng Anh	English costume prompt copied
+复制	Sao chép	Copy
+已在角色配方中（点击移除）	Đã thêm (bấm để bỏ)	In recipe (click to remove)
+加入角色配方	Thêm vào công thức	Add to recipe
+前往来源原图	Ảnh gốc tại nguồn	Open at source
+下载高清原图	Tải ảnh gốc	Download original
+原作者站点	Trang của tác giả	Author's site
+新窗口原图	Mở tab mới	Open in new tab
+使用指南与免责声明	Hướng dẫn sử dụng & miễn trừ trách nhiệm	Guide & disclaimer
+角色合成流程	Quy trình ghép nhân vật	Character workflow
+1. 人像	1. Chân dung	1. Portrait
+人像颜值库 (1,499)	Thư viện chân dung (1.499)	Portrait library (1,499)
+挑选五官与发型参考，或在合成台直接上传自定义人像图，锁定角色面部特征。	Chọn tham chiếu khuôn mặt và kiểu tóc, hoặc tải ảnh chân dung riêng lên Bàn ghép để cố định đặc điểm khuôn mặt nhân vật.	Pick face and hairstyle references, or upload your own portrait in the studio to lock the character's facial features.
+2. 服装	2. Trang phục	2. Costume
+服装穿搭库 (3,224)	Thư viện trang phục (3.224)	Costume library (3,224)
+按全部 / 现实 / 二次元及来源、分类、标签挑选；含ギア写实 1,407 套、Shisei 中国历代 57 套（227 视角）、ギア动漫 1,320 套与 CharaDB 二次元 440 套。	Lọc theo Tất cả / Ảnh thực / Anime cùng nguồn, danh mục, thẻ; gồm 1.407 bộ ảnh thực của Gia, 57 bộ trang phục Trung Hoa cổ của Shisei (227 góc nhìn), 1.320 bộ anime của Gia và 440 bộ anime của CharaDB.	Filter by All / Realistic / Anime plus source, category and tags; includes 1,407 Gia realistic sets, 57 Shisei historical Chinese sets (227 views), 1,320 Gia anime sets and 440 CharaDB anime sets.
+3. 姿势 + 附图	3. Tư thế + ảnh phụ	3. Pose + extras
+动作姿势库 (1,439)	Thư viện tư thế (1.439)	Pose library (1,439)
+挑选 5 视角 3D 素体白模或深度图（Depth），结合云端 API 或本地 ComfyUI 一键生成角色立绘。	Chọn mô hình trắng 3D hoặc depth map với 5 góc nhìn, kết hợp API đám mây hoặc ComfyUI cục bộ để tạo ảnh nhân vật chỉ với một cú bấm.	Pick a 3D mannequin or depth map in 5 views, then generate character art in one click with a cloud API or local ComfyUI.
+免责声明与合规使用规范（必读）	Miễn trừ trách nhiệm & quy tắc sử dụng (bắt buộc đọc)	Disclaimer & acceptable use (must read)
+1. 仅供学习与合法艺术创作（严禁违法）：	1. Chỉ dùng cho học tập và sáng tác nghệ thuật hợp pháp (nghiêm cấm vi phạm pháp luật):	1. For learning and lawful art only (no illegal use):
+本项目（含网页工作台、本地 ComfyUI 插件与工作流模板）	Dự án này (gồm bàn làm việc web, plugin ComfyUI cục bộ và mẫu workflow)	This project (including the web workspace, local ComfyUI plugin and workflow templates)
+仅供个人学习、人体结构研究、插画构图参考与技术交流使用	chỉ dùng cho học tập cá nhân, nghiên cứu cấu trúc cơ thể, tham khảo bố cục minh họa và trao đổi kỹ thuật	is only for personal study, anatomy research, illustration composition reference and technical exchange
+。严禁使用本工具生成、制作或传播任何违反法律法规、淫秽色情、暴力违禁内容，严禁未经他人明确授权上传真实人物照片进行换脸或深伪合成（Deepfake）等侵犯他人肖像权、隐私权与名誉权的行为。	. Nghiêm cấm dùng công cụ này để tạo, sản xuất hoặc phát tán bất kỳ nội dung vi phạm pháp luật, khiêu dâm đồi trụy, bạo lực hay bị cấm; nghiêm cấm tải ảnh người thật lên để ghép mặt hoặc tạo deepfake khi chưa được người đó cho phép rõ ràng, hay mọi hành vi xâm phạm quyền hình ảnh, quyền riêng tư và danh dự của người khác.	. Do not use this tool to create, produce or distribute any illegal, obscene, violent or prohibited content. Do not upload photos of real people for face swaps or deepfakes without their explicit consent, or otherwise infringe anyone's image, privacy or reputation rights.
+2. NSFW（18+）敏感内容提示：	2. Cảnh báo nội dung nhạy cảm NSFW (18+):	2. NSFW (18+) content notice:
+图库中包含部分成人向 3D 素体姿势（全身单人・性感系、双人缠绵）与内衣/性感穿搭参考，旨在服务绘画与动作设计练习。系统默认开启「安全模式 (SFW)」屏蔽上述分类，	Thư viện có một số tư thế mô hình 3D dành cho người lớn (Toàn thân 1 người · Gợi cảm, Hai người · Quấn quýt) và tham chiếu nội y/trang phục gợi cảm, nhằm phục vụ luyện vẽ và thiết kế động tác. Mặc định hệ thống bật «Chế độ an toàn (SFW)» để ẩn các danh mục trên,	The gallery includes some adult-oriented 3D mannequin poses (Full body solo · Sexy, Couple · Intimate) and lingerie/sexy outfit references for drawing and motion-design practice. "Safe mode (SFW)" is on by default and hides these categories;
+未满 18 周岁的未成年人严禁关闭安全模式或访问相关内容	người dưới 18 tuổi tuyệt đối không được tắt chế độ an toàn hoặc truy cập nội dung này	anyone under 18 must not turn off safe mode or access this content
+3. 隐私保护与使用者责任归属：	3. Bảo vệ quyền riêng tư & trách nhiệm người dùng:	3. Privacy & user responsibility:
+本工作台为纯前端本地应用，所有 AI 生图请求均由使用者自行配置的云端 API Key 或使用者本机 ComfyUI 环境直接执行，平台不收集、不存储任何用户上传的图片或生成结果。	Bàn làm việc này là ứng dụng front-end chạy cục bộ; mọi yêu cầu tạo ảnh AI đều chạy trực tiếp bằng API key đám mây do người dùng tự cấu hình hoặc ComfyUI trên máy người dùng. Nền tảng không thu thập hay lưu trữ ảnh tải lên hoặc kết quả tạo ra.	This workspace is a front-end-only local app. All AI image requests run directly with the cloud API key you configure or your own local ComfyUI. The platform does not collect or store any uploaded images or results.
+因使用者违规使用或不当传播所产生的一切法律责任，均由使用者本人独立承担，与本项目及维护者无关。	Mọi trách nhiệm pháp lý phát sinh do người dùng sử dụng sai quy định hoặc phát tán không đúng đều do người dùng tự chịu, không liên quan đến dự án và người duy trì.	Users bear sole legal responsibility for any misuse or improper distribution; the project and its maintainers are not liable.
+数据来源与版权说明	Nguồn dữ liệu & bản quyền	Data sources & copyright
+• 原作者版权归属：	• Bản quyền thuộc tác giả gốc:	• Original copyright:
+本仓库原有姿势（	Tư thế gốc của repo (	The repo's original poses (
+）、现实服装（	), trang phục thực (	), realistic costumes (
+）、人像（	), chân dung (	), portraits (
+）参考图与原始元数据源自原作者	) cùng metadata gốc đến từ tác giả	) and original metadata come from the author
+公开站点，著作权归原作者所有。本仓库仅为中文本地化翻译整理与前端工程学习存档，不对原始图片主张任何所有权。	qua trang công khai; bản quyền thuộc về tác giả gốc. Repo này chỉ là bản bản địa hóa, sắp xếp và lưu trữ để học kỹ thuật front-end, không tuyên bố quyền sở hữu với ảnh gốc.	's public site; copyright belongs to the original author. This repo is only a localization and front-end learning archive and claims no ownership of the original images.
+• 二次元服装来源：	• Nguồn trang phục anime:	• Anime costume source:
+440 套二次元服装源自	440 bộ trang phục anime đến từ	440 anime costumes come from
+（标签与名称遵循 CC0，图片从原站在线加载，仅供学习与生图参考，禁止用于真人/未成年人或将原图二次分发，详见	(thẻ và tên theo CC0, ảnh tải trực tuyến từ trang gốc, chỉ dùng để học và tham chiếu tạo ảnh; cấm dùng cho người thật/trẻ vị thành niên hoặc phân phối lại ảnh gốc; xem	(tags and names are CC0; images load live from the original site for learning and generation reference only; no real people/minors or redistribution of originals; see

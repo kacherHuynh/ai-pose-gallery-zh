@@ -4,6 +4,7 @@ import { Fragment } from 'react'
 import { useQueryClient } from '@tanstack/react-query'
 import { costumesQuery, portraitsQuery, posesQuery } from '@/api/gallery'
 import { ThemeToggle } from '@/components/theme/ThemeToggle'
+import { LanguageSwitcher } from '@/i18n/LanguageSwitcher'
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -94,6 +95,7 @@ export function AppHeader() {
             )}
           </Link>
         </Button>
+        <LanguageSwitcher />
         <ThemeToggle />
       </div>
     </header>

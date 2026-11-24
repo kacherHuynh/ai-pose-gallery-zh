@@ -26,6 +26,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Skeleton } from '@/components/ui/skeleton'
 import { cn } from '@/lib/utils'
 import { useStudio } from '@/store/studioStore'
+import { matchesQuery } from '@/i18n/translator'
 
 export const Route = createFileRoute('/portraits')({
   staticData: { title: '人像颜值库' },
@@ -61,7 +62,7 @@ function PortraitsPage() {
       if (hair && item.发长 !== hair) return false
       if (styleName !== 'all' && item.发型名称 !== styleName) return false
       if (onlyHot && !item.热门) return false
-      if (q && !item.检索.toLowerCase().includes(q)) return false
+      if (q && !matchesQuery(item.检索, q)) return false
       return true
     })
   }, [portraits, section, hair, styleName, onlyHot, q])

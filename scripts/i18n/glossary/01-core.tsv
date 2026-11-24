@@ -1,0 +1,341 @@
+# type	zh	en	vi   (C=color, M=modifier, N=noun)
+C	黑色	black	đen
+C	白色	white	trắng
+C	灰色	gray	xám
+C	棕色	brown	nâu
+C	米色	beige	be
+C	粉色	pink	hồng
+C	红色	red	đỏ
+C	蓝色	blue	xanh dương
+C	绿色	green	xanh lá
+C	黄色	yellow	vàng
+C	紫色	purple	tím
+C	橙色	orange	cam
+C	金色	gold	vàng kim
+C	银色	silver	bạc
+C	卡其色	khaki	kaki
+C	藏青色	navy	xanh navy
+C	藏青	navy	xanh navy
+C	酒红色	burgundy	đỏ rượu vang
+C	酒红	burgundy	đỏ rượu vang
+C	象牙白	ivory	trắng ngà
+C	薄荷绿	mint green	xanh bạc hà
+C	薰衣草紫	lavender	tím oải hương
+C	奶油色	cream	kem
+C	驼色	camel	nâu lạc đà
+C	橄榄绿	olive green	xanh ô liu
+C	孔雀蓝	peacock blue	xanh lam công
+C	石榴红	pomegranate red	đỏ lựu
+C	墨绿	dark green	xanh rêu đậm
+C	墨蓝	ink blue	xanh mực
+C	宝蓝	royal blue	xanh hoàng gia
+C	大红	bright red	đỏ tươi
+C	天青	celadon blue	xanh thiên thanh
+C	朱红	vermilion	đỏ son
+C	松绿	pine green	xanh tùng
+C	桃红	peach pink	hồng đào
+C	湖蓝	lake blue	xanh hồ thủy
+C	玄色	dark black	đen huyền
+C	玄	dark black	đen huyền
+C	玉色	jade white	trắng ngọc
+C	石青	azurite blue	xanh thạch thanh
+C	素白	plain white	trắng trơn
+C	绛紫	deep purple	tím thẫm
+C	绛红	deep crimson	đỏ thẫm
+C	绯红	crimson	đỏ thắm
+C	绯色	crimson	đỏ thắm
+C	缃黄	pale yellow	vàng nhạt
+C	缥青	pale cyan	xanh nhạt
+C	苍灰	ash gray	xám tro
+C	茶褐	tea brown	nâu trà
+C	葱绿	scallion green	xanh hành
+C	藕粉	lotus pink	hồng ngó sen
+C	藕荷	lotus lilac	tím ngó sen
+C	褐色	brown	nâu
+C	赭红	ochre red	đỏ son đất
+C	赭褐	ochre brown	nâu son đất
+C	赭黄	ochre yellow	vàng son đất
+C	月白	moon white	trắng ánh trăng
+C	檀色	sandalwood	màu gỗ đàn
+C	雪青	lilac	tím hoa cà
+C	青色	cyan	xanh lục lam
+C	青莲	lotus purple	tím sen
+C	青绿	teal	xanh ngọc
+C	靛蓝	indigo	chàm
+C	驼褐	camel brown	nâu lạc đà
+C	鸦青	crow blue-black	xanh đen quạ
+C	黄褐	yellow-brown	nâu vàng
+C	天水碧	sky-water green	xanh thiên thủy
+C	白	white	trắng
+C	灰	gray	xám
+C	粉	pink	hồng
+C	蓝	blue	xanh dương
+C	黑	black	đen
+C	红	red	đỏ
+C	绿	green	xanh lá
+C	紫	purple	tím
+C	黄	yellow	vàng
+C	金	gold	vàng kim
+C	银	silver	bạc
+C	棕	brown	nâu
+C	青	cyan	xanh lục lam
+C	米白色	off-white	trắng kem
+C	米白	off-white	trắng kem
+C	浅蓝色	light blue	xanh nhạt
+C	浅蓝	light blue	xanh nhạt
+C	深蓝色	dark blue	xanh đậm
+C	深蓝	dark blue	xanh đậm
+C	浅灰色	light gray	xám nhạt
+C	深灰色	dark gray	xám đậm
+C	深棕色	dark brown	nâu đậm
+C	浅粉色	light pink	hồng nhạt
+C	天蓝色	sky blue	xanh da trời
+C	玫红色	rose red	đỏ hồng
+C	玫瑰色	rose	hồng hoa hồng
+C	芥末黄	mustard	vàng mù tạt
+C	芥末色	mustard	vàng mù tạt
+C	焦糖色	caramel	nâu caramel
+C	巧克力色	chocolate	nâu sô-cô-la
+C	珊瑚色	coral	san hô
+C	香槟色	champagne	sâm panh
+C	铂金色	platinum	bạch kim
+C	豹纹	leopard print	họa tiết da báo
+C	彩色	multicolor	nhiều màu
+C	透明	clear	trong suốt
+C	肉色	nude	màu da
+C	裸色	nude	màu da
+C	杏色	apricot	màu mơ
+C	咖啡色	coffee brown	nâu cà phê
+C	军绿色	army green	xanh quân đội
+C	军绿	army green	xanh quân đội
+C	水蓝色	aqua	xanh nước
+C	淡紫色	light purple	tím nhạt
+C	紫红色	magenta	đỏ tía
+C	荧光色	neon	dạ quang
+M	百褶	pleated	xếp ly
+M	迷你	mini	mini
+M	中长	midi	dài vừa
+M	长款	long	dáng dài
+M	短款	cropped	dáng ngắn
+M	高领	turtleneck	cổ lọ
+M	无袖	sleeveless	không tay
+M	露肩	off-shoulder	trễ vai
+M	露背	backless	hở lưng
+M	束腰	cinched-waist	chiết eo
+M	蕾丝	lace	ren
+M	缎面	satin	satin
+M	丝绒	velvet	nhung
+M	雪纺	chiffon	voan
+M	针织	knit	len dệt kim
+M	羊毛	wool	len lông cừu
+M	毛绒	fluffy	lông xù
+M	皮质	leather	da
+M	麂皮	suede	da lộn
+M	牛仔	denim	denim
+M	灯芯绒	corduroy	nhung tăm
+M	亚麻	linen	vải lanh
+M	条纹	striped	kẻ sọc
+M	格纹	plaid	kẻ caro
+M	波点	polka-dot	chấm bi
+M	碎花	floral	hoa nhí
+M	荷叶边	ruffled	bèo nhún
+M	网纱	tulle	lưới tulle
+M	薄纱	sheer	voan mỏng
+M	运动	sporty	thể thao
+M	吊带	strappy	hai dây
+M	蝴蝶结	bow	nơ
+M	印花	printed	in họa tiết
+M	花卉	floral	họa tiết hoa
+M	花朵	flower	hoa
+M	刺绣	embroidered	thêu
+M	绗缝	quilted	trần bông
+M	皮草	fur	lông thú
+M	毛皮	fur	lông thú
+M	人造毛	faux-fur	lông nhân tạo
+M	金纱	gold-gauze	voan kim tuyến
+M	青纱	cyan-gauze	voan xanh
+M	灰布	gray-cloth	vải xám
+M	高腰	high-waisted	cạp cao
+M	低腰	low-rise	cạp trễ
+M	宽松	loose	rộng
+M	修身	slim-fit	ôm dáng
+M	紧身	tight	bó sát
+M	超短	ultra-short	siêu ngắn
+M	及膝	knee-length	dài tới gối
+M	长	long	dài
+M	短	short	ngắn
+M	大	large	lớn
+M	小	small	nhỏ
+M	厚底	platform	đế độ
+M	尖头	pointed-toe	mũi nhọn
+M	方头	square-toe	mũi vuông
+M	圆头	round-toe	mũi tròn
+M	高筒	tall	cổ cao
+M	及踝	ankle-length	tới mắt cá
+M	V领	V-neck	cổ chữ V
+M	方领	square-neck	cổ vuông
+M	圆领	crew-neck	cổ tròn
+M	翻领	lapel	cổ bẻ
+M	挂脖	halter-neck	cổ yếm
+M	抹胸	strapless	quây ngực
+M	泡泡袖	puff-sleeve	tay phồng
+M	灯笼袖	lantern-sleeve	tay lồng đèn
+M	长袖	long-sleeve	tay dài
+M	短袖	short-sleeve	tay ngắn
+M	开叉	slit	xẻ tà
+M	镂空	cut-out	khoét lỗ
+M	透视	see-through	xuyên thấu
+M	亮片	sequin	kim sa
+M	珍珠	pearl	ngọc trai
+M	流苏	fringed	tua rua
+M	褶边	frilled	viền bèo
+M	拼接	paneled	phối mảng
+M	双排扣	double-breasted	hai hàng khuy
+M	系带	tie	buộc dây
+M	拉链	zip	khóa kéo
+M	连帽	hooded	có mũ
+M	oversize	oversized	oversize
+M	休闲	casual	thường ngày
+M	正式	formal	trang trọng
+M	复古	vintage	cổ điển
+M	优雅	elegant	thanh lịch
+M	性感	sexy	gợi cảm
+M	可爱	cute	dễ thương
+M	甜美	sweet	ngọt ngào
+M	哥特	gothic	gothic
+M	朋克	punk	punk
+M	洛丽塔	lolita	lolita
+M	和风	Japanese-style	phong cách Nhật
+M	中式	Chinese-style	kiểu Trung Hoa
+M	冬季	winter	mùa đông
+M	夏季	summer	mùa hè
+M	春季	spring	mùa xuân
+M	秋季	autumn	mùa thu
+M	春夏	spring-summer	xuân hè
+M	秋冬	autumn-winter	thu đông
+M	温泉	hot-spring	suối nước nóng
+M	七夕	Tanabata	Tanabata
+M	圣诞	Christmas	Giáng sinh
+M	改良	modernized	cách tân
+M	素色	plain	trơn
+M	竞技	competition	thi đấu
+M	冲浪	surf	lướt sóng
+M	家务	housework	việc nhà
+M	料理	cooking	nấu ăn
+M	求职	job-interview	phỏng vấn xin việc
+M	教师	teacher	giáo viên
+M	前台	receptionist	lễ tân
+M	毕业	graduation	tốt nghiệp
+M	祭典	festival	lễ hội
+M	振袖	furisode	furisode
+M	竖领	stand-collar	cổ đứng
+M	交领	cross-collar	cổ chéo
+M	对襟	center-opening	vạt đối khâm
+M	饰边	trim	viền trang trí
+N	包	bag	túi
+N	凉鞋	sandals	xăng đan
+N	靴子	boots	bốt
+N	短袜	socks	tất ngắn
+N	长筒丝袜	stockings	tất dài
+N	高跟鞋	heels	giày cao gót
+N	开衫	cardigan	áo cardigan
+N	项链	necklace	vòng cổ
+N	迷你包	mini bag	túi mini
+N	连裤袜	tights	quần tất
+N	礼帽	hat	mũ
+N	颈链	choker	vòng cổ choker
+N	发箍	headband	băng đô
+N	夹克	jacket	áo khoác jacket
+N	乐福鞋	loafers	giày lười
+N	吊带衫	camisole	áo hai dây
+N	衬衫	shirt	áo sơ mi
+N	短裤	shorts	quần short
+N	托特包	tote bag	túi tote
+N	运动鞋	sneakers	giày thể thao
+N	墨镜	sunglasses	kính râm
+N	浅口单鞋	pumps	giày búp bê
+N	针织衫	knit top	áo len
+N	手套	gloves	găng tay
+N	腰带	belt	thắt lưng
+N	大衣	coat	áo khoác dài
+N	内衣套装	lingerie set	bộ nội y
+N	内衣	lingerie	nội y
+N	丝巾	scarf	khăn lụa
+N	饰品	accessories	phụ kiện
+N	配饰	accessories	phụ kiện
+N	半身裙	skirt	chân váy
+N	迷你裙	mini skirt	váy ngắn
+N	连衣裙	dress	váy liền
+N	牛仔裤	jeans	quần jeans
+N	裤	pants	quần
+N	长裤	trousers	quần dài
+N	阔腿裤	wide-leg pants	quần ống rộng
+N	裙裤	skort	quần váy
+N	毛衣	sweater	áo len
+N	女衫	blouse	áo kiểu nữ
+N	罩衫	smock top	áo choàng mỏng
+N	马甲	vest	áo gi-lê
+N	风衣	trench coat	áo măng tô
+N	外套	coat	áo khoác
+N	羽绒服	down jacket	áo phao
+N	围巾	scarf	khăn quàng
+N	围裙	apron	tạp dề
+N	披肩	shawl	khăn choàng
+N	披风	cape	áo choàng
+N	文胸	bra	áo ngực
+N	内裤	panties	quần lót
+N	睡衣	pajamas	đồ ngủ
+N	浴袍	bathrobe	áo choàng tắm
+N	浴衣	yukata	yukata
+N	和服	kimono	kimono
+N	泳衣	swimsuit	đồ bơi
+N	泳装	swimsuit	đồ bơi
+N	比基尼	bikini	bikini
+N	婚纱	wedding dress	váy cưới
+N	婚服	wedding attire	lễ phục cưới
+N	旗袍	qipao	sườn xám
+N	领带	tie	cà vạt
+N	贝雷帽	beret	mũ nồi
+N	针织帽	knit hat	mũ len
+N	帽	hat	mũ
+N	帽子	hat	mũ
+N	过膝袜	over-knee socks	tất qua gối
+N	袜	socks	tất
+N	鞋	shoes	giày
+N	紧身衣	bodysuit	đồ bó
+N	胸衣	corset	áo corset
+N	束腰胸衣	corset	áo corset
+N	制服	uniform	đồng phục
+N	军装	military uniform	quân phục
+N	水手服	sailor uniform	đồng phục thủy thủ
+N	西装	suit	vest công sở
+N	正装	formal suit	trang phục công sở
+N	套装	set	bộ
+N	长裙	long dress	váy dài
+N	短裙	short skirt	váy ngắn
+N	上衣	top	áo
+N	背心	tank top	áo ba lỗ
+N	T恤	T-shirt	áo phông
+N	卫衣	hoodie	áo nỉ
+N	吊带裙	slip dress	váy hai dây
+N	耳环	earrings	khuyên tai
+N	手链	bracelet	vòng tay
+N	手镯	bangle	vòng tay
+N	戒指	ring	nhẫn
+N	发夹	hair clip	kẹp tóc
+N	发饰	hair accessory	phụ kiện tóc
+N	眼镜	glasses	kính
+N	耳罩	earmuffs	bịt tai
+N	伞	umbrella	ô
+N	手提包	handbag	túi xách
+N	单肩包	shoulder bag	túi đeo vai
+N	斜挎包	crossbody bag	túi đeo chéo
+N	手拿包	clutch	ví cầm tay
+N	背包	backpack	ba lô
+N	袜套	leg warmers	tất ống
+N	腿环	garter	nịt đùi
+N	吊袜带	garter belt	đai nịt tất
+N	睡袍	nightgown	váy ngủ
+N	长衫	long robe	áo dài
+N	毛毯	blanket	chăn
+N	裹毛毯	wrapped blanket	quấn chăn

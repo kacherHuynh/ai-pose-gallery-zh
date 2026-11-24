@@ -27,6 +27,7 @@ import { poseImagePath, poseThumbPath } from '@/lib/recipeImages'
 import { cn } from '@/lib/utils'
 import { useStudio } from '@/store/studioStore'
 import type { PoseGroup, PoseItem } from '@/types/gallery'
+import { matchesQuery } from '@/i18n/translator'
 
 export const Route = createFileRoute('/poses')({
   staticData: { title: '动作姿势库' },
@@ -77,7 +78,7 @@ function PosesPage() {
       if (category !== 'all' && g.category !== category) return false
       return g.items.some((it) => {
         if (angle && it.角度 !== angle) return false
-        if (q && !`${it.姿势名称} ${it.id} ${it.分类} ${it.姿势编号} ${it.体系}`.toLowerCase().includes(q)) return false
+        if (q && !matchesQuery(`${it.姿势名称} ${it.id} ${it.分类} ${it.姿势编号} ${it.体系} ${it.检索 || ''}`, q)) return false
         return true
       })
     })
@@ -88,7 +89,7 @@ function PosesPage() {
       if (activeLine && it.体系 !== activeLine) return false
       if (category !== 'all' && it.分类 !== category) return false
       if (angle && it.角度 !== angle) return false
-      if (q && !`${it.姿势名称} ${it.id} ${it.分类} ${it.姿势编号} ${it.体系}`.toLowerCase().includes(q)) return false
+      if (q && !matchesQuery(`${it.姿势名称} ${it.id} ${it.分类} ${it.姿势编号} ${it.体系} ${it.检索 || ''}`, q)) return false
       return true
     })
   }, [baseItems, activeLine, category, angle, q])

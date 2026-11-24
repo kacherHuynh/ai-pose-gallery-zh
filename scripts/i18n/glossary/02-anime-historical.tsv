@@ -1,0 +1,394 @@
+M	元	Yuan dynasty	thời Nguyên
+M	唐	Tang dynasty	thời Đường
+M	商	Shang dynasty	thời Thương
+M	宋	Song dynasty	thời Tống
+M	明	Ming dynasty	thời Minh
+M	汉	Han dynasty	thời Hán
+M	清	Qing dynasty	thời Thanh
+M	魏晋	Wei-Jin	thời Ngụy Tấn
+M	民国	Republic-era	thời Dân Quốc
+M	唐制	Tang-style	kiểu Đường
+M	明制	Ming-style	kiểu Minh
+M	奇幻	fantasy	giả tưởng
+N	女仆	maid	hầu gái
+N	女装	womenswear	đồ nữ
+N	男装	menswear	đồ nam
+N	宋裤	Song trousers	quần thời Tống
+N	护甲	armor	giáp
+N	曳撒	yisa robe	áo yisa
+N	比甲	bijia vest	áo bijia
+N	氅衣	changyi overcoat	áo choàng changyi
+N	玄裙	dark skirt	váy đen huyền
+N	甚平	jinbei	jinbei
+M	皂缘	black-trimmed	viền đen
+N	直裰	zhiduo robe	áo zhiduo
+N	红裙	red skirt	váy đỏ
+N	蔽膝	bixi knee-cover	tấm che gối bixi
+N	袄裙	aoqun jacket-skirt	áo váy aoqun
+N	褙子	beizi jacket	áo beizi
+N	襕衫	lanshan robe	áo lanshan
+N	道袍	Taoist robe	áo đạo bào
+N	中山装	Zhongshan suit	áo Tôn Trung Sơn
+N	装	outfit	trang phục
+N	服	outfit	trang phục
+N	装束	attire	trang phục
+N	穿搭	outfit	phối đồ
+N	侦探	detective	thám tử
+N	修女	nun	nữ tu
+N	健身	fitness	tập gym
+N	公主	princess	công chúa
+N	剑道	kendo	kendo
+N	厨师	chef	đầu bếp
+N	圆领袍	round-collar robe	áo bào cổ tròn
+N	大袖衫	wide-sleeve robe	áo tay rộng
+N	天使	angel	thiên thần
+N	女王	queen	nữ hoàng
+N	妖精	fairy	tiên
+N	宇航	astronaut	phi hành gia
+N	宇航员	astronaut	phi hành gia
+N	小黑裙	little black dress	váy đen nhỏ
+N	巫女	shrine maiden	vu nữ (miko)
+N	弓道	kyudo archery	cung đạo kyudo
+N	忍者	ninja	ninja
+N	女忍者	kunoichi	nữ ninja
+N	拳击	boxing	quyền anh
+N	排球	volleyball	bóng chuyền
+N	棒球	baseball	bóng chày
+N	武士	samurai	samurai
+N	法师	mage	pháp sư
+N	魔法师	wizard	phù thủy
+N	海军	navy	hải quân
+N	海盗	pirate	cướp biển
+N	滑雪	ski	trượt tuyết
+N	潜水	diving	lặn
+N	狐妖	fox spirit	hồ ly
+N	瑜伽	yoga	yoga
+N	百迭裙	baidie pleated skirt	váy xếp baidie
+N	盗贼	thief	đạo tặc
+N	篮球	basketball	bóng rổ
+N	网球	tennis	quần vợt
+N	街舞	street dance	nhảy đường phố
+N	质孙服	zhisun robe	áo zhisun
+N	足球	soccer	bóng đá
+N	跑步	running	chạy bộ
+N	间色裙	striped-panel skirt	váy sọc gian sắc
+N	间谍	spy	điệp viên
+N	马术	equestrian	cưỡi ngựa
+N	马面裙	mamian skirt	váy mã diện
+N	骑行	cycling	đạp xe
+N	龙娘	dragon girl	cô gái rồng
+N	上衣下裳	upper garment and lower skirt	áo trên váy dưới
+N	短衫	short jacket	áo ngắn
+N	短袄	short padded jacket	áo bông ngắn
+N	仿生人	android	người máy sinh học
+N	啦啦队	cheerleader	cổ vũ
+N	补服	rank-badge robe	áo bổ phục
+N	圣骑士	paladin	thánh kỵ sĩ
+N	堕天使	fallen angel	thiên thần sa ngã
+N	女武神	valkyrie	nữ thần chiến binh
+N	女管家	housekeeper	quản gia nữ
+N	女骑士	female knight	nữ kỵ sĩ
+N	骑士	knight	kỵ sĩ
+N	女魔王	demon queen	nữ ma vương
+N	播音员	announcer	phát thanh viên
+N	深衣	shenyi robe	áo thâm y
+M	曲裾	curved-hem	vạt cong
+M	直裾	straight-hem	vạt thẳng
+N	袴装	hakama outfit	trang phục hakama
+N	袴	hakama	hakama
+N	汉女	Han woman	thiếu nữ Hán
+N	消防员	firefighter	lính cứu hỏa
+N	狐耳	fox-ear	tai cáo
+N	狼兽人	wolf beastfolk	thú nhân sói
+N	猫兽人	cat beastfolk	thú nhân mèo
+N	甜点师	pastry chef	thợ làm bánh
+N	电竞	esports	thể thao điện tử
+N	队服	team uniform	đồng phục đội
+N	空手道	karate	karate
+N	长袄	long padded coat	áo bông dài
+N	维修	repair	sửa chữa
+N	工装	workwear	đồ bảo hộ lao động
+N	美人鱼	mermaid	nàng tiên cá
+N	羽毛球	badminton	cầu lông
+N	芭蕾	ballet	ba lê
+N	蓬裙	tutu skirt	váy xòe
+N	褒衣博带	loose robe with wide sash	áo rộng đai lớn
+N	视觉系	visual-kei	visual kei
+N	警察	police	cảnh sát
+N	调酒师	bartender	bartender
+M	赏樱	cherry-blossom viewing	ngắm hoa anh đào
+M	轻装	light	nhẹ
+N	勇者	hero	dũng sĩ
+N	冷帽	beanie	mũ len trùm
+N	斗篷	cloak	áo choàng
+N	长袍	robe	áo choàng dài
+N	马褂	magua jacket	áo magua
+N	雇佣兵	mercenary	lính đánh thuê
+M	雨季	rainy-season	mùa mưa
+N	雨衣	raincoat	áo mưa
+N	礼服	gown	lễ phục
+N	飞行员	pilot	phi công
+N	魔像使	golem master	người điều khiển golem
+N	魔术师	magician	ảo thuật gia
+M	鱼尾	mermaid-cut	đuôi cá
+N	襦裙	ruqun	áo váy nhu quần
+M	齐胸	chest-high	cạp ngực
+N	T恤	T-shirt	áo phông
+M	中式	Chinese-style	kiểu Trung Hoa
+N	地雷系	jirai-kei	jirai kei
+N	乘务员	flight attendant	tiếp viên
+N	居家服	loungewear	đồ mặc nhà
+N	居家	home	ở nhà
+N	体操	gymnastics	thể dục dụng cụ
+M	侧系带	side-tie	buộc dây bên hông
+M	倒大袖	flared-sleeve	tay loe
+N	偶像	idol	thần tượng
+N	舞台	stage	sân khấu
+N	演出服	performance costume	trang phục biểu diễn
+N	舞台装	stage costume	trang phục sân khấu
+M	风	style	phong cách
+N	军事	military	quân sự
+N	科幻	sci-fi	khoa học viễn tưởng
+M	分体	two-piece	hai mảnh
+N	田径服	track uniform	đồ điền kinh
+N	眼镜	glasses	kính
+N	运动服	sportswear	đồ thể thao
+N	包臀裙	pencil skirt	váy bút chì
+N	医生	doctor	bác sĩ
+N	白大褂	lab coat	áo blouse trắng
+M	古典	classic	cổ điển
+N	洛丽塔	lolita	lolita
+N	吟游诗人	bard	người hát rong
+N	靴子	boots	bốt
+M	和风	Japanese-style	phong cách Nhật
+N	剑士	swordsman	kiếm sĩ
+N	乐队	band	ban nhạc
+N	长礼服	long gown	lễ phục dài
+N	精灵	elf	tinh linh
+N	圣诞老人	Santa	ông già Noel
+N	驯鹿	reindeer	tuần lộc
+N	裙	skirt	váy
+M	夏日祭	summer-festival	lễ hội mùa hè
+M	大正	Taisho-era	thời Taisho
+N	连帽衫	hoodie	áo hoodie
+M	层叠	tiered	nhiều tầng
+N	睡衣	pajamas	đồ ngủ
+N	战士	warrior	chiến binh
+N	幼师	kindergarten teacher	giáo viên mầm non
+M	成人礼	coming-of-age	lễ trưởng thành
+M	成套	matching	đồng bộ
+M	成熟	mature	trưởng thành
+N	新闻主播	news anchor	người dẫn bản tin
+N	机甲少女	mecha girl	cô gái mecha
+N	少女	girl	thiếu nữ
+N	杂裾垂髾服	zaju chuishao robe	áo tạp cư thùy tiêu
+N	衬衫裙	shirt dress	váy sơ mi
+M	校园	school	học đường
+M	梦幻	dreamy	mộng mơ
+M	横条纹	horizontal-striped	kẻ ngang
+N	高领衫	turtleneck top	áo cổ lọ
+N	歌手	singer	ca sĩ
+N	水手	sailor	thủy thủ
+N	草帽	straw hat	mũ rơm
+N	派对	party	tiệc
+M	浅蓝	light-blue	xanh nhạt
+M	量产风	ryousan-kei	ryousan kei
+N	游泳	swimming	bơi lội
+N	炼金术师	alchemist	nhà giả kim
+M	烟火节	fireworks-festival	lễ hội pháo hoa
+N	背带裙	pinafore dress	váy yếm
+N	背带裤	overalls	quần yếm
+M	牛角扣	toggle	cúc sừng
+N	特种部队	special forces	đặc nhiệm
+N	猫耳	cat-ear	tai mèo
+M	现代	modern	hiện đại
+N	魔女	witch	phù thủy
+N	护士服	nurse uniform	đồng phục y tá
+N	护士	nurse	y tá
+N	秘书	secretary	thư ký
+N	女警	policewoman	nữ cảnh sát
+N	晚礼服	evening gown	váy dạ hội
+M	经典	classic	cổ điển
+M	羊羔绒	sherpa	lông cừu nhân tạo
+N	卫裤	sweatpants	quần nỉ
+M	自然	natural	tự nhiên
+M	艺术	artistic	nghệ thuật
+M	节分	Setsubun	Setsubun
+N	鬼怪	oni	quỷ oni
+N	节庆	festival	lễ hội
+N	季节	season	mùa
+N	花店店员	florist	nhân viên tiệm hoa
+N	店员	shop clerk	nhân viên cửa hàng
+N	花样滑冰	figure skating	trượt băng nghệ thuật
+N	花魁	oiran	oiran
+N	西裤	dress pants	quần âu
+M	西部	Western	miền Tây
+N	枪手	gunslinger	tay súng
+M	访问着	houmongi	houmongi
+M	赛博朋克	cyberpunk	cyberpunk
+N	赛车女郎	race queen	người mẫu đua xe
+M	连帽款	hooded	có mũ
+N	通勤	commute	công sở
+N	职场	office	công sở
+N	配送员	delivery staff	nhân viên giao hàng
+N	长曲棍球	lacrosse	bóng vợt
+M	七分	cropped	lửng
+M	防晒	sun-protective	chống nắng
+N	冲浪服	surf suit	đồ lướt sóng
+M	阴丹士林蓝	indanthrene blue	xanh indanthrene
+N	雪场	ski slope	khu trượt tuyết
+M	露腹	midriff-baring	hở bụng
+N	短上衣	crop top	áo croptop
+N	高尔夫	golf	golf
+N	魅魔	succubus	succubus
+N	魔法少女	magical girl	cô gái phép thuật
+N	鸡尾酒	cocktail	cocktail
+M	麻花	cable-knit	vặn thừng
+N	黑白	black-and-white	đen trắng
+N	黑粉	black-and-pink	đen hồng
+N	黑魔法师	dark mage	hắc pháp sư
+N	鼓手	drummer	tay trống
+N	万圣节	Halloween	Halloween
+N	南瓜	pumpkin	bí ngô
+N	猫咪	cat	mèo
+N	便利店店员	convenience-store clerk	nhân viên cửa hàng tiện lợi
+N	修道院	convent	tu viện
+N	兔子	bunny	thỏ
+N	连体睡衣	onesie	đồ ngủ liền thân
+N	入学典礼	school entrance ceremony	lễ nhập học
+N	板甲	plate armor	giáp tấm
+M	全身	full	toàn thân
+M	蓬蓬	puffy	phồng xòe
+N	农场	farm	nông trại
+N	连体工装	coveralls	đồ bảo hộ liền thân
+N	切斯特	Chesterfield	Chesterfield
+N	长大衣	long coat	áo khoác dài
+M	初阶	novice	sơ cấp
+N	冒险者	adventurer	nhà thám hiểm
+N	双肩包	backpack	ba lô
+N	堆堆袜	slouch socks	tất lười xù
+M	卷袖	rolled-sleeve	xắn tay
+M	及地	floor-length	dài chấm đất
+N	吉他手	guitarist	tay guitar
+N	咖啡店店员	café staff	nhân viên quán cà phê
+N	图书管理员	librarian	thủ thư
+N	婚宴宾客	wedding guest	khách dự tiệc cưới
+M	学院风	preppy	phong cách học viện
+M	街头	street	đường phố
+N	工牌	ID badge	thẻ nhân viên
+N	新人	newcomer	nhân viên mới
+N	工装裤	cargo pants	quần túi hộp
+N	卫衣	sweatshirt	áo nỉ
+M	摇粒绒	fleece	lông cừu nỉ
+M	文化祭	school-festival	lễ hội văn hóa
+M	新年	New Year	năm mới
+M	盛装	formal	trang trọng
+M	日式	Japanese	kiểu Nhật
+N	新娘	bride	cô dâu
+N	毕业典礼	graduation ceremony	lễ tốt nghiệp
+N	太阳镜	sunglasses	kính mát
+N	沙滩裙	beach skirt	váy đi biển
+N	游泳圈	swim ring	phao bơi
+N	渔夫帽	bucket hat	mũ tai bèo
+N	西装裤装	pantsuit	bộ vest quần
+N	牧师	priest	mục sư
+N	治疗师	healer	thầy chữa trị
+N	狙击手	sniper	xạ thủ bắn tỉa
+N	伪装服	camouflage suit	đồ ngụy trang
+N	独角兽	unicorn	kỳ lân
+N	兔女郎	bunny girl	bunny girl
+N	医护	medical	y tế
+N	裤装	pants outfit	bộ quần
+N	金鱼	goldfish	cá vàng
+N	皮衣	leather jacket	áo da
+N	研究员	researcher	nghiên cứu viên
+N	睡裙	nightdress	váy ngủ
+M	睡醒	just-woke-up	vừa ngủ dậy
+N	空军	air force	không quân
+M	立领	stand-collar	cổ đứng
+N	学生	student	học sinh
+N	弓箭手	archer	cung thủ
+N	夜场	nightclub	hộp đêm
+M	细带	thin-strap	dây mảnh
+N	连体泳装	one-piece swimsuit	đồ bơi liền thân
+N	野战	field	dã chiến
+N	军装	military uniform	quân phục
+N	牛仔裤	jeans	quần jeans
+N	运动会	sports day	hội thao
+N	体操服	gym uniform	đồ thể dục
+M	外露	untucked	bỏ ngoài
+N	科幻	sci-fi	khoa học viễn tưởng
+N	夹克	jacket	áo khoác jacket
+N	机甲	mecha	mecha
+N	运动	sports	thể thao
+N	针织	knit	len dệt kim
+N	铁路职员	railway staff	nhân viên đường sắt
+N	银行职员	bank clerk	nhân viên ngân hàng
+M	雪天	snowy-day	ngày tuyết
+M	撑伞	with umbrella	che ô
+N	餐厅服务员	waitress	nhân viên phục vụ nhà hàng
+N	魔法学院	magic academy	học viện phép thuật
+N	军官	officer	sĩ quan
+N	职场套装	office suit	bộ đồ công sở
+N	僵尸	zombie	xác sống
+N	吸血鬼	vampire	ma cà rồng
+N	小恶魔	little devil	tiểu quỷ
+N	木乃伊	mummy	xác ướp
+M	五分	knee-length	lửng gối
+N	兔女郎咖啡店	bunny café	quán cà phê bunny
+N	公文包	briefcase	cặp tài liệu
+N	家政	housekeeping	giúp việc
+N	连帽外套	hooded jacket	áo khoác có mũ
+N	蛋糕	cake	bánh kem
+M	多层	multi-layer	nhiều lớp
+N	女儿节	Hinamatsuri	lễ Hinamatsuri
+N	十二单	junihitoe	junihitoe
+N	打底裤	leggings	quần legging
+N	长上衣	long top	áo dài
+N	参拜	shrine visit	viếng đền
+M	暖桌旁	kotatsu-side	bên bàn sưởi kotatsu
+N	机动兵器	mobile weapon	cơ giáp
+N	驾驶服	pilot suit	đồ phi công
+M	泳池	poolside	hồ bơi
+N	洗脸	face-washing	rửa mặt
+N	发带	hairband	băng đô
+N	三角	triangle	tam giác
+N	领带	tie	cà vạt
+N	珠地衫	polo shirt	áo polo
+N	生日	birthday	sinh nhật
+N	战斗服	combat suit	bộ chiến đấu
+M	绷带	bandaged	băng bó
+N	病娇	yandere	yandere
+N	职业	profession	nghề nghiệp
+N	角色扮演	cosplay	hóa trang
+M	背心式	tank-style	kiểu ba lỗ
+M	牵牛花	morning-glory	hoa bìm bìm
+N	蝴蝶领结	bow tie	nơ bướm
+N	牛仔女孩	cowgirl	cô gái cao bồi
+N	亚文化	subculture	tiểu văn hóa
+M	赏枫	maple-viewing	ngắm lá phong
+N	披肩	shawl	khăn choàng
+N	通勤裙	office skirt	váy công sở
+N	除夕	New Year's Eve	đêm Giao thừa
+M	高开叉	high-slit	xẻ cao
+N	比基尼	bikini	bikini
+M	酷感	cool	cá tính
+N	MA-1飞行夹克	MA-1 flight jacket	áo khoác phi công MA-1
+M	双马尾	twin-tail	tóc hai bím
+N	口罩	face mask	khẩu trang
+N	角色装	character costume	trang phục nhân vật
+M	地下	underground	underground
+N	裙装	dress	váy
+N	情人节	Valentine's	Valentine
+N	巧克力	chocolate	sô-cô-la
+N	海边	seaside	bãi biển
+M	私立	private	tư thục
+N	书包	school bag	cặp sách
+N	西装外套	blazer	áo blazer
+N	运动外套	track jacket	áo khoác thể thao
+N	制服裙	uniform skirt	váy đồng phục
+M	度假	resort	nghỉ dưỡng
+N	三角短裤	briefs	quần chip
+N	骑行短裤	bike shorts	quần đạp xe
+N	运动三角短裤	sports briefs	quần chip thể thao
+N	戏服	costume	trang phục
