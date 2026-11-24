@@ -29,6 +29,7 @@ import { COSTUME_SOURCES, SHISEI_SOURCE_URLS, costumeSourceId, selectCostumeView
 import { CHARADB_NOTICE_URL } from '@/lib/charadb'
 import { useStudio } from '@/store/studioStore'
 import type { CostumeItem } from '@/types/gallery'
+import { matchesQuery } from '@/i18n/translator'
 
 export const Route = createFileRoute('/costumes')({
   staticData: { title: '服装穿搭库' },
@@ -100,7 +101,7 @@ function CostumesPage() {
     return baseCostumes.filter((item) => {
       if (activeCategory && item.分类 !== activeCategory) return false
       if (activeTag !== 'all' && !(item.标签 || []).includes(activeTag)) return false
-      if (q && !item.检索.toLowerCase().includes(q)) return false
+      if (q && !matchesQuery(item.检索, q)) return false
       return true
     })
   }, [baseCostumes, activeCategory, activeTag, q])
