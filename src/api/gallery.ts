@@ -1,4 +1,5 @@
 import { queryOptions } from '@tanstack/react-query'
+import { ensureDataDict, searchAliases } from '@/i18n/translator'
 import type { CostumeItem, PortraitItem, PoseGroup, PoseItem } from '@/types/gallery'
 
 export const ANGLES = ['正面', '俯视', '仰视', '侧面', '斜侧'] as const
@@ -81,6 +82,10 @@ export const posesQuery = queryOptions({
     const res = await fetch('/data/pose-zh.json')
     if (!res.ok) throw new Error(`加载姿势数据失败: HTTP ${res.status}`)
     const data = (await res.json()) as PoseItem[]
+    await ensureDataDict()
+    for (const item of data) {
+      item.检索 = `${item.检索 || ''} ${searchAliases(item.姿势名称, item.分类, item.体系, item.角度)}`
+    }
     return buildPoseGroups(data)
   },
 })
@@ -94,7 +99,12 @@ export const costumesQuery = queryOptions({
       if (!res.ok) throw new Error(`加载服装数据失败: HTTP ${res.status}`)
       return (await res.json()) as CostumeItem[]
     }))
-    return lists.flat()
+    await ensureDataDict()
+    const items = lists.flat()
+    for (const item of items) {
+      item.检索 = `${item.检索 || ''} ${searchAliases(item.服装名称, item.分类, item.一级分类, ...(item.标签 || []))}`
+    }
+    return items
   },
 })
 
@@ -104,6 +114,11 @@ export const portraitsQuery = queryOptions({
   queryFn: async () => {
     const res = await fetch('/data/portrait-zh.json')
     if (!res.ok) throw new Error(`加载人像数据失败: HTTP ${res.status}`)
-    return (await res.json()) as PortraitItem[]
+    const items = (await res.json()) as PortraitItem[]
+    await ensureDataDict()
+    for (const item of items) {
+      item.检索 = `${item.检索 || ''} ${searchAliases(item.标题, item.发型名称, item.发长, item.分区)}`
+    }
+    return items
   },
 })
