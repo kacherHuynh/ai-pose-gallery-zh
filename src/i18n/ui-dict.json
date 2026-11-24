@@ -1,0 +1,2818 @@
+{
+"+ 选人像": [
+"+ Chọn chân dung",
+"+ Portrait"
+],
+"+ 选姿势": [
+"+ Chọn tư thế",
+"+ Pose"
+],
+"+ 选服装": [
+"+ Chọn trang phục",
+"+ Costume"
+],
+"1. 人像": [
+"1. Chân dung",
+"1. Portrait"
+],
+"1. 仅供学习与合法艺术创作（严禁违法）：": [
+"1. Chỉ dùng cho học tập và sáng tác nghệ thuật hợp pháp (nghiêm cấm vi phạm pháp luật): ",
+"1. For learning and lawful art only (no illegal use): "
+],
+"1. 参考图组合": [
+"1. Tổ hợp ảnh tham chiếu",
+"1. Reference set"
+],
+"11,568 本地高清图": [
+"11.568 ảnh HD cục bộ",
+"11,568 local HD images"
+],
+"18+ 完整模式": [
+"Chế độ đầy đủ 18+",
+"Full 18+ mode"
+],
+"2. NSFW（18+）敏感内容提示：": [
+"2. Cảnh báo nội dung nhạy cảm NSFW (18+): ",
+"2. NSFW (18+) content notice: "
+],
+"2. 服装": [
+"2. Trang phục",
+"2. Costume"
+],
+"2. 模型与参数": [
+"2. Model & tham số",
+"2. Model & parameters"
+],
+"2.5D 游戏原画立绘": [
+"Artwork game 2.5D",
+"2.5D game character art"
+],
+"3. 姿势 + 附图": [
+"3. Tư thế + ảnh phụ",
+"3. Pose + extras"
+],
+"3. 提示词 (Prompt)": [
+"3. Prompt",
+"3. Prompt"
+],
+"3. 隐私保护与使用者责任归属：": [
+"3. Bảo vệ quyền riêng tư & trách nhiệm người dùng: ",
+"3. Privacy & user responsibility: "
+],
+"3D 次世代角色渲染": [
+"Render nhân vật 3D next-gen",
+"Next-gen 3D character render"
+],
+"3D 潮玩手办质感": [
+"Figure đồ chơi 3D",
+"3D collectible figure"
+],
+"3D 素体白模": [
+"Mô hình trắng 3D",
+"3D mannequin"
+],
+"440 套二次元服装源自": [
+"440 bộ trang phục anime đến từ",
+"440 anime costumes come from"
+],
+"AI 合成台": [
+"Bàn ghép AI",
+"AI Studio"
+],
+"AI 合成台，已选 {} 项参考图": [
+"Bàn ghép AI, đã chọn {} ảnh tham chiếu",
+"AI studio, {} references selected"
+],
+"AI 角色三合一参考台": [
+"Bàn tham chiếu nhân vật AI 3 trong 1",
+"AI 3-in-1 character reference desk"
+],
+"AI 角色参考库": [
+"Thư viện tham chiếu nhân vật AI",
+"AI Character Reference Library"
+],
+"AI 角色合成台": [
+"Bàn ghép nhân vật AI",
+"AI Character Studio"
+],
+"API Key（可选，本地留空）": [
+"API key (tùy chọn, để trống khi chạy cục bộ)",
+"API key (optional, leave empty for local)"
+],
+"API 接口配置": [
+"Cấu hình API",
+"API settings"
+],
+"API 配置": [
+"Cấu hình API",
+"API settings"
+],
+"CC0 1.0 公共领域（可商用）": [
+"CC0 1.0 phạm vi công cộng (được dùng thương mại)",
+"CC0 1.0 public domain (commercial use OK)"
+],
+"CC0 1.0 协议": [
+"giấy phép CC0 1.0",
+"CC0 1.0 license"
+],
+"CC0 协议 · 51 款发型": [
+"Giấy phép CC0 · 51 kiểu tóc",
+"CC0 license · 51 hairstyles"
+],
+"ComfyUI API 工作流 JSON": [
+"JSON workflow API của ComfyUI",
+"ComfyUI API workflow JSON"
+],
+"ComfyUI 地址 (Base URL)": [
+"Địa chỉ ComfyUI (Base URL)",
+"ComfyUI address (Base URL)"
+],
+"ComfyUI 工作流": [
+"Workflow ComfyUI",
+"ComfyUI workflow"
+],
+"ComfyUI 开始执行任务…": [
+"ComfyUI bắt đầu chạy tác vụ…",
+"ComfyUI started the task…"
+],
+"ComfyUI 正在执行任务…": [
+"ComfyUI đang chạy tác vụ…",
+"ComfyUI is running the task…"
+],
+"Flash 不使用负向提示词。": [
+"Flash không dùng prompt phủ định.",
+"Flash doesn't use a negative prompt."
+],
+"Gemini 协议模式": [
+"Chế độ giao thức Gemini",
+"Gemini protocol mode"
+],
+"HTTP {}，请检查 ComfyUI 服务与代理": [
+"HTTP {}, hãy kiểm tra dịch vụ ComfyUI và proxy",
+"HTTP {}; check the ComfyUI service and proxy"
+],
+"HTTP 可达": [
+"HTTP truy cập được",
+"HTTP reachable"
+],
+"HTTP 连接成功：{}": [
+"Kết nối HTTP thành công: {}",
+"HTTP connected: {}"
+],
+"JSON 解析失败: {}": [
+"Phân tích JSON thất bại: {}",
+"JSON parse error: {}"
+],
+"KSampler 采样器": [
+"Bộ lấy mẫu KSampler",
+"KSampler"
+],
+"PixAI 仅支持三张独立参考图，请使用各槽位的上传按钮": [
+"PixAI chỉ hỗ trợ ba ảnh tham chiếu riêng, hãy dùng nút tải lên của từng ô",
+"PixAI only supports three separate references; use each slot's upload button"
+],
+"PixAI 任务编号": [
+"Mã tác vụ PixAI",
+"PixAI task ID"
+],
+"PixAI 排队中…": [
+"PixAI đang xếp hàng…",
+"PixAI queued…"
+],
+"PixAI 查询中断，正在退避重试；任务记录已保留": [
+"Truy vấn PixAI bị gián đoạn, đang chờ rồi thử lại; đã giữ bản ghi tác vụ",
+"PixAI query interrupted, backing off and retrying; task record kept"
+],
+"PixAI 生成中…": [
+"PixAI đang tạo…",
+"PixAI generating…"
+],
+"PixAI 生成完成，正在下载并保存图片…": [
+"PixAI đã tạo xong, đang tải và lưu ảnh…",
+"PixAI finished; downloading and saving the image…"
+],
+"PixAI 需要人像、服装、姿势各一张，按此顺序上传，不发送拼图。": [
+"PixAI cần mỗi loại chân dung, trang phục, tư thế một ảnh, tải lên theo thứ tự này, không gửi ảnh ghép.",
+"PixAI needs one portrait, costume and pose image, uploaded in that order; no collage is sent."
+],
+"Qwen Image 2.1 条件缓存": [
+"Bộ đệm điều kiện Qwen Image 2.1",
+"Qwen Image 2.1 conditioning cache"
+],
+"Qwen Image Edit 2509 三图合成（人像+服装+姿势）· 推荐": [
+"Qwen Image Edit 2509 ghép 3 ảnh (chân dung + trang phục + tư thế) · Khuyến nghị",
+"Qwen Image Edit 2509 three-image blend (portrait + costume + pose) · Recommended"
+],
+"Qwen Image Edit 2509 双图姿态迁移（人物+姿势）": [
+"Qwen Image Edit 2509 chuyển tư thế 2 ảnh (nhân vật + tư thế)",
+"Qwen Image Edit 2509 two-image pose transfer (person + pose)"
+],
+"Qwen-Image 2.1 三图合成（需另装 2.1 模型）": [
+"Qwen-Image 2.1 ghép 3 ảnh (cần cài thêm model 2.1)",
+"Qwen-Image 2.1 three-image blend (requires the 2.1 model)"
+],
+"Qwen-Image 2.1 双图姿态迁移（需另装 2.1 模型）": [
+"Qwen-Image 2.1 chuyển tư thế 2 ảnh (cần cài thêm model 2.1)",
+"Qwen-Image 2.1 two-image pose transfer (requires the 2.1 model)"
+],
+"Seed（留空为随机）": [
+"Seed (để trống là ngẫu nhiên)",
+"Seed (empty = random)"
+],
+"Shisei / wquguru · CC0 · AI 生成服装参考，并非专业复原。": [
+"Shisei / wquguru · CC0 · Tham chiếu trang phục do AI tạo, không phải phục dựng chuyên nghiệp.",
+"Shisei / wquguru · CC0 · AI-generated costume reference, not a professional reconstruction."
+],
+"Shisei · 中国历代": [
+"Shisei · Trang phục Trung Hoa qua các triều đại",
+"Shisei · Historical Chinese"
+],
+"Shisei 来源与许可": [
+"Nguồn & giấy phép Shisei",
+"Shisei source & license"
+],
+"Top10 热门": [
+"Top 10 nổi bật",
+"Top 10 popular"
+],
+"VAE 解码": [
+"Giải mã VAE",
+"VAE decode"
+],
+"WebSocket 已连接": [
+"WebSocket đã kết nối",
+"WebSocket connected"
+],
+"WebSocket 暂不可用，HTTP 保底跟踪": [
+"WebSocket tạm không dùng được, theo dõi dự phòng qua HTTP",
+"WebSocket unavailable; HTTP fallback tracking"
+],
+"WebSocket 连接中": [
+"Đang kết nối WebSocket",
+"WebSocket connecting"
+],
+"WebSocket 重连中，HTTP 保底跟踪": [
+"WebSocket đang kết nối lại, theo dõi dự phòng qua HTTP",
+"WebSocket reconnecting; HTTP fallback tracking"
+],
+"[ComfyUI] {}": [
+"[ComfyUI] {}",
+"[ComfyUI] {}"
+],
+"[ComfyUI] {} 拒绝访问 (HTTP {})，请检查 API Key / 鉴权设置": [
+"[ComfyUI] {} từ chối truy cập (HTTP {}), hãy kiểm tra API key / cấu hình xác thực",
+"[ComfyUI] {} denied access (HTTP {}); check the API key / auth settings"
+],
+"[ComfyUI] {} 的响应不是 ComfyUI 格式，请检查地址": [
+"[ComfyUI] Phản hồi từ {} không đúng định dạng ComfyUI, hãy kiểm tra địa chỉ",
+"[ComfyUI] The response from {} isn't ComfyUI format; check the address"
+],
+"[ComfyUI] {}/system_stats 返回 HTTP {}，该地址可能不是 ComfyUI": [
+"[ComfyUI] {}/system_stats trả về HTTP {}, địa chỉ này có thể không phải ComfyUI",
+"[ComfyUI] {}/system_stats returned HTTP {}; this may not be ComfyUI"
+],
+"[ComfyUI] {}节点映射已失效，请重新识别或选择节点": [
+"[ComfyUI] Gán node {} không còn hợp lệ, hãy nhận diện lại hoặc chọn node",
+"[ComfyUI] {} node mapping is stale; re-detect or choose nodes"
+],
+"[ComfyUI] 上传参考图失败 (HTTP {})：{}": [
+"[ComfyUI] Tải ảnh tham chiếu lên thất bại (HTTP {}): {}",
+"[ComfyUI] Reference upload failed (HTTP {}): {}"
+],
+"[ComfyUI] 任务已提交，但保存恢复记录失败。请保留任务编号后恢复，勿重复提交。": [
+"[ComfyUI] Đã gửi tác vụ nhưng lưu bản ghi khôi phục thất bại. Hãy giữ mã tác vụ để khôi phục, đừng gửi lại.",
+"[ComfyUI] Task submitted but saving the recovery record failed. Keep the task ID to resume; don't resubmit."
+],
+"[ComfyUI] 任务已被中断（可能在 ComfyUI 界面中点击了取消）": [
+"[ComfyUI] Tác vụ đã bị ngắt (có thể đã bấm hủy trong giao diện ComfyUI)",
+"[ComfyUI] Task interrupted (Cancel may have been clicked in ComfyUI)"
+],
+"[ComfyUI] 工作流与本机不匹配：": [
+"[ComfyUI] Workflow không khớp với máy: ",
+"[ComfyUI] Workflow doesn't match this machine: "
+],
+"[ComfyUI] 工作流完成但没有输出图片，请检查 SaveImage 节点。": [
+"[ComfyUI] Workflow chạy xong nhưng không có ảnh đầu ra, hãy kiểm tra node SaveImage.",
+"[ComfyUI] Workflow finished without an output image; check the SaveImage node."
+],
+"[ComfyUI] 工作流执行出错：{}": [
+"[ComfyUI] Lỗi khi chạy workflow: {}",
+"[ComfyUI] Workflow execution error: {}"
+],
+"[ComfyUI] 已停止跟踪，后台任务继续执行，可恢复查看。": [
+"[ComfyUI] Đã dừng theo dõi, tác vụ nền vẫn chạy, có thể khôi phục để xem.",
+"[ComfyUI] Stopped tracking; the task keeps running in the background and can be resumed."
+],
+"[ComfyUI] 执行出错（节点 {}「{}」）：{}": [
+"[ComfyUI] Lỗi khi chạy (node {} «{}»): {}",
+"[ComfyUI] Execution error (node {} \"{}\"): {}"
+],
+"[ComfyUI] 提交工作流失败：": [
+"[ComfyUI] Gửi workflow thất bại: ",
+"[ComfyUI] Failed to submit workflow: "
+],
+"[ComfyUI] 提交结果未知：服务端可能已接受任务，请先检查队列与历史记录，勿直接重复提交。": [
+"[ComfyUI] Không rõ kết quả gửi: máy chủ có thể đã nhận tác vụ, hãy kiểm tra hàng đợi và lịch sử trước, đừng gửi lại ngay.",
+"[ComfyUI] Submission result unknown: the server may have accepted the task. Check the queue and history before resubmitting."
+],
+"[ComfyUI] 无法读取节点「{}」的定义（HTTP {}），请检查连接地址、访问令牌和网关接口权限。": [
+"[ComfyUI] Không đọc được định nghĩa node «{}» (HTTP {}), hãy kiểm tra địa chỉ kết nối, token truy cập và quyền của gateway.",
+"[ComfyUI] Can't read the definition of node \"{}\" (HTTP {}); check the address, access token and gateway permissions."
+],
+"[ComfyUI] 无法连接 {}。可能原因：": [
+"[ComfyUI] Không kết nối được {}. Nguyên nhân có thể: ",
+"[ComfyUI] Cannot connect to {}. Possible causes: "
+],
+"[ComfyUI] 显存不足（节点 {}「{}」）。已请求 ComfyUI 释放显存。": [
+"[ComfyUI] Thiếu VRAM (node {} «{}»). Đã yêu cầu ComfyUI giải phóng VRAM.",
+"[ComfyUI] Out of VRAM (node {} \"{}\"). Asked ComfyUI to free VRAM."
+],
+"[ComfyUI] 本地代理 {} 无法连通 ComfyUI：请确认 ComfyUI 已启动，且端口与启动网页时的 COMFYUI_URL 一致（默认 http://127.0.0.1:8000）。": [
+"[ComfyUI] Proxy cục bộ {} không kết nối được ComfyUI: hãy chắc chắn ComfyUI đang chạy và cổng khớp với COMFYUI_URL khi khởi động trang (mặc định http://127.0.0.1:8000).",
+"[ComfyUI] Local proxy {} can't reach ComfyUI: make sure it's running and the port matches COMFYUI_URL used to start the site (default http://127.0.0.1:8000)."
+],
+"[ComfyUI] 生成结果不是有效图片，可恢复后重新下载。": [
+"[ComfyUI] Kết quả không phải ảnh hợp lệ, có thể khôi phục rồi tải lại.",
+"[ComfyUI] The result isn't a valid image; resume to download again."
+],
+"[ComfyUI] 等待结果超时，后台任务继续执行，可恢复查看。": [
+"[ComfyUI] Chờ kết quả quá lâu, tác vụ nền vẫn chạy, có thể khôi phục để xem.",
+"[ComfyUI] Timed out waiting; the task keeps running in the background and can be resumed."
+],
+"[ComfyUI] 访问被拒绝 (HTTP {})，请检查凭据和来源后恢复任务。": [
+"[ComfyUI] Bị từ chối truy cập (HTTP {}), hãy kiểm tra thông tin xác thực và nguồn rồi khôi phục tác vụ.",
+"[ComfyUI] Access denied (HTTP {}); check credentials and origin, then resume the task."
+],
+"[ComfyUI] 请先选择或上传：{}": [
+"[ComfyUI] Hãy chọn hoặc tải lên trước: {}",
+"[ComfyUI] Choose or upload first: {}"
+],
+"[ComfyUI] 请求 {} 超时：ComfyUI 可能正忙或无响应，请查看 ComfyUI 终端日志。": [
+"[ComfyUI] Yêu cầu {} quá thời gian: ComfyUI có thể đang bận hoặc không phản hồi, hãy xem log terminal của ComfyUI.",
+"[ComfyUI] Request to {} timed out: ComfyUI may be busy or unresponsive. Check the ComfyUI terminal log."
+],
+"[ComfyUI] 跟踪任务失败，可恢复查看。": [
+"[ComfyUI] Theo dõi tác vụ thất bại, có thể khôi phục để xem.",
+"[ComfyUI] Tracking failed; you can resume to check."
+],
+"[PixAI] Flash 请使用模型默认模式": [
+"[PixAI] Với Flash hãy dùng chế độ mặc định của model",
+"[PixAI] Use the model's default mode with Flash"
+],
+"[PixAI] HTTP {}：{}": [
+"[PixAI] HTTP {}: {}",
+"[PixAI] HTTP {}: {}"
+],
+"[PixAI] Seed 必须为安全整数": [
+"[PixAI] Seed phải là số nguyên an toàn",
+"[PixAI] Seed must be a safe integer"
+],
+"[PixAI] {}上传没有返回 media ID": [
+"[PixAI] Tải lên {} không trả về media ID",
+"[PixAI] Uploading {} returned no media ID"
+],
+"[PixAI] {}读取失败：{}": [
+"[PixAI] Đọc {} thất bại: {}",
+"[PixAI] Failed to read {}: {}"
+],
+"[PixAI] 下载结果不是有效图片；请恢复任务重试": [
+"[PixAI] Kết quả tải về không phải ảnh hợp lệ; hãy khôi phục tác vụ để thử lại",
+"[PixAI] The download isn't a valid image; resume the task to retry"
+],
+"[PixAI] 任务 {} {}：{}": [
+"[PixAI] Tác vụ {} {}: {}",
+"[PixAI] Task {} {}: {}"
+],
+"[PixAI] 任务 {} 完成但没有有效图片：{}": [
+"[PixAI] Tác vụ {} xong nhưng không có ảnh hợp lệ: {}",
+"[PixAI] Task {} finished with no valid image: {}"
+],
+"[PixAI] 任务已创建但记录保存失败。任务编号：{}；请保留编号并恢复，勿重复提交。": [
+"[PixAI] Đã tạo tác vụ nhưng lưu bản ghi thất bại. Mã tác vụ: {}; hãy giữ mã để khôi phục, đừng gửi lại.",
+"[PixAI] Task created but saving the record failed. Task ID: {}; keep it to resume and don't resubmit."
+],
+"[PixAI] 图片下载失败 HTTP {}；可恢复任务 {}": [
+"[PixAI] Tải ảnh thất bại HTTP {}; có thể khôi phục tác vụ {}",
+"[PixAI] Image download failed HTTP {}; task {} can be resumed"
+],
+"[PixAI] 图片保存失败，请恢复任务重试": [
+"[PixAI] Lưu ảnh thất bại, hãy khôi phục tác vụ để thử lại",
+"[PixAI] Saving the image failed; resume the task to retry"
+],
+"[PixAI] 必须按人像、服装、姿势上传三图": [
+"[PixAI] Phải tải lên ba ảnh theo thứ tự chân dung, trang phục, tư thế",
+"[PixAI] Upload three images in order: portrait, costume, pose"
+],
+"[PixAI] 提交结果未知：可能已创建任务并扣除额度。请在 PixAI 核对任务，勿重复提交。": [
+"[PixAI] Không rõ kết quả gửi: có thể đã tạo tác vụ và trừ credit. Hãy kiểm tra trên PixAI, đừng gửi lại.",
+"[PixAI] Submission result unknown: a task may have been created and credits charged. Check on PixAI; don't resubmit."
+],
+"[PixAI] 提示词须为 1–10000 字符": [
+"[PixAI] Prompt phải từ 1–10000 ký tự",
+"[PixAI] Prompt must be 1–10000 characters"
+],
+"[PixAI] 最多支持三图，请先移除附加参考图": [
+"[PixAI] Tối đa ba ảnh, hãy gỡ ảnh tham chiếu bổ sung trước",
+"[PixAI] Max three images; remove extra references first"
+],
+"[PixAI] 未知任务状态 {}，任务 {} 已保留": [
+"[PixAI] Trạng thái tác vụ không rõ {}, đã giữ tác vụ {}",
+"[PixAI] Unknown task status {}; task {} kept"
+],
+"[PixAI] 查询超时；任务 {} 已保留，可稍后恢复": [
+"[PixAI] Truy vấn quá thời gian; đã giữ tác vụ {}, có thể khôi phục sau",
+"[PixAI] Query timed out; task {} kept, resume later"
+],
+"[PixAI] 结果下载中断；任务 {} 已保留，可恢复重试": [
+"[PixAI] Tải kết quả bị gián đoạn; đã giữ tác vụ {}, có thể khôi phục để thử lại",
+"[PixAI] Result download interrupted; task {} kept, resume to retry"
+],
+"[PixAI] 请补齐人像、服装、姿势三张参考图": [
+"[PixAI] Hãy bổ sung đủ ba ảnh chân dung, trang phục, tư thế",
+"[PixAI] Add all three references: portrait, costume and pose"
+],
+"[PixAI] 请选择 Tsubaki.3 或 Tsubaki.3 Flash": [
+"[PixAI] Hãy chọn Tsubaki.3 hoặc Tsubaki.3 Flash",
+"[PixAI] Choose Tsubaki.3 or Tsubaki.3 Flash"
+],
+"[PixAI] 请配置 API Key": [
+"[PixAI] Hãy cấu hình API key",
+"[PixAI] Set your API key"
+],
+"[PixAI] 负向提示词不能超过 4096 字符": [
+"[PixAI] Prompt phủ định không được quá 4096 ký tự",
+"[PixAI] Negative prompt can't exceed 4096 characters"
+],
+"[PixAI] 首版仅支持官方地址 https://api.pixai.art": [
+"[PixAI] Bản đầu chỉ hỗ trợ địa chỉ chính thức https://api.pixai.art",
+"[PixAI] This version only supports the official https://api.pixai.art"
+],
+"auto (组图)": [
+"auto (nhiều ảnh)",
+"auto (set)"
+],
+"disabled (单张)": [
+"disabled (một ảnh)",
+"disabled (single)"
+],
+"ep-2026xxxx 或模型 ID": [
+"ep-2026xxxx hoặc model ID",
+"ep-2026xxxx or model ID"
+],
+"qwen_image_edit_2509（由工作流决定）": [
+"qwen_image_edit_2509 (do workflow quyết định)",
+"qwen_image_edit_2509 (set by workflow)"
+],
+"useTheme 必须在 ThemeProvider 内使用": [
+"useTheme phải được dùng bên trong ThemeProvider",
+"useTheme must be used inside ThemeProvider"
+],
+"wquguru 的 AI 生成服装参考，CC0；标注来源。并非专业历史服饰复原。": [
+"Tham chiếu trang phục do AI tạo của wquguru, CC0; ghi rõ nguồn. Không phải phục dựng trang phục lịch sử chuyên nghiệp.",
+"AI-generated costume references by wquguru, CC0; credit the source. Not a professional historical reconstruction."
+],
+"{} 套": [
+"{} bộ",
+"{} sets"
+],
+"{} 已配置": [
+"{} đã cấu hình",
+"{} configured"
+],
+"{} 张": [
+"{} ảnh",
+"{} images"
+],
+"{} 张 · 白模/深度": [
+"{} ảnh · mô hình trắng/độ sâu",
+"{} images · mannequin/depth"
+],
+"{} 的值不在本机可选列表中{}——通常是模型文件不存在或路径不同": [
+"Giá trị của {} không nằm trong danh sách trên máy{} — thường do thiếu tệp model hoặc khác đường dẫn",
+"The value of {} isn't in the local options{} — usually a missing model file or different path"
+],
+"{} 组": [
+"{} nhóm",
+"{} groups"
+],
+"{} 连接配置": [
+"Cấu hình kết nối {}",
+"{} connection settings"
+],
+"{}% 参考图": [
+"{}% ảnh tham chiếu",
+"{}% reference"
+],
+"{}加载失败，可选择其他参考或稍后重试。": [
+"{} tải thất bại, hãy chọn tham chiếu khác hoặc thử lại sau.",
+"{} failed to load. Choose another reference or try again later."
+],
+"{}换一个": [
+"Đổi {} khác",
+"Shuffle {}"
+],
+"{}换样范围": [
+"Phạm vi đổi {}",
+"{} shuffle scope"
+],
+"{}校验失败": [
+"{}kiểm tra hợp lệ thất bại",
+"{}validation failed"
+],
+"{}（{}）": [
+"{} ({})",
+"{} ({})"
+],
+"{}；共同缩放和移动": [
+"{}; thu phóng và di chuyển cùng nhau",
+"{}; zoom and pan together"
+],
+"{}；加减键缩放，方向键移动，0 键复位": [
+"{}; phím +/- để thu phóng, phím mũi tên để di chuyển, phím 0 để đặt lại",
+"{}; +/- to zoom, arrow keys to pan, 0 to reset"
+],
+"· 显存 {} GB": [
+"· VRAM {} GB",
+"· VRAM {} GB"
+],
+"· 深度图": [
+"· Depth map",
+"· Depth map"
+],
+"• 二次元服装来源：": [
+"• Nguồn trang phục anime: ",
+"• Anime costume source: "
+],
+"• 使用与分发限制：": [
+"• Giới hạn sử dụng & phân phối: ",
+"• Usage & distribution limits: "
+],
+"• 原作者版权归属：": [
+"• Bản quyền thuộc tác giả gốc: ",
+"• Original copyright: "
+],
+"① ComfyUI 未启动，或地址/端口不对（Desktop 版默认 8000，便携版默认 8188）": [
+"① ComfyUI chưa chạy hoặc sai địa chỉ/cổng (bản Desktop mặc định 8000, bản portable 8188)",
+"① ComfyUI isn't running, or the address/port is wrong (Desktop default 8000, portable 8188)"
+],
+"② 跨域 (CORS) 被拦截：ComfyUI 启动参数需包含 --enable-cors-header \"{}\"（该参数只能填一个来源）": [
+"② Bị chặn CORS: tham số khởi động ComfyUI cần có --enable-cors-header \"{}\" (chỉ điền được một nguồn)",
+"② Blocked by CORS: start ComfyUI with --enable-cors-header \"{}\" (only one origin allowed)"
+],
+"③ 浏览器「本地网络访问」权限被拒绝：请点击地址栏左侧图标允许访问本地设备": [
+"③ Trình duyệt từ chối quyền «truy cập mạng cục bộ»: bấm biểu tượng bên trái thanh địa chỉ để cho phép truy cập thiết bị cục bộ",
+"③ The browser denied \"local network access\": click the icon left of the address bar to allow local devices"
+],
+"④ HTTPS 页面不能访问局域网 HTTP 地址（混合内容限制），请改用 127.0.0.1 或本地运行本站": [
+"④ Trang HTTPS không truy cập được địa chỉ HTTP trong mạng LAN (giới hạn mixed content); hãy dùng 127.0.0.1 hoặc chạy trang này cục bộ",
+"④ HTTPS pages can't reach LAN HTTP addresses (mixed content); use 127.0.0.1 or run this site locally"
+],
+"⚠️ 免责声明：": [
+"⚠️ Miễn trừ trách nhiệm: ",
+"⚠️ Disclaimer: "
+],
+"。严禁使用本工具生成、制作或传播任何违反法律法规、淫秽色情、暴力违禁内容，严禁未经他人明确授权上传真实人物照片进行换脸或深伪合成（Deepfake）等侵犯他人肖像权、隐私权与名誉权的行为。": [
+". Nghiêm cấm dùng công cụ này để tạo, sản xuất hoặc phát tán bất kỳ nội dung vi phạm pháp luật, khiêu dâm đồi trụy, bạo lực hay bị cấm; nghiêm cấm tải ảnh người thật lên để ghép mặt hoặc tạo deepfake khi chưa được người đó cho phép rõ ràng, hay mọi hành vi xâm phạm quyền hình ảnh, quyền riêng tư và danh dự của người khác.",
+". Do not use this tool to create, produce or distribute any illegal, obscene, violent or prohibited content. Do not upload photos of real people for face swaps or deepfakes without their explicit consent, or otherwise infringe anyone's image, privacy or reputation rights."
+],
+"。可能原因：": [
+". Nguyên nhân có thể: ",
+". Possible causes: "
+],
+"。这些槽位已绑定工作流节点。": [
+". Các ô này đã gán với node của workflow.",
+". These slots are bound to workflow nodes."
+],
+"たき AI · CharaDB": [
+"Taki AI · CharaDB",
+"Taki AI · CharaDB"
+],
+"ギア (@giaaibusi)": [
+"Gia (@giaaibusi)",
+"Gia (@giaaibusi)"
+],
+"ギア · 写实": [
+"Gia · Ảnh thực",
+"Gia · Realistic"
+],
+"ギア · 动漫": [
+"Gia · Anime",
+"Gia · Anime"
+],
+"ギア · 现实服装": [
+"Gia · Trang phục thực",
+"Gia · Realistic outfits"
+],
+"ギア（@giaaibusi）": [
+"Gia (@giaaibusi)",
+"Gia (@giaaibusi)"
+],
+"ギア（@giaaibusi）AI 服装参考。": [
+"Tham chiếu trang phục AI của Gia (@giaaibusi).",
+"AI costume references by Gia (@giaaibusi)."
+],
+"三合一拼图节点 (可选)": [
+"Node ảnh ghép 3 trong 1 (tùy chọn)",
+"3-in-1 collage node (optional)"
+],
+"三大参考图库": [
+"Ba thư viện tham chiếu",
+"Reference libraries"
+],
+"上一张图片": [
+"Ảnh trước",
+"Previous image"
+],
+"上传": [
+"Tải lên",
+"Upload"
+],
+"上传人像参考图": [
+"Tải lên ảnh chân dung",
+"Upload portrait reference"
+],
+"上传图片": [
+"Tải ảnh lên",
+"Upload image"
+],
+"上传姿势参考图": [
+"Tải lên ảnh tư thế",
+"Upload pose reference"
+],
+"上传服装参考图": [
+"Tải lên ảnh trang phục",
+"Upload costume reference"
+],
+"下一张图片": [
+"Ảnh sau",
+"Next image"
+],
+"下载": [
+"Tải xuống",
+"Download"
+],
+"下载原图": [
+"Tải ảnh gốc",
+"Download original"
+],
+"下载图片": [
+"Tải ảnh",
+"Download image"
+],
+"下载拼图": [
+"Tải ảnh ghép",
+"Download collage"
+],
+"下载高清原图": [
+"Tải ảnh gốc",
+"Download original"
+],
+"不绑定": [
+"Không gán",
+"Not bound"
+],
+"严禁将本图库原始图片打包转售或用于付费分发": [
+"nghiêm cấm đóng gói bán lại hoặc phân phối có thu phí ảnh gốc của thư viện",
+"but bundling, reselling or paid distribution of the original images is strictly prohibited"
+],
+"中文单品与色彩标签": [
+"Thẻ món đồ & màu sắc",
+"Item & color tags"
+],
+"人像": [
+"Chân dung",
+"Portrait"
+],
+"人像 · {}": [
+"Chân dung · {}",
+"Portrait · {}"
+],
+"人像图节点 (LoadImage)": [
+"Node ảnh chân dung (LoadImage)",
+"Portrait image node (LoadImage)"
+],
+"人像库遵循": [
+"Thư viện chân dung theo",
+"The portrait library uses the"
+],
+"人像颜值 (Portrait)": [
+"Chân dung (Portrait)",
+"Portraits"
+],
+"人像颜值库": [
+"Thư viện chân dung",
+"Portrait library"
+],
+"人像颜值库 (1,499)": [
+"Thư viện chân dung (1.499)",
+"Portrait library (1,499)"
+],
+"仅供 AI 绘画学习与合法艺术创作使用，严禁用于任何违法违规、色情传播或侵害他人肖像权（如未经授权的真人换脸）等用途": [
+"chỉ dùng cho học vẽ AI và sáng tác nghệ thuật hợp pháp, nghiêm cấm dùng cho mục đích trái pháp luật, phát tán khiêu dâm hoặc xâm phạm quyền hình ảnh (như ghép mặt người thật khi chưa được phép)",
+"for AI art learning and lawful creation only; illegal use, spreading pornography, or infringing image rights (e.g. unauthorized face swaps of real people) is strictly prohibited"
+],
+"仅供个人学习、人体结构研究、插画构图参考与技术交流使用": [
+"chỉ dùng cho học tập cá nhân, nghiên cứu cấu trúc cơ thể, tham khảo bố cục minh họa và trao đổi kỹ thuật",
+"is only for personal study, anatomy research, illustration composition reference and technical exchange"
+],
+"仅供个人学习与合法艺术创作使用，严禁用于任何违法违规或侵害他人肖像权用途": [
+"chỉ dùng cho học tập cá nhân và sáng tác nghệ thuật hợp pháp, nghiêm cấm dùng cho mục đích trái pháp luật hoặc xâm phạm quyền hình ảnh của người khác",
+"for personal study and lawful art only; any illegal use or infringement of others' image rights is strictly prohibited"
+],
+"仅供参考，须遵守原作者限制；请阅读来源条款。": [
+"Chỉ để tham khảo, phải tuân theo giới hạn của tác giả gốc; hãy đọc điều khoản nguồn.",
+"For reference only; follow the original author's restrictions and read the source terms."
+],
+"仅发单图序列": [
+"Chỉ gửi từng ảnh",
+"Send single images only"
+],
+"仅收录元数据，图片由ギア原站提供；使用请遵守原站说明。": [
+"Chỉ lưu metadata, ảnh do trang gốc của Gia cung cấp; khi dùng hãy tuân theo hướng dẫn của trang gốc.",
+"Metadata only; images are served by Gia's original site. Follow that site's terms."
+],
+"仍可查看生成结果。": [
+"Bạn vẫn có thể xem kết quả.",
+"You can still view the result."
+],
+"任务 {}：刷新后查询原任务，不重复提交。": [
+"Tác vụ {}: sau khi tải lại sẽ truy vấn tác vụ gốc, không gửi lại.",
+"Task {}: after reload the original task is queried, not resubmitted."
+],
+"任务失败记录未能清除，请放弃记录后重试": [
+"Không xóa được bản ghi tác vụ lỗi, hãy bỏ bản ghi rồi thử lại",
+"Couldn't clear the failed task record; discard it and retry"
+],
+"任务状态查询暂时失败，正在重试…": [
+"Truy vấn trạng thái tạm thất bại, đang thử lại…",
+"Status check failed temporarily, retrying…"
+],
+"任务编号格式无效": [
+"Mã tác vụ sai định dạng",
+"Invalid task ID format"
+],
+"任务记录清除失败": [
+"Xóa bản ghi tác vụ thất bại",
+"Failed to clear the task record"
+],
+"传递图片 URL（免上传文件，推荐）": [
+"Gửi URL ảnh (không cần tải tệp lên, khuyến nghị)",
+"Send image URLs (no upload, recommended)"
+],
+"低分辨率，多余手指，扭曲": [
+"độ phân giải thấp, thừa ngón tay, méo mó",
+"low resolution, extra fingers, distorted"
+],
+"体系": [
+"Hệ",
+"System"
+],
+"使用指南与免责声明": [
+"Hướng dẫn sử dụng & miễn trừ trách nhiệm",
+"Guide & disclaimer"
+],
+"使用说明与免责声明": [
+"Hướng dẫn & miễn trừ trách nhiệm",
+"Guide & disclaimer"
+],
+"保存生成结果": [
+"Lưu kết quả",
+"Save result"
+],
+"保存配置": [
+"Lưu cấu hình",
+"Save settings"
+],
+"保持安全模式": [
+"Giữ chế độ an toàn",
+"Keep safe mode"
+],
+"保留工作流原提示词": [
+"Giữ prompt gốc của workflow",
+"Keep the workflow's prompt"
+],
+"免责声明": [
+"Miễn trừ trách nhiệm",
+"Disclaimer"
+],
+"免责声明与合规使用规范（必读）": [
+"Miễn trừ trách nhiệm & quy tắc sử dụng (bắt buộc đọc)",
+"Disclaimer & acceptable use (must read)"
+],
+"全局请求选项": [
+"Tùy chọn yêu cầu chung",
+"Global request options"
+],
+"全部": [
+"Tất cả",
+"All"
+],
+"全部 (": [
+"Tất cả (",
+"All ("
+],
+"全部 51 款日系发型": [
+"Tất cả 51 kiểu tóc Nhật",
+"All 51 Japanese hairstyles"
+],
+"全部人像 (": [
+"Tất cả chân dung (",
+"All portraits ("
+],
+"全部动作分类": [
+"Tất cả danh mục động tác",
+"All pose categories"
+],
+"全部单品与颜色标签": [
+"Tất cả thẻ món đồ & màu",
+"All item & color tags"
+],
+"全部恢复默认": [
+"Khôi phục tất cả mặc định",
+"Reset all to default"
+],
+"全部来源": [
+"Tất cả nguồn",
+"All sources"
+],
+"全部穿搭 (": [
+"Tất cả trang phục (",
+"All outfits ("
+],
+"全部视角": [
+"Tất cả góc nhìn",
+"All angles"
+],
+"公开分享。新增二次元服装来自 たき AI · CharaDB，仅收录元数据，图片从来源站点读取，各素材适用各自条件。默认已开启「安全模式 (SFW)」隐藏 18+ 敏感分类，未满 18 周岁请勿关闭。本工具与素材": [
+"chia sẻ công khai. Trang phục anime bổ sung đến từ Taki AI · CharaDB, chỉ lưu metadata, ảnh đọc từ trang nguồn, mỗi tư liệu áp dụng điều kiện riêng. «Chế độ an toàn (SFW)» được bật mặc định để ẩn danh mục 18+; người dưới 18 tuổi vui lòng không tắt. Công cụ và tư liệu này",
+". The added anime costumes come from Taki AI · CharaDB (metadata only; images load from the source site), and each asset follows its own terms. \"Safe mode (SFW)\" is on by default to hide 18+ categories; do not turn it off if you are under 18. This tool and its assets are"
+],
+"公开站点，著作权归原作者所有。本仓库仅为中文本地化翻译整理与前端工程学习存档，不对原始图片主张任何所有权。": [
+"qua trang công khai; bản quyền thuộc về tác giả gốc. Repo này chỉ là bản bản địa hóa, sắp xếp và lưu trữ để học kỹ thuật front-end, không tuyên bố quyền sở hữu với ảnh gốc.",
+"'s public site; copyright belongs to the original author. This repo is only a localization and front-end learning archive and claims no ownership of the original images."
+],
+"共同放大": [
+"Cùng phóng to",
+"Zoom both in"
+],
+"共同缩小": [
+"Cùng thu nhỏ",
+"Zoom both out"
+],
+"共同缩放控制": [
+"Điều khiển thu phóng chung",
+"Shared zoom controls"
+],
+"关闭": [
+"Tắt",
+"Off"
+],
+"关闭「安全模式 (SFW)」后，图库将显示包含成人向艺术参考的敏感分类：": [
+"Khi tắt «Chế độ an toàn (SFW)», thư viện sẽ hiện các danh mục nhạy cảm có tham chiếu nghệ thuật dành cho người lớn: ",
+"Turning off \"Safe mode (SFW)\" shows sensitive categories with adult-oriented art references: "
+],
+"关闭参考对比": [
+"Đóng so sánh",
+"Close comparison"
+],
+"关闭图片预览": [
+"Đóng xem ảnh",
+"Close image preview"
+],
+"关闭此通知": [
+"Đóng thông báo này",
+"Close this notification"
+],
+"其他可调参数（": [
+"Tham số khác (",
+"Other parameters ("
+],
+"写实人像写真": [
+"Chân dung chân thực",
+"Photoreal portrait"
+],
+"分组": [
+"Theo nhóm",
+"Grouped"
+],
+"分辨率": [
+"Độ phân giải",
+"Resolution"
+],
+"分辨率 (imageSize)": [
+"Độ phân giải (imageSize)",
+"Resolution (imageSize)"
+],
+"切换主题": [
+"Đổi giao diện",
+"Toggle theme"
+],
+"切换素体白模或深度图": [
+"Chuyển giữa mô hình trắng và depth map",
+"Switch mannequin / depth map"
+],
+"切换视角（← / →）": [
+"Đổi góc nhìn (← / →)",
+"Switch angle (← / →)"
+],
+"切换页面不会中断当前任务": [
+"Chuyển trang không làm gián đoạn tác vụ hiện tại",
+"Switching pages won't interrupt the current task"
+],
+"删除失败": [
+"Xóa thất bại",
+"Delete failed"
+],
+"删除此记录": [
+"Xóa bản ghi này",
+"Delete this record"
+],
+"前往来源原图": [
+"Ảnh gốc tại nguồn",
+"Open at source"
+],
+"加入角色配方": [
+"Thêm vào công thức",
+"Add to recipe"
+],
+"加入角色配方（{}）": [
+"Thêm vào công thức ({})",
+"Add to recipe ({})"
+],
+"加入配方": [
+"Thêm vào công thức",
+"Add to recipe"
+],
+"加载 Qwen Image 2.1 VAE": [
+"Tải VAE Qwen Image 2.1",
+"Load Qwen Image 2.1 VAE"
+],
+"加载 Qwen Image 2.1 基础模型": [
+"Tải model nền Qwen Image 2.1",
+"Load Qwen Image 2.1 base model"
+],
+"加载 Qwen3-VL 8B 编码器": [
+"Tải bộ mã hóa Qwen3-VL 8B",
+"Load Qwen3-VL 8B encoder"
+],
+"加载人像数据失败: HTTP {}": [
+"Không tải được dữ liệu chân dung: HTTP {}",
+"Failed to load portrait data: HTTP {}"
+],
+"加载图片失败: {}": [
+"Tải ảnh thất bại: {}",
+"Failed to load image: {}"
+],
+"加载姿势数据失败: HTTP {}": [
+"Không tải được dữ liệu tư thế: HTTP {}",
+"Failed to load pose data: HTTP {}"
+],
+"加载姿态编辑 LoRA 适配器 (Qwen 2.1 专用)": [
+"Tải LoRA chỉnh tư thế (riêng cho Qwen 2.1)",
+"Load pose-edit LoRA adapter (Qwen 2.1 only)"
+],
+"加载更多（剩余": [
+"Tải thêm (còn",
+"Load more ("
+],
+"加载服装数据失败: HTTP {}": [
+"Không tải được dữ liệu trang phục: HTTP {}",
+"Failed to load costume data: HTTP {}"
+],
+"动作分类": [
+"Danh mục động tác",
+"Pose category"
+],
+"动作姿势 (Pose)": [
+"Tư thế (Pose)",
+"Poses"
+],
+"动作姿势库": [
+"Thư viện tư thế",
+"Pose library"
+],
+"动作姿势库 (1,439)": [
+"Thư viện tư thế (1.439)",
+"Pose library (1,439)"
+],
+"单品/颜色标签": [
+"Thẻ món đồ/màu",
+"Item/color tag"
+],
+"单张": [
+"Từng ảnh",
+"Single"
+],
+"历史记录保存失败": [
+"Lưu lịch sử thất bại",
+"Failed to save history"
+],
+"原仓库": [
+"Repo gốc",
+"Original repo"
+],
+"原作者站点": [
+"Trang của tác giả",
+"Author's site"
+],
+"原作者说明": [
+"ghi chú của tác giả",
+"the author's notes"
+],
+"原图尺寸": [
+"Kích thước ảnh gốc",
+"Original size"
+],
+"参数超出范围{}": [
+"Tham số vượt phạm vi{}",
+"Parameter out of range{}"
+],
+"参考占比": [
+"Tỉ lệ tham chiếu",
+"Reference share"
+],
+"参考图": [
+"Ảnh tham chiếu",
+"Reference image"
+],
+"参考图 #": [
+"Ảnh tham chiếu #",
+"Reference #"
+],
+"参考图 · {}": [
+"Ảnh tham chiếu · {}",
+"Reference · {}"
+],
+"参考图传参方式": [
+"Cách gửi ảnh tham chiếu",
+"Reference image transfer"
+],
+"参考图拼合卡片": [
+"Thẻ ảnh ghép tham chiếu",
+"Reference collage card"
+],
+"参考图显示比例": [
+"Tỉ lệ hiển thị ảnh tham chiếu",
+"Reference display ratio"
+],
+"参考已更改，本次换样已取消": [
+"Tham chiếu đã thay đổi, lần đổi này bị hủy",
+"References changed; this shuffle was cancelled"
+],
+"参考拼图": [
+"Ảnh ghép tham chiếu",
+"Reference collage"
+],
+"参考来自这次生成保存的提交快照。两图共同缩放与移动，按原比例显示。": [
+"Tham chiếu lấy từ bản chụp đã lưu khi gửi lần tạo này. Hai ảnh phóng to và di chuyển cùng nhau, hiển thị theo tỉ lệ gốc.",
+"References come from the snapshot saved with this generation. Both images zoom and pan together at their original ratio."
+],
+"参考还原度 (input_fidelity)": [
+"Độ trung thành với tham chiếu (input_fidelity)",
+"Reference fidelity (input_fidelity)"
+],
+"反向提示词 (negative_prompt)": [
+"Prompt phủ định (negative_prompt)",
+"Negative prompt (negative_prompt)"
+],
+"发型款式": [
+"Kiểu tóc",
+"Hairstyle"
+],
+"可用模式取决于模型和账号，不支持时会显示接口错误": [
+"Chế độ khả dụng tùy model và tài khoản; nếu không hỗ trợ sẽ hiện lỗi API",
+"Available modes depend on the model and account; unsupported ones return an API error"
+],
+"可选择完整角色设定集，人物身份与外观以此图为准。": [
+"Có thể chọn một bảng thiết kế nhân vật đầy đủ; danh tính và ngoại hình nhân vật sẽ theo ảnh này.",
+"You can choose a full character sheet; identity and appearance follow this image."
+],
+"合成 (": [
+"Ghép (",
+"Generate ("
+],
+"合法使用": [
+"Sử dụng hợp pháp",
+"Lawful use"
+],
+"同时发送拼图": [
+"Gửi cả ảnh ghép",
+"Also send the collage"
+],
+"同类": [
+"Cùng loại",
+"Same type"
+],
+"响应不是 ComfyUI system_stats 格式，请检查地址": [
+"Phản hồi không đúng định dạng system_stats của ComfyUI, hãy kiểm tra địa chỉ",
+"Response isn't ComfyUI system_stats format; check the address"
+],
+"因使用者违规使用或不当传播所产生的一切法律责任，均由使用者本人独立承担，与本项目及维护者无关。": [
+"Mọi trách nhiệm pháp lý phát sinh do người dùng sử dụng sai quy định hoặc phát tán không đúng đều do người dùng tự chịu, không liên quan đến dự án và người duy trì.",
+"Users bear sole legal responsibility for any misuse or improper distribution; the project and its maintainers are not liable."
+],
+"固定工作流种子": [
+"Giữ seed của workflow",
+"Keep workflow seed"
+],
+"图1：人像参考 (Portrait)": [
+"Ảnh 1: Tham chiếu chân dung (Portrait)",
+"Image 1: Portrait reference (Portrait)"
+],
+"图1：人物/服装参考 (Person)": [
+"Ảnh 1: Tham chiếu nhân vật/trang phục (Person)",
+"Image 1: Person/costume reference (Person)"
+],
+"图1：姿势参考图 (Pose)": [
+"Ảnh 1: Tham chiếu tư thế (Pose)",
+"Image 1: Pose reference (Pose)"
+],
+"图2：人物/服装参考图 (Person)": [
+"Ảnh 2: Tham chiếu nhân vật/trang phục (Person)",
+"Image 2: Person/costume reference (Person)"
+],
+"图2：姿势参考 (Pose)": [
+"Ảnh 2: Tham chiếu tư thế (Pose)",
+"Image 2: Pose reference (Pose)"
+],
+"图2：服装参考 (Costume)": [
+"Ảnh 2: Tham chiếu trang phục (Costume)",
+"Image 2: Costume reference (Costume)"
+],
+"图3：姿势参考 (Pose)": [
+"Ảnh 3: Tham chiếu tư thế (Pose)",
+"Image 3: Pose reference (Pose)"
+],
+"图{} · 人像": [
+"Ảnh {} · Chân dung",
+"Image {} · Portrait"
+],
+"图{} · 姿势": [
+"Ảnh {} · Tư thế",
+"Image {} · Pose"
+],
+"图{} · 服装": [
+"Ảnh {} · Trang phục",
+"Image {} · Costume"
+],
+"图{} · 附加": [
+"Ảnh {} · Bổ sung",
+"Image {} · Extra"
+],
+"图库中包含部分成人向 3D 素体姿势（全身单人・性感系、双人缠绵）与内衣/性感穿搭参考，旨在服务绘画与动作设计练习。系统默认开启「安全模式 (SFW)」屏蔽上述分类，": [
+"Thư viện có một số tư thế mô hình 3D dành cho người lớn (Toàn thân 1 người · Gợi cảm, Hai người · Quấn quýt) và tham chiếu nội y/trang phục gợi cảm, nhằm phục vụ luyện vẽ và thiết kế động tác. Mặc định hệ thống bật «Chế độ an toàn (SFW)» để ẩn các danh mục trên,",
+"The gallery includes some adult-oriented 3D mannequin poses (Full body solo · Sexy, Couple · Intimate) and lingerie/sexy outfit references for drawing and motion-design practice. \"Safe mode (SFW)\" is on by default and hides these categories;"
+],
+"图库总览": [
+"Tổng quan thư viện",
+"Gallery overview"
+],
+"图片下载失败": [
+"Tải ảnh thất bại",
+"Image download failed"
+],
+"图片下载暂时失败，正在重试…": [
+"Tải ảnh tạm thất bại, đang thử lại…",
+"Image download failed temporarily, retrying…"
+],
+"图片仅作参考，禁止真人、未成年人及再分发；查看原作者条件": [
+"Ảnh chỉ để tham khảo; cấm dùng cho người thật, trẻ vị thành niên và phân phối lại; xem điều kiện của tác giả",
+"Reference only; no real people, minors, or redistribution. See the author's terms"
+],
+"图片传参方式": [
+"Cách gửi ảnh",
+"Image transfer"
+],
+"图片加载中…": [
+"Đang tải ảnh…",
+"Loading image…"
+],
+"图片加载失败": [
+"Không tải được ảnh",
+"Image failed to load"
+],
+"图片加载失败，请检查网络后重试。": [
+"Không tải được ảnh, hãy kiểm tra mạng rồi thử lại.",
+"Image failed to load. Check your connection and try again."
+],
+"图片大图预览": [
+"Xem ảnh lớn",
+"Large image preview"
+],
+"图片尺寸无效": [
+"Kích thước ảnh không hợp lệ",
+"Invalid image size"
+],
+"图片格式 (output_format)": [
+"Định dạng ảnh (output_format)",
+"Image format (output_format)"
+],
+"图片缩放控制": [
+"Điều khiển thu phóng ảnh",
+"Image zoom controls"
+],
+"图片许可证（CC0）": [
+"Giấy phép ảnh (CC0)",
+"Image license (CC0)"
+],
+"图片读取失败": [
+"Đọc ảnh thất bại",
+"Failed to read image"
+],
+"图片读取失败，已保留原图，请重新选择": [
+"Không đọc được ảnh, đã giữ ảnh cũ, hãy chọn lại",
+"Couldn't read the image; kept the original. Please choose again"
+],
+"图片转换失败": [
+"Chuyển đổi ảnh thất bại",
+"Image conversion failed"
+],
+"图片须小于等于 10 MiB，请压缩后重试": [
+"Ảnh phải nhỏ hơn hoặc bằng 10 MiB, hãy nén rồi thử lại",
+"Image must be 10 MiB or less; compress and retry"
+],
+"图片预览": [
+"Xem ảnh",
+"Image preview"
+],
+"处理中": [
+"Đang xử lý",
+"Processing"
+],
+"备注(如:配饰/背景)": [
+"Ghi chú (vd: phụ kiện/nền)",
+"Note (e.g. accessory/background)"
+],
+"复位": [
+"Đặt lại",
+"Reset"
+],
+"复制": [
+"Sao chép",
+"Copy"
+],
+"复制提示词": [
+"Sao chép prompt",
+"Copy prompt"
+],
+"复制词": [
+"Chép prompt",
+"Copy prompt"
+],
+"复古胶片写真": [
+"Ảnh phim cổ điển",
+"Vintage film portrait"
+],
+"复用词": [
+"Dùng lại prompt",
+"Reuse prompt"
+],
+"外部参考图": [
+"Ảnh tham chiếu ngoài",
+"External reference"
+],
+"套）": [
+"bộ)",
+"left)"
+],
+"姿势": [
+"Tư thế",
+"Pose"
+],
+"姿势 · {}{}": [
+"Tư thế · {}{}",
+"Pose · {}{}"
+],
+"姿势图节点 (LoadImage)": [
+"Node ảnh tư thế (LoadImage)",
+"Pose image node (LoadImage)"
+],
+"字节火山方舟 Doubao": [
+"ByteDance Volcengine Ark Doubao",
+"ByteDance Volcengine Ark Doubao"
+],
+"存在待确认任务，请先恢复或明确放弃记录": [
+"Có tác vụ chờ xác nhận, hãy khôi phục hoặc bỏ bản ghi trước",
+"There's a pending task; resume it or discard its record first"
+],
+"安全模式 (SFW)": [
+"Chế độ an toàn (SFW)",
+"Safe mode (SFW)"
+],
+"宽高比 (aspectRatio)": [
+"Tỉ lệ khung (aspectRatio)",
+"Aspect ratio (aspectRatio)"
+],
+"对比参考": [
+"So sánh tham chiếu",
+"Compare references"
+],
+"对比模式": [
+"Chế độ so sánh",
+"Comparison mode"
+],
+"导入 .json": [
+"Nhập .json",
+"Import .json"
+],
+"导出 .json": [
+"Xuất .json",
+"Export .json"
+],
+"导出原始 API": [
+"Xuất API gốc",
+"Export raw API"
+],
+"尚无检测记录": [
+"Chưa có lần kiểm tra nào",
+"Not checked yet"
+],
+"尚未检测": [
+"Chưa kiểm tra",
+"Not checked"
+],
+"展开通知": [
+"Mở rộng thông báo",
+"Expand notifications"
+],
+"工作台": [
+"Bàn làm việc",
+"Workspace"
+],
+"工作流 JSON 为空": [
+"JSON workflow đang trống",
+"Workflow JSON is empty"
+],
+"工作流 JSON 无效": [
+"JSON workflow không hợp lệ",
+"Invalid workflow JSON"
+],
+"工作流与本机模型/节点匹配，可以生成": [
+"Workflow khớp với model/node trên máy, có thể tạo",
+"Workflow matches local models/nodes; ready to generate"
+],
+"工作流参考 · {}": [
+"Tham chiếu workflow · {}",
+"Workflow reference · {}"
+],
+"工作流模板 (API 格式)": [
+"Mẫu workflow (định dạng API)",
+"Workflow template (API format)"
+],
+"工作流没有输出节点（SaveImage / PreviewImage）": [
+"Workflow không có node đầu ra (SaveImage / PreviewImage)",
+"Workflow has no output node (SaveImage / PreviewImage)"
+],
+"工作流高级参数": [
+"Tham số nâng cao của workflow",
+"Advanced workflow parameters"
+],
+"已修改": [
+"Đã sửa",
+"Modified"
+],
+"已停止跟踪": [
+"Đã dừng theo dõi",
+"Stopped tracking"
+],
+"已停止跟踪，后台任务继续执行": [
+"Đã dừng theo dõi, tác vụ nền vẫn chạy",
+"Stopped tracking; the background task keeps running"
+],
+"已关闭（浏览器直连）": [
+"Đã tắt (trình duyệt kết nối trực tiếp)",
+"Off (direct browser connection)"
+],
+"已切换为：{}": [
+"Đã chuyển sang: {}",
+"Switched to: {}"
+],
+"已切换姿势图为：深度图 (Depth)": [
+"Đã chuyển ảnh tư thế sang: Depth map",
+"Pose image switched to: depth map"
+],
+"已切换姿势图为：素体白模": [
+"Đã chuyển ảnh tư thế sang: Mô hình trắng",
+"Pose image switched to: mannequin"
+],
+"已删除该条记录": [
+"Đã xóa bản ghi",
+"Record deleted"
+],
+"已合成参考拼图": [
+"Đã ghép ảnh tham chiếu",
+"Reference collage created"
+],
+"已启用（解决跨域限制）": [
+"Đã bật (vượt giới hạn CORS)",
+"On (bypasses CORS limits)"
+],
+"已在角色配方中（点击移除）": [
+"Đã thêm (bấm để bỏ)",
+"In recipe (click to remove)"
+],
+"已复制": [
+"Đã sao chép",
+"Copied"
+],
+"已复制人像 ID": [
+"Đã sao chép ID chân dung",
+"Portrait ID copied"
+],
+"已复制姿势 ID": [
+"Đã sao chép ID tư thế",
+"Pose ID copied"
+],
+"已复制提示词": [
+"Đã sao chép prompt",
+"Prompt copied"
+],
+"已复制英文服装 Prompt": [
+"Đã sao chép prompt trang phục tiếng Anh",
+"English costume prompt copied"
+],
+"已导入工作流：识别到 {} 个图片节点、{} 个提示词节点": [
+"Đã nhập workflow: nhận diện {} node ảnh, {} node prompt",
+"Workflow imported: found {} image nodes and {} prompt nodes"
+],
+"已导出 ComfyUI API 工作流 JSON": [
+"Đã xuất JSON workflow API của ComfyUI",
+"Exported ComfyUI API workflow JSON"
+],
+"已开启安全模式（已隐藏 18+ 敏感分类）": [
+"Đã bật chế độ an toàn (ẩn danh mục 18+)",
+"Safe mode on (18+ categories hidden)"
+],
+"已恢复该图提示词": [
+"Đã khôi phục prompt của ảnh này",
+"Restored this image's prompt"
+],
+"已恢复默认": [
+"Đã khôi phục mặc định",
+"Reset to default"
+],
+"已放弃本地记录；服务器任务可能仍在执行": [
+"Đã bỏ bản ghi cục bộ; tác vụ trên máy chủ có thể vẫn đang chạy",
+"Local record discarded; the server task may still be running"
+],
+"已暂停本地跟踪，任务记录已保留；服务器任务继续执行": [
+"Đã tạm dừng theo dõi cục bộ, giữ bản ghi tác vụ; tác vụ trên máy chủ vẫn chạy",
+"Local tracking paused, record kept; the server task keeps running"
+],
+"已更换{}，其他参考保持不变": [
+"Đã đổi {}, các tham chiếu khác giữ nguyên",
+"Swapped {}; other references unchanged"
+],
+"已添加附加参考图": [
+"Đã thêm ảnh tham chiếu bổ sung",
+"Extra reference added"
+],
+"已清空记录": [
+"Đã xóa hết lịch sử",
+"History cleared"
+],
+"已清空配方": [
+"Đã xóa công thức",
+"Recipe cleared"
+],
+"已确认的 PixAI 任务编号": [
+"Mã tác vụ PixAI đã xác nhận",
+"Confirmed PixAI task ID"
+],
+"已移除人像": [
+"Đã bỏ chân dung",
+"Portrait removed"
+],
+"已移除姿势": [
+"Đã bỏ tư thế",
+"Pose removed"
+],
+"已移除服装": [
+"Đã bỏ trang phục",
+"Costume removed"
+],
+"已自动识别 ComfyUI 地址：{}": [
+"Đã tự nhận diện địa chỉ ComfyUI: {}",
+"Auto-detected ComfyUI address: {}"
+],
+"已自动重新识别节点：{} 个图片节点、{} 个提示词节点": [
+"Đã tự nhận diện lại node: {} node ảnh, {} node prompt",
+"Re-detected nodes: {} image nodes, {} prompt nodes"
+],
+"已覆盖工作流默认值": [
+"Đã ghi đè giá trị mặc định của workflow",
+"Overrides the workflow default"
+],
+"已解锁 18+ 完整图库模式": [
+"Đã mở khóa chế độ thư viện đầy đủ 18+",
+"Full 18+ gallery unlocked"
+],
+"已识别：{}（{}）": [
+"Đã nhận diện: {} ({})",
+"Detected: {} ({})"
+],
+"已选": [
+"Đã chọn",
+"Selected"
+],
+"已选人像：{}": [
+"Đã chọn chân dung: {}",
+"Portrait selected: {}"
+],
+"已选姿势：{}（{}{}）": [
+"Đã chọn tư thế: {} ({}{})",
+"Pose selected: {} ({}{})"
+],
+"已选择，生成时上传": [
+"Đã chọn, sẽ tải lên khi tạo",
+"Selected; uploads on generate"
+],
+"已选服装视角": [
+"Góc nhìn trang phục đã chọn",
+"Selected costume view"
+],
+"已选服装：{}": [
+"Đã chọn trang phục: {}",
+"Costume selected: {}"
+],
+"已配置": [
+"Đã cấu hình",
+"Configured"
+],
+"已配置，尚未检测": [
+"Đã cấu hình, chưa kiểm tra",
+"Configured, not tested"
+],
+"已随机抽取一套角色配方": [
+"Đã chọn ngẫu nhiên một công thức nhân vật",
+"Random character recipe picked"
+],
+"已随机抽取一套角色配方（安全模式）": [
+"Đã chọn ngẫu nhiên một công thức nhân vật (chế độ an toàn)",
+"Random character recipe picked (safe mode)"
+],
+"年龄限制": [
+"Giới hạn độ tuổi",
+"Age limit"
+],
+"并排": [
+"Cạnh nhau",
+"Side by side"
+],
+"建议：关闭其他占用显卡的程序；在工作流中把「按姿势图比例确定输出尺寸」节点的 megapixels 从 1.0 调低到 0.6；然后重试。": [
+"Gợi ý: đóng các chương trình khác đang dùng GPU; trong workflow, giảm megapixels của node «xác định kích thước đầu ra theo tỉ lệ ảnh tư thế» từ 1.0 xuống 0.6; rồi thử lại.",
+"Tip: close other GPU-heavy apps; in the workflow, lower megapixels on the \"size output from pose ratio\" node from 1.0 to 0.6, then retry."
+],
+"开启": [
+"Bật",
+"On"
+],
+"引用不是图片": [
+"Tham chiếu không phải ảnh",
+"Reference is not an image"
+],
+"张": [
+"ảnh",
+"images"
+],
+"张）": [
+"ảnh)",
+"images)"
+],
+"当前参考图组合不受此工作流支持，可用组合：": [
+"Workflow này không hỗ trợ tổ hợp ảnh tham chiếu hiện tại. Tổ hợp dùng được: ",
+"This workflow doesn't support the current reference combination. Supported combinations: "
+],
+"当前工作流 JSON 格式有误，无法导出": [
+"JSON workflow hiện tại sai định dạng, không xuất được",
+"The current workflow JSON is malformed and can't be exported"
+],
+"当前工作流需要「{}」参考图（节点 {}），请先在图库中选择": [
+"Workflow hiện tại cần ảnh tham chiếu «{}» (node {}), hãy chọn trong thư viện trước",
+"This workflow needs a \"{}\" reference (node {}); pick one from the gallery first"
+],
+"当前已开启安全模式（已隐藏 18+ 敏感内容），点击可解锁完整图库": [
+"Đang bật chế độ an toàn (đã ẩn nội dung nhạy cảm 18+), bấm để mở khóa toàn bộ thư viện",
+"Safe mode is on (18+ content hidden). Click to unlock the full gallery"
+],
+"当前已显示 18+ 完整图库，点击可切回安全模式": [
+"Đang hiển thị toàn bộ thư viện 18+, bấm để quay lại chế độ an toàn",
+"Showing the full 18+ gallery. Click to switch back to safe mode"
+],
+"当前模型使用默认参考还原度，无需设置此参数。": [
+"Model hiện tại dùng độ trung thành mặc định, không cần đặt tham số này.",
+"The current model uses the default fidelity; no need to set this."
+],
+"当前模式": [
+"Chế độ hiện tại",
+"Current mode"
+],
+"当前节点（{}/{}）": [
+"Node hiện tại ({}/{})",
+"Current node ({}/{})"
+],
+"当前角色配方": [
+"Công thức nhân vật hiện tại",
+"Current character recipe"
+],
+"待确认任务": [
+"Tác vụ chờ xác nhận",
+"Pending task"
+],
+"总参考图": [
+"Tổng ảnh tham chiếu",
+"Total references"
+],
+"恢复{}默认值": [
+"Khôi phục mặc định của {}",
+"Reset {} to default"
+],
+"恢复记录保存失败": [
+"Lưu bản ghi khôi phục thất bại",
+"Failed to save the recovery record"
+],
+"恢复跟踪": [
+"Tiếp tục theo dõi",
+"Resume tracking"
+],
+"恢复默认": [
+"Khôi phục mặc định",
+"Reset to default"
+],
+"我已年满 18 岁并同意免责声明": [
+"Tôi đã đủ 18 tuổi và đồng ý với miễn trừ trách nhiệm",
+"I'm 18 or older and accept the disclaimer"
+],
+"所属体系": [
+"Thuộc hệ",
+"System"
+],
+"拼图失败": [
+"Ghép ảnh thất bại",
+"Stitching failed"
+],
+"按全部 / 现实 / 二次元及来源、分类、标签挑选；含ギア写实 1,407 套、Shisei 中国历代 57 套（227 视角）、ギア动漫 1,320 套与 CharaDB 二次元 440 套。": [
+"Lọc theo Tất cả / Ảnh thực / Anime cùng nguồn, danh mục, thẻ; gồm 1.407 bộ ảnh thực của Gia, 57 bộ trang phục Trung Hoa cổ của Shisei (227 góc nhìn), 1.320 bộ anime của Gia và 440 bộ anime của CharaDB.",
+"Filter by All / Realistic / Anime plus source, category and tags; includes 1,407 Gia realistic sets, 57 Shisei historical Chinese sets (227 views), 1,320 Gia anime sets and 440 CharaDB anime sets."
+],
+"按当前 ComfyUI 节点定义显示；未修改的参数沿用导入 API。": [
+"Hiển thị theo định nghĩa node ComfyUI hiện tại; tham số chưa sửa giữ nguyên theo API đã nhập.",
+"Shown per the current ComfyUI node definitions; unchanged parameters keep the imported API values."
+],
+"按编号恢复（只查询）": [
+"Khôi phục theo mã (chỉ truy vấn)",
+"Restore by ID (query only)"
+],
+"挑选 5 视角 3D 素体白模或深度图（Depth），结合云端 API 或本地 ComfyUI 一键生成角色立绘。": [
+"Chọn mô hình trắng 3D hoặc depth map với 5 góc nhìn, kết hợp API đám mây hoặc ComfyUI cục bộ để tạo ảnh nhân vật chỉ với một cú bấm.",
+"Pick a 3D mannequin or depth map in 5 views, then generate character art in one click with a cloud API or local ComfyUI."
+],
+"挑选五官与发型参考，或在合成台直接上传自定义人像图，锁定角色面部特征。": [
+"Chọn tham chiếu khuôn mặt và kiểu tóc, hoặc tải ảnh chân dung riêng lên Bàn ghép để cố định đặc điểm khuôn mặt nhân vật.",
+"Pick face and hairstyle references, or upload your own portrait in the studio to lock the character's facial features."
+],
+"换一个": [
+"Đổi cái khác",
+"Shuffle"
+],
+"授权协议": [
+"Giấy phép",
+"License"
+],
+"排队中，前方还有 {} 个任务": [
+"Đang xếp hàng, còn {} tác vụ phía trước",
+"Queued, {} tasks ahead"
+],
+"接口协议": [
+"Giao thức API",
+"API provider"
+],
+"接口已响应但未解析到图片输出：{}": [
+"API đã phản hồi nhưng không đọc được ảnh đầu ra: {}",
+"The API responded but no image output was found: {}"
+],
+"提交结果未知或提交前被中断，请核对后端队列；不会自动重试提交。": [
+"Không rõ kết quả gửi hoặc bị gián đoạn trước khi gửi; hãy kiểm tra hàng đợi phía máy chủ. Sẽ không tự động gửi lại.",
+"Submission result unknown or interrupted; check the backend queue. It won't be resubmitted automatically."
+],
+"提示词扩写 (prompt_extend)": [
+"Mở rộng prompt (prompt_extend)",
+"Prompt expansion (prompt_extend)"
+],
+"搜索发型款式、发色或 ID（如：波波头、狼尾、空气刘海、挑染、韩式）…": [
+"Tìm kiểu tóc, màu tóc hoặc ID (vd: bob, wolf, mái thưa, highlight, kiểu Hàn)…",
+"Search hairstyle, hair color or ID (e.g. bob, wolf cut, airy bangs, highlights, Korean)…"
+],
+"搜索姿势名称、编号 (如 P001)、分类或 ID…": [
+"Tìm tên tư thế, mã (vd: P001), danh mục hoặc ID…",
+"Search pose name, number (e.g. P001), category or ID…"
+],
+"搜索服装款式、颜色、材质、英文词条 (如 denim, lace, 针织, 迷你裙)…": [
+"Tìm kiểu dáng, màu, chất liệu, từ khóa (vd: denim, lace, len, váy ngắn)…",
+"Search style, color, material, keywords (e.g. denim, lace, knit, mini skirt)…"
+],
+"操作通知（Alt+T 聚焦，Esc 关闭）": [
+"Thông báo (Alt+T để chọn, Esc để đóng)",
+"Notifications (Alt+T to focus, Esc to close)"
+],
+"支持 Tsubaki.3 和 Tsubaki.3 Flash，每次输出一张。人像、服装、姿势各一图，按原始图片上传；默认启用本站代理。Key 随请求发送到本站代理与 PixAI，请仅在可信部署上使用。": [
+"Hỗ trợ Tsubaki.3 và Tsubaki.3 Flash, mỗi lần ra một ảnh. Mỗi loại chân dung, trang phục, tư thế một ảnh, tải lên ảnh gốc; mặc định bật proxy của trang. Key được gửi kèm yêu cầu tới proxy của trang và PixAI, chỉ dùng trên bản triển khai đáng tin cậy.",
+"Supports Tsubaki.3 and Tsubaki.3 Flash, one image per run. One portrait, costume and pose image each, uploaded as originals; the site proxy is on by default. The key is sent with requests to the site proxy and PixAI, so only use it on a trusted deployment."
+],
+"收起通知": [
+"Thu gọn thông báo",
+"Collapse notifications"
+],
+"放大人像参考图": [
+"Phóng to ảnh chân dung",
+"Enlarge portrait reference"
+],
+"放大图片": [
+"Phóng to ảnh",
+"Zoom in"
+],
+"放大姿势参考图": [
+"Phóng to ảnh tư thế",
+"Enlarge pose reference"
+],
+"放大服装参考图": [
+"Phóng to ảnh trang phục",
+"Enlarge costume reference"
+],
+"放大生成结果": [
+"Phóng to kết quả",
+"Enlarge result"
+],
+"放弃本地恢复记录？这不会取消服务器任务，重新生成可能再次扣除额度。": [
+"Bỏ bản ghi khôi phục cục bộ? Việc này không hủy tác vụ trên máy chủ, và tạo lại có thể bị trừ credit lần nữa.",
+"Discard the local recovery record? This won't cancel the server task, and regenerating may charge credits again."
+],
+"放弃记录（不取消服务器任务）": [
+"Bỏ bản ghi (không hủy tác vụ trên máy chủ)",
+"Discard record (server task not cancelled)"
+],
+"数据来源与版权说明": [
+"Nguồn dữ liệu & bản quyền",
+"Data sources & copyright"
+],
+"文档": [
+"Tài liệu",
+"Docs"
+],
+"新海诚感动画电影": [
+"Phim hoạt hình kiểu Shinkai",
+"Shinkai-style anime film"
+],
+"新窗口原图": [
+"Mở tab mới",
+"Open in new tab"
+],
+"无": [
+"Không có",
+"None"
+],
+"无效的 JSON 对象": [
+"Đối tượng JSON không hợp lệ",
+"Invalid JSON object"
+],
+"无法处理图片": [
+"Không xử lý được ảnh",
+"Can't process image"
+],
+"无法确认任务状态，记录已保留": [
+"Không xác nhận được trạng thái tác vụ, đã giữ bản ghi",
+"Couldn't confirm task status; record kept"
+],
+"无法读取 ComfyUI 状态，请检查服务、地址、跨域和本地网络访问权限": [
+"Không đọc được trạng thái ComfyUI, hãy kiểm tra dịch vụ, địa chỉ, CORS và quyền truy cập mạng cục bộ",
+"Can't read ComfyUI status; check the service, address, CORS and local network permission"
+],
+"无法读取图片": [
+"Không đọc được ảnh",
+"Can't read image"
+],
+"无法读取浏览器存储，已暂停生成以保护待确认任务；请恢复存储后刷新": [
+"Không đọc được bộ nhớ trình duyệt, đã tạm dừng tạo để bảo vệ tác vụ chờ xác nhận; hãy khôi phục bộ nhớ rồi tải lại trang",
+"Can't read browser storage; generation is paused to protect pending tasks. Restore storage and reload"
+],
+"无法读取素材；远程图片可能不允许跨域读取，可下载后上传到该槽位": [
+"Không đọc được tư liệu; ảnh từ xa có thể chặn đọc CORS, hãy tải về rồi tải lên ô này",
+"Can't read the asset; the remote image may block cross-origin reads. Download it and upload to this slot"
+],
+"无预设（跟随参考图）": [
+"Không dùng sẵn (theo ảnh tham chiếu)",
+"No preset (follow references)"
+],
+"日式黑白漫画网点": [
+"Manga đen trắng có screentone",
+"Black-and-white manga screentone"
+],
+"日系二次元插画": [
+"Minh họa anime Nhật",
+"Japanese anime illustration"
+],
+"日韩杂志画报": [
+"Tạp chí thời trang Nhật Hàn",
+"Japanese/Korean magazine"
+],
+"暂停状态保存失败，原任务记录仍保留": [
+"Lưu trạng thái tạm dừng thất bại, bản ghi tác vụ gốc vẫn được giữ",
+"Failed to save pause state; the original record is kept"
+],
+"暂停跟踪（保留记录）": [
+"Tạm dừng theo dõi (giữ bản ghi)",
+"Pause tracking (keep record)"
+],
+"暂未在队列或历史中找到任务，继续确认…": [
+"Chưa thấy tác vụ trong hàng đợi hoặc lịch sử, đang tiếp tục xác nhận…",
+"Task not found in queue or history yet, still checking…"
+],
+"替换图片": [
+"Thay ảnh",
+"Replace image"
+],
+"最近检测 {}": [
+"Kiểm tra gần nhất {}",
+"Last checked {}"
+],
+"最长等待时间（秒）": [
+"Thời gian chờ tối đa (giây)",
+"Max wait (seconds)"
+],
+"服务端 CORS 代理 (/api/proxy)": [
+"Proxy CORS phía máy chủ (/api/proxy)",
+"Server-side CORS proxy (/api/proxy)"
+],
+"服装": [
+"Trang phục",
+"Costume"
+],
+"服装 · {}": [
+"Trang phục · {}",
+"Costume · {}"
+],
+"服装一级分类": [
+"Nhóm trang phục chính",
+"Costume type"
+],
+"服装图节点 (LoadImage)": [
+"Node ảnh trang phục (LoadImage)",
+"Costume image node (LoadImage)"
+],
+"服装来源": [
+"Nguồn trang phục",
+"Costume source"
+],
+"服装穿搭 (Costume)": [
+"Trang phục (Costume)",
+"Costumes"
+],
+"服装穿搭库": [
+"Thư viện trang phục",
+"Costume library"
+],
+"服装穿搭库 (3,224)": [
+"Thư viện trang phục (3.224)",
+"Costume library (3,224)"
+],
+"服装视角": [
+"Góc nhìn trang phục",
+"Costume view"
+],
+"未在 JSON 中找到任何 ComfyUI 节点": [
+"Không tìm thấy node ComfyUI nào trong JSON",
+"No ComfyUI nodes found in the JSON"
+],
+"未找到可用的 ComfyUI 服务（已尝试：{}、127.0.0.1:8000、127.0.0.1:8188）。请确认 ComfyUI 已启动，并检查跨域 (CORS) 设置。": [
+"Không tìm thấy dịch vụ ComfyUI khả dụng (đã thử: {}, 127.0.0.1:8000, 127.0.0.1:8188). Hãy chắc chắn ComfyUI đang chạy và kiểm tra cấu hình CORS.",
+"No ComfyUI service found (tried: {}, 127.0.0.1:8000, 127.0.0.1:8188). Make sure ComfyUI is running and check CORS settings."
+],
+"未找到可用的 ComfyUI（已尝试当前地址、127.0.0.1:8000、127.0.0.1:8188），请确认已启动并检查跨域设置": [
+"Không tìm thấy ComfyUI khả dụng (đã thử địa chỉ hiện tại, 127.0.0.1:8000, 127.0.0.1:8188). Hãy chắc chắn ComfyUI đang chạy và kiểm tra cấu hình CORS",
+"No ComfyUI found (tried the current address, 127.0.0.1:8000 and 127.0.0.1:8188). Make sure it's running and check CORS settings"
+],
+"未满 18 周岁的未成年人严禁关闭安全模式或访问相关内容": [
+"người dưới 18 tuổi tuyệt đối không được tắt chế độ an toàn hoặc truy cập nội dung này",
+"anyone under 18 must not turn off safe mode or access this content"
+],
+"未知版本": [
+"Phiên bản không rõ",
+"Unknown version"
+],
+"未识别到有效的 PNG、JPEG、WebP、GIF 或 AVIF 图片数据": [
+"Không nhận diện được dữ liệu ảnh PNG, JPEG, WebP, GIF hoặc AVIF hợp lệ",
+"No valid PNG, JPEG, WebP, GIF or AVIF data found"
+],
+"未选择 · 点击去捏人": [
+"Chưa chọn · Bấm để tạo nhân vật",
+"None selected · Click to build a character"
+],
+"未选择（可选），可添加参考图片。": [
+"Chưa chọn (tùy chọn), có thể thêm ảnh tham chiếu.",
+"None selected (optional). You can add a reference image."
+],
+"未配置 Key": [
+"Chưa cấu hình key",
+"No key set"
+],
+"未配置地址": [
+"Chưa cấu hình địa chỉ",
+"No address set"
+],
+"本仓库原有姿势（": [
+"Tư thế gốc của repo (",
+"The repo's original poses ("
+],
+"本地 ComfyUI": [
+"ComfyUI cục bộ",
+"Local ComfyUI"
+],
+"本地 ComfyUI 无需填写，远程鉴权可填 Token": [
+"ComfyUI cục bộ không cần điền; nếu máy chủ từ xa cần xác thực thì điền token",
+"Not needed for local ComfyUI; enter a token for remote auth"
+],
+"本地设备": [
+"Thiết bị cục bộ",
+"Local device"
+],
+"本地运行本站时填 /comfy（同源代理，无需改跨域设置）；直连时 ComfyUI 需加启动参数 --enable-cors-header \"{}\"。Desktop 版默认端口 8000，便携版 8188": [
+"Khi chạy trang này cục bộ, nhập /comfy (proxy cùng nguồn, không cần sửa CORS); khi kết nối trực tiếp, ComfyUI cần tham số khởi động --enable-cors-header \"{}\". Bản Desktop mặc định cổng 8000, bản portable 8188",
+"When running this site locally, enter /comfy (same-origin proxy, no CORS changes). For a direct connection, start ComfyUI with --enable-cors-header \"{}\". Desktop uses port 8000 by default, portable uses 8188"
+],
+"本工作台为纯前端本地应用，所有 AI 生图请求均由使用者自行配置的云端 API Key 或使用者本机 ComfyUI 环境直接执行，平台不收集、不存储任何用户上传的图片或生成结果。": [
+"Bàn làm việc này là ứng dụng front-end chạy cục bộ; mọi yêu cầu tạo ảnh AI đều chạy trực tiếp bằng API key đám mây do người dùng tự cấu hình hoặc ComfyUI trên máy người dùng. Nền tảng không thu thập hay lưu trữ ảnh tải lên hoặc kết quả tạo ra.",
+"This workspace is a front-end-only local app. All AI image requests run directly with the cloud API key you configure or your own local ComfyUI. The platform does not collect or store any uploaded images or results."
+],
+"本站原有姿势与现实服饰参考图源自 X 创作者": [
+"Ảnh tham chiếu tư thế và trang phục thực gốc của trang được nhà sáng tạo trên X",
+"The site's original pose and realistic costume references were shared publicly by X creator"
+],
+"本项目（含网页工作台、本地 ComfyUI 插件与工作流模板）": [
+"Dự án này (gồm bàn làm việc web, plugin ComfyUI cục bộ và mẫu workflow)",
+"This project (including the web workspace, local ComfyUI plugin and workflow templates)"
+],
+"条目目录（": [
+"Danh mục mục (",
+"Item catalog ("
+],
+"来源说明": [
+"Nguồn",
+"Sources"
+],
+"来源：": [
+"Nguồn: ",
+"Source: "
+],
+"松开鼠标添加附加参考图": [
+"Thả chuột để thêm ảnh tham chiếu bổ sung",
+"Release to add an extra reference"
+],
+"查看 {} 大图": [
+"Xem ảnh lớn {}",
+"View {} full size"
+],
+"查看上一张结果": [
+"Xem kết quả trước",
+"View previous result"
+],
+"查看完整免责声明 →": [
+"Xem đầy đủ miễn trừ trách nhiệm →",
+"Read the full disclaimer →"
+],
+"查看生成记录：{}": [
+"Xem bản ghi: {}",
+"View record: {}"
+],
+"校验失败": [
+"Kiểm tra hợp lệ thất bại",
+"Validation failed"
+],
+"检测中…": [
+"Đang kiểm tra…",
+"Checking…"
+],
+"检测到普通画布格式 JSON，请在 ComfyUI 中使用「工作流 → 导出 (API)」得到 API 格式 JSON": [
+"Phát hiện JSON dạng canvas thường; trong ComfyUI hãy dùng «Workflow → Export (API)» để lấy JSON định dạng API",
+"This is a regular canvas JSON. In ComfyUI, use \"Workflow → Export (API)\" to get API-format JSON"
+],
+"检测失败": [
+"Kiểm tra thất bại",
+"Check failed"
+],
+"检测未通过": [
+"Kiểm tra không đạt",
+"Check failed"
+],
+"检测本机模型": [
+"Kiểm tra model trên máy",
+"Check local models"
+],
+"检测连接": [
+"Kiểm tra kết nối",
+"Test connection"
+],
+"模型 ID": [
+"Model ID",
+"Model ID"
+],
+"模型由工作流决定。请返回合成台导入工作流，并设置人像、服装和姿势节点。": [
+"Model do workflow quyết định. Hãy quay lại Bàn ghép để nhập workflow và gán node chân dung, trang phục, tư thế.",
+"The workflow decides the model. Go back to the studio to import a workflow and set the portrait, costume and pose nodes."
+],
+"模型默认": [
+"Mặc định của model",
+"Model default"
+],
+"正向提示词与多图编码 (Qwen 2.1)": [
+"Prompt khẳng định & mã hóa nhiều ảnh (Qwen 2.1)",
+"Positive prompt & multi-image encoding (Qwen 2.1)"
+],
+"正向提示词节点 (Prompt)": [
+"Node prompt khẳng định (Prompt)",
+"Positive prompt node (Prompt)"
+],
+"正在上传{}…": [
+"Đang tải lên {}…",
+"Uploading {}…"
+],
+"正在上传{}参考图…": [
+"Đang tải lên ảnh tham chiếu {}…",
+"Uploading {} reference…"
+],
+"正在上传参考拼图…": [
+"Đang tải lên ảnh ghép tham chiếu…",
+"Uploading reference collage…"
+],
+"正在上传第 {}/3 张：{}…": [
+"Đang tải lên ảnh {}/3: {}…",
+"Uploading {}/3: {}…"
+],
+"正在复用已缓存节点…": [
+"Đang dùng lại node đã lưu đệm…",
+"Reusing cached nodes…"
+],
+"正在执行：{}": [
+"Đang chạy: {}",
+"Running: {}"
+],
+"正在提交 PixAI 任务…": [
+"Đang gửi tác vụ PixAI…",
+"Submitting PixAI task…"
+],
+"正在提交工作流…": [
+"Đang gửi workflow…",
+"Submitting workflow…"
+],
+"正在检查 ComfyUI 服务与模型…": [
+"Đang kiểm tra dịch vụ và model ComfyUI…",
+"Checking ComfyUI service and models…"
+],
+"正在检测 ComfyUI HTTP 连接…": [
+"Đang kiểm tra kết nối HTTP tới ComfyUI…",
+"Checking ComfyUI HTTP connection…"
+],
+"正在生成角色图…": [
+"Đang tạo ảnh nhân vật…",
+"Generating character…"
+],
+"正在确认 ComfyUI 任务状态…": [
+"Đang xác nhận trạng thái tác vụ ComfyUI…",
+"Confirming ComfyUI task status…"
+],
+"正在获取生成结果…": [
+"Đang lấy kết quả…",
+"Fetching the result…"
+],
+"正在读取图片…": [
+"Đang đọc ảnh…",
+"Reading image…"
+],
+"正在读取节点参数…": [
+"Đang đọc tham số node…",
+"Reading node parameters…"
+],
+"此工作流没有可编辑的普通参数。": [
+"Workflow này không có tham số thường để chỉnh.",
+"This workflow has no editable regular parameters."
+],
+"每次随机种子": [
+"Seed ngẫu nhiên mỗi lần",
+"New random seed each run"
+],
+"没有其他可用素材": [
+"Không còn tư liệu khả dụng",
+"No other items available"
+],
+"没有其他同类素材，可切到“全部”再试": [
+"Không còn tư liệu cùng loại, hãy chuyển sang \"Tất cả\" rồi thử lại",
+"No other items of this type; switch to \"All\" and try again"
+],
+"没有找到匹配的人像参考": [
+"Không tìm thấy chân dung phù hợp",
+"No matching portraits"
+],
+"没有找到匹配的姿势": [
+"Không tìm thấy tư thế phù hợp",
+"No matching poses"
+],
+"没有找到匹配的服装穿搭": [
+"Không tìm thấy trang phục phù hợp",
+"No matching costumes"
+],
+"沿用工作流默认值": [
+"Dùng giá trị mặc định của workflow",
+"Uses the workflow default"
+],
+"浅色": [
+"Sáng",
+"Light"
+],
+"浏览器存储写入失败": [
+"Ghi vào bộ nhớ trình duyệt thất bại",
+"Failed to write to browser storage"
+],
+"浏览器离线": [
+"Trình duyệt đang offline",
+"Browser offline"
+],
+"深度": [
+"Độ sâu",
+"Depth"
+],
+"深度图": [
+"Depth map",
+"Depth map"
+],
+"深度图 (Depth Map)": [
+"Depth map (bản đồ độ sâu)",
+"Depth map"
+],
+"深度图 (Depth)": [
+"Depth map (Độ sâu)",
+"Depth map"
+],
+"深色": [
+"Tối",
+"Dark"
+],
+"添加": [
+"Thêm",
+"Add"
+],
+"添加附加参考图：点击上传、拖拽图片至此，或直接按 Ctrl+V / ⌘V 粘贴": [
+"Thêm ảnh tham chiếu bổ sung: bấm để tải lên, kéo thả ảnh vào đây, hoặc nhấn Ctrl+V / ⌘V để dán",
+"Add extra references: click to upload, drag images here, or paste with Ctrl+V / ⌘V"
+],
+"清空": [
+"Xóa hết",
+"Clear"
+],
+"清空参考图": [
+"Xóa hết ảnh tham chiếu",
+"Clear references"
+],
+"清空记录失败": [
+"Xóa lịch sử thất bại",
+"Failed to clear history"
+],
+"清除{}": [
+"Xóa {}",
+"Clear {}"
+],
+"清除人像参考图": [
+"Xóa ảnh chân dung tham chiếu",
+"Clear portrait reference"
+],
+"清除图片": [
+"Xóa ảnh",
+"Clear image"
+],
+"清除姿势参考图": [
+"Xóa ảnh tư thế tham chiếu",
+"Clear pose reference"
+],
+"清除服装参考图": [
+"Xóa ảnh trang phục tham chiếu",
+"Clear costume reference"
+],
+"渲染质量 (quality)": [
+"Chất lượng (quality)",
+"Quality (quality)"
+],
+"滑杆": [
+"Thanh trượt",
+"Slider"
+],
+"滑杆对比": [
+"So sánh bằng thanh trượt",
+"Slider comparison"
+],
+"滚轮或双指共同缩放 · 放大后拖动 · 加减键缩放、方向键移动、0 键复位": [
+"Lăn chuột hoặc chụm hai ngón để cùng thu phóng · Kéo khi đã phóng to · Phím +/- để thu phóng, phím mũi tên để di chuyển, phím 0 để đặt lại",
+"Scroll or pinch to zoom both · Drag when zoomed · +/- to zoom, arrow keys to pan, 0 to reset"
+],
+"滚轮或双指缩放 · 放大后拖动 · 100% 为适应窗口": [
+"Lăn chuột hoặc chụm hai ngón để thu phóng · Kéo khi đã phóng to · 100% là vừa khung",
+"Scroll or pinch to zoom · Drag when zoomed · 100% = fit to window"
+],
+"点击「生成角色图」后在此处展示生成结果": [
+"Bấm «Tạo ảnh nhân vật», kết quả sẽ hiện ở đây",
+"Click \"Generate character\" and the result appears here"
+],
+"点击进入 AI 合成台": [
+"Bấm để vào Bàn ghép AI",
+"Open the AI Studio"
+],
+"热门人像 Top 10": [
+"Top 10 chân dung nổi bật",
+"Top 10 popular portraits"
+],
+"现实 1,407 · 二次元 440": [
+"Ảnh thực 1.407 · Anime 440",
+"Realistic 1,407 · Anime 440"
+],
+"生成中…": [
+"Đang tạo…",
+"Generating…"
+],
+"生成失败": [
+"Tạo thất bại",
+"Generation failed"
+],
+"生成模式": [
+"Chế độ tạo",
+"Generation mode"
+],
+"生成结果": [
+"Kết quả",
+"Result"
+],
+"生成角色图": [
+"Tạo ảnh nhân vật",
+"Generate character"
+],
+"生成记录 ({})": [
+"Lịch sử tạo ({})",
+"History ({})"
+],
+"画风预设": [
+"Phong cách có sẵn",
+"Style preset"
+],
+"白模": [
+"Mô hình trắng",
+"Mannequin"
+],
+"粘贴 https://... 图片地址": [
+"Dán địa chỉ ảnh https://...",
+"Paste an https://... image address"
+],
+"素体白模": [
+"Mô hình trắng",
+"Mannequin"
+],
+"素材地址返回了网页而非图片，请检查素材文件是否缺失或地址是否正确": [
+"Địa chỉ tư liệu trả về trang web thay vì ảnh, hãy kiểm tra tệp có thiếu hoặc địa chỉ có đúng không",
+"The asset URL returned a web page instead of an image; check the file and address"
+],
+"素材库加载失败，请稍后重试": [
+"Không tải được thư viện tư liệu, hãy thử lại sau",
+"Failed to load the asset library, try again later"
+],
+"素材文件不存在，请重新选择或上传图片；本地开发请检查图库素材是否已下载": [
+"Tệp tư liệu không tồn tại, hãy chọn lại hoặc tải ảnh lên; khi phát triển cục bộ hãy kiểm tra đã tải tư liệu thư viện chưa",
+"Asset file missing; choose or upload again. For local dev, check that the gallery assets are downloaded"
+],
+"素材请求失败 HTTP {}": [
+"Yêu cầu tư liệu thất bại HTTP {}",
+"Asset request failed HTTP {}"
+],
+"组": [
+"nhóm",
+"groups"
+],
+"组图模式 (sequential)": [
+"Chế độ nhiều ảnh (sequential)",
+"Image set mode (sequential)"
+],
+"编辑 JSON": [
+"Sửa JSON",
+"Edit JSON"
+],
+"缩小图片": [
+"Thu nhỏ ảnh",
+"Zoom out"
+],
+"缺少必填输入 {}": [
+"Thiếu đầu vào bắt buộc {}",
+"Missing required input {}"
+],
+"缺少节点「{}」（节点 {}：{}）。请在 ComfyUI Manager 安装对应的自定义节点，或升级 ComfyUI。": [
+"Thiếu node «{}» (node {}: {}). Hãy cài custom node tương ứng trong ComfyUI Manager hoặc nâng cấp ComfyUI.",
+"Missing node \"{}\" (node {}: {}). Install the matching custom node in ComfyUI Manager or update ComfyUI."
+],
+"缺少节点类型：{}。请在 ComfyUI Manager 安装缺失的自定义节点或升级 ComfyUI": [
+"Thiếu loại node: {}. Hãy cài custom node còn thiếu trong ComfyUI Manager hoặc nâng cấp ComfyUI",
+"Missing node type: {}. Install the missing custom nodes in ComfyUI Manager or update ComfyUI"
+],
+"背景模式 (background)": [
+"Chế độ nền (background)",
+"Background (background)"
+],
+"自动识别": [
+"Tự nhận diện",
+"Auto-detect"
+],
+"自动识别节点": [
+"Tự nhận diện node",
+"Auto-detect nodes"
+],
+"自定义参考图": [
+"Ảnh tham chiếu tùy chỉnh",
+"Custom reference"
+],
+"自定义合成": [
+"Ghép tùy chỉnh",
+"Custom generation"
+],
+"自定义名称（仅用于记录显示）": [
+"Tên tùy chỉnh (chỉ để hiển thị trong lịch sử)",
+"Custom name (for history display only)"
+],
+"自定义工作流 (已导入 JSON)": [
+"Workflow tùy chỉnh (đã nhập JSON)",
+"Custom workflow (imported JSON)"
+],
+"自定义模型 ID": [
+"Model ID tùy chỉnh",
+"Custom model ID"
+],
+"自定义模型 ID / Endpoint": [
+"Model ID / Endpoint tùy chỉnh",
+"Custom model ID / Endpoint"
+],
+"节点 {}「{}」{}：{} → {}（自动修正路径）": [
+"Node {} «{}» {}: {} → {} (đã tự sửa đường dẫn)",
+"Node {} \"{}\" {}: {} → {} (path auto-corrected)"
+],
+"节点 {}「{}」引用的图片 {} 不在 ComfyUI input 目录中，且未映射到人像/服装/姿势槽位": [
+"Ảnh {} mà node {} «{}» tham chiếu không có trong thư mục input của ComfyUI và chưa gán vào ô chân dung/trang phục/tư thế",
+"Node {} \"{}\" references image {} which isn't in the ComfyUI input folder and isn't mapped to a portrait/costume/pose slot"
+],
+"节点 {}「{}」的 {} = {} 在本机不存在（通常是模型文件未安装或路径不同）。本机可选：{}{}": [
+"{2} = {3} của node {0} «{1}» không có trên máy (thường do chưa cài model hoặc khác đường dẫn). Lựa chọn trên máy: {4}{5}",
+"Node {} \"{}\": {} = {} doesn't exist on this machine (usually a missing model file or different path). Available: {}{}"
+],
+"节点 {}「{}」缺少必填输入 {}": [
+"Node {} «{}» thiếu đầu vào bắt buộc {}",
+"Node {} \"{}\" is missing required input {}"
+],
+"节点 {}「{}」缺少必填输入 {}.{}": [
+"Node {} «{}» thiếu đầu vào bắt buộc {}.{}",
+"Node {} \"{}\" is missing required input {}.{}"
+],
+"节点 {}「{}」：{}": [
+"Node {} «{}»: {}",
+"Node {} \"{}\": {}"
+],
+"节点参数读取失败：": [
+"Không đọc được tham số node: ",
+"Failed to read node parameters: "
+],
+"节点已完成，继续执行工作流…": [
+"Node đã xong, tiếp tục chạy workflow…",
+"Node done, continuing workflow…"
+],
+"节点连线类型不匹配{}": [
+"Kiểu kết nối node không khớp{}",
+"Node link type mismatch{}"
+],
+"英文 Prompt 词条": [
+"Từ khóa prompt tiếng Anh",
+"English prompt keywords"
+],
+"补充元素": [
+"yếu tố bổ sung",
+"extra element"
+],
+"补充参考": [
+"tham chiếu bổ sung",
+"extra reference"
+],
+"角色合成流程": [
+"Quy trình ghép nhân vật",
+"Character workflow"
+],
+"角色图已完成并保存": [
+"Ảnh nhân vật đã xong và được lưu",
+"Character image done and saved"
+],
+"角色设定集": [
+"Bảng thiết kế nhân vật",
+"Character sheet"
+],
+"角色设定集立绘（纯白底）": [
+"Bảng thiết kế nhân vật (nền trắng)",
+"Character sheet (plain white)"
+],
+"角色配方槽 (": [
+"Ô công thức nhân vật (",
+"Recipe slots ("
+],
+"解析图片失败": [
+"Phân tích ảnh thất bại",
+"Failed to parse image"
+],
+"访问 GitHub 仓库": [
+"Xem repo GitHub",
+"Visit the GitHub repo"
+],
+"试试更换发型关键词或重置筛选": [
+"Thử từ khóa kiểu tóc khác hoặc đặt lại bộ lọc",
+"Try another hairstyle keyword or reset filters"
+],
+"试试更换搜索词或切换分类": [
+"Thử từ khóa khác hoặc đổi danh mục",
+"Try another search or category"
+],
+"试试更换搜索词或重置筛选条件": [
+"Thử từ khóa khác hoặc đặt lại bộ lọc",
+"Try another search or reset filters"
+],
+"语法错误": [
+"lỗi cú pháp",
+"syntax error"
+],
+"请先移除上方附加图后生成。": [
+"Hãy gỡ các ảnh bổ sung phía trên rồi mới tạo.",
+"Remove the extra images above before generating."
+],
+"请先选择人像/服装/姿势或上传附加参考图。": [
+"Hãy chọn chân dung/trang phục/tư thế hoặc tải lên ảnh tham chiếu bổ sung trước.",
+"Choose a portrait/costume/pose or upload an extra reference first."
+],
+"请先选择或上传至少 1 张参考图": [
+"Hãy chọn hoặc tải lên ít nhất 1 ảnh tham chiếu",
+"Choose or upload at least 1 reference image"
+],
+"请先选择或上传：": [
+"Hãy chọn hoặc tải lên trước: ",
+"Choose or upload first: "
+],
+"请先配置 {} 的 API Key": [
+"Hãy cấu hình API key cho {} trước",
+"Set the API key for {} first"
+],
+"请在 ComfyUI 设置中开启「启用开发模式选项」，点击菜单中的「导出 (API)」获取 JSON 并粘贴于下方。": [
+"Trong cài đặt ComfyUI, bật «Enable Dev mode Options», rồi chọn «Export (API)» trong menu để lấy JSON và dán vào bên dưới.",
+"In ComfyUI settings, turn on \"Enable Dev mode Options\", then use \"Export (API)\" from the menu and paste the JSON below."
+],
+"请求失败 (HTTP {})": [
+"Yêu cầu thất bại (HTTP {})",
+"Request failed (HTTP {})"
+],
+"请至少选择或上传 1 张参考图": [
+"Hãy chọn hoặc tải lên ít nhất 1 ảnh tham chiếu",
+"Choose or upload at least 1 reference image"
+],
+"请输入参数允许范围内的数字": [
+"Hãy nhập số trong phạm vi cho phép",
+"Enter a number within the allowed range"
+],
+"请输入有效的 http(s):// 图片链接": [
+"Hãy nhập liên kết ảnh http(s):// hợp lệ",
+"Enter a valid http(s):// image link"
+],
+"请选择图片文件": [
+"Hãy chọn tệp ảnh",
+"Please choose an image file"
+],
+"请选择或填写有效的模型名称": [
+"Hãy chọn hoặc nhập tên model hợp lệ",
+"Choose or enter a valid model name"
+],
+"读取 JSON 文件失败": [
+"Không đọc được tệp JSON",
+"Failed to read JSON file"
+],
+"读取参考图失败：{}": [
+"Không đọc được ảnh tham chiếu: {}",
+"Failed to read reference: {}"
+],
+"读取文件失败": [
+"Đọc tệp thất bại",
+"Failed to read file"
+],
+"读取生成结果失败": [
+"Không đọc được kết quả",
+"Failed to read the result"
+],
+"调用失败": [
+"Gọi API thất bại",
+"Call failed"
+],
+"调用端点 (endpointMode)": [
+"Endpoint gọi (endpointMode)",
+"Endpoint (endpointMode)"
+],
+"负向提示词": [
+"Prompt phủ định",
+"Negative prompt"
+],
+"赛博朋克霓虹": [
+"Neon cyberpunk",
+"Cyberpunk neon"
+],
+"跟随系统": [
+"Theo hệ thống",
+"System"
+],
+"转 Base64 编码传输": [
+"Gửi dạng mã hóa Base64",
+"Send as Base64"
+],
+"输入": [
+"đầu vào",
+"input"
+],
+"输入 API Key（仅保存在本地浏览器）": [
+"Nhập API key (chỉ lưu trong trình duyệt của bạn)",
+"Enter API key (stored only in this browser)"
+],
+"输入图片 URL": [
+"Nhập URL ảnh",
+"Image URL"
+],
+"输入模型 ID": [
+"Nhập model ID",
+"Enter model ID"
+],
+"输出尺寸 (size)": [
+"Kích thước đầu ra (size)",
+"Output size (size)"
+],
+"输出比例": [
+"Tỉ lệ đầu ra",
+"Aspect ratio"
+],
+"返回合成台": [
+"Quay lại Bàn ghép",
+"Back to studio"
+],
+"返回格式 (response_format)": [
+"Định dạng trả về (response_format)",
+"Response format (response_format)"
+],
+"这条提交快照没有可用的参考图。": [
+"Bản chụp này không có ảnh tham chiếu dùng được.",
+"This snapshot has no usable reference image."
+],
+"这条旧记录没有生成快照，无法确定当时的参考图。": [
+"Bản ghi cũ này không có bản chụp, không xác định được ảnh tham chiếu lúc đó.",
+"This older record has no snapshot, so its reference images are unknown."
+],
+"连接失败": [
+"Kết nối thất bại",
+"Connection failed"
+],
+"连接检测超时（8 秒），请检查 ComfyUI 是否忙碌或无响应": [
+"Kiểm tra kết nối quá thời gian (8 giây), hãy xem ComfyUI có đang bận hoặc không phản hồi",
+"Connection check timed out (8 s); check whether ComfyUI is busy or unresponsive"
+],
+"连接：": [
+"Kết nối: ",
+"Connection: "
+],
+"适应窗口": [
+"Vừa khung",
+"Fit to window"
+],
+"选择{}": [
+"Chọn {}",
+"Choose {}"
+],
+"选择参考": [
+"Chọn tham chiếu",
+"Choose reference"
+],
+"选择图片": [
+"Chọn ảnh",
+"Choose image"
+],
+"选择本次生成的参考": [
+"Chọn tham chiếu của lần tạo này",
+"Choose a reference from this generation"
+],
+"配方保存失败，请检查浏览器存储空间": [
+"Lưu công thức thất bại, hãy kiểm tra dung lượng bộ nhớ trình duyệt",
+"Failed to save the recipe; check browser storage space"
+],
+"配置 API Key": [
+"Cấu hình API key",
+"Set API key"
+],
+"配置与说明": [
+"Cấu hình & hướng dẫn",
+"Settings & guide"
+],
+"配置已保存": [
+"Đã lưu cấu hình",
+"Settings saved"
+],
+"重新加载": [
+"Tải lại",
+"Reload"
+],
+"重新加载 {} 缩略图": [
+"Tải lại ảnh thu nhỏ {}",
+"Reload {} thumbnail"
+],
+"重新加载图片": [
+"Tải lại ảnh",
+"Reload image"
+],
+"重置": [
+"Đặt lại",
+"Reset"
+],
+"重试": [
+"Thử lại",
+"Retry"
+],
+"鉴权失败（HTTP {}），请检查 API Key / 鉴权设置": [
+"Xác thực thất bại (HTTP {}), hãy kiểm tra API key / cấu hình xác thực",
+"Auth failed (HTTP {}); check the API key / auth settings"
+],
+"队列查询暂时失败，正在等待任务状态…": [
+"Truy vấn hàng đợi tạm thất bại, đang chờ trạng thái tác vụ…",
+"Queue check failed temporarily, waiting for task status…"
+],
+"阿里云百炼 Qwen": [
+"Alibaba Cloud Bailian Qwen",
+"Alibaba Cloud Bailian Qwen"
+],
+"附加参考": [
+"Tham chiếu bổ sung",
+"Extra reference"
+],
+"附加参考 · {}": [
+"Tham chiếu bổ sung · {}",
+"Extra reference · {}"
+],
+"附加图": [
+"Ảnh bổ sung",
+"Extra image"
+],
+"附加图已禁用，请使用各槽位的上传按钮。": [
+"Ảnh bổ sung đã tắt, hãy dùng nút tải lên của từng ô.",
+"Extra images are disabled; use each slot's upload button."
+],
+"附图 #": [
+"Ảnh phụ #",
+"Extra #"
+],
+"附带合成拼图": [
+"Kèm ảnh ghép",
+"Include collage"
+],
+"随机": [
+"Ngẫu nhiên",
+"Random"
+],
+"随机捏人": [
+"Tạo nhân vật ngẫu nhiên",
+"Random character"
+],
+"随机种子 (seed)": [
+"Seed ngẫu nhiên (seed)",
+"Random seed (seed)"
+],
+"预览{}": [
+"Xem trước {}",
+"Preview {}"
+],
+"预览图": [
+"Ảnh xem trước",
+"Preview"
+],
+"高级参数": [
+"Tham số nâng cao",
+"Advanced"
+],
+"默认关闭（浏览器直连）；切换到阿里云百炼 (Qwen)、火山方舟 (Doubao) 或 PixAI 时会自动开启。仅支持白名单域名（可通过服务端环境变量 PROXY_ALLOWED_ORIGINS 扩展）": [
+"Mặc định tắt (trình duyệt kết nối trực tiếp); tự bật khi chuyển sang Alibaba Cloud Bailian (Qwen), Volcengine Ark (Doubao) hoặc PixAI. Chỉ hỗ trợ tên miền trong danh sách trắng (mở rộng qua biến môi trường PROXY_ALLOWED_ORIGINS)",
+"Off by default (direct browser connection); turns on automatically for Alibaba Cloud Bailian (Qwen), Volcengine Ark (Doubao) or PixAI. Only allowlisted domains are supported (extend with the PROXY_ALLOWED_ORIGINS env var)"
+],
+"默认地址": [
+"địa chỉ mặc định",
+"default address"
+],
+"默认模型 ID": [
+"Model ID mặc định",
+"Default model ID"
+],
+"默认沿用工作流原图；选择后替换，清除后恢复原图。": [
+"Mặc định dùng ảnh gốc của workflow; chọn ảnh để thay, xóa để khôi phục ảnh gốc.",
+"Uses the workflow's original image by default; choosing replaces it, clearing restores it."
+],
+"（可替换）": [
+"(có thể thay)",
+"(replaceable)"
+],
+"（可选）": [
+"(tùy chọn)",
+"(optional)"
+],
+"（标签与名称遵循 CC0，图片从原站在线加载，仅供学习与生图参考，禁止用于真人/未成年人或将原图二次分发，详见": [
+"(thẻ và tên theo CC0, ảnh tải trực tuyến từ trang gốc, chỉ dùng để học và tham chiếu tạo ảnh; cấm dùng cho người thật/trẻ vị thành niên hoặc phân phối lại ảnh gốc; xem",
+"(tags and names are CC0; images load live from the original site for learning and generation reference only; no real people/minors or redistribution of originals; see"
+],
+"（深度图）": [
+"(Depth map)",
+"(depth map)"
+],
+"（空）": [
+"(trống)",
+"(empty)"
+],
+"）、人像（": [
+"), chân dung (",
+"), portraits ("
+],
+"）、现实服装（": [
+"), trang phục thực (",
+"), realistic costumes ("
+],
+"）。": [
+").",
+")."
+],
+"）参考图与原始元数据源自原作者": [
+") cùng metadata gốc đến từ tác giả",
+") and original metadata come from the author"
+],
+"，使用者须自行承担一切法律责任。": [
+"; người dùng tự chịu mọi trách nhiệm pháp lý.",
+"; users bear all legal responsibility."
+],
+"，固定版本）": [
+", phiên bản cố định)",
+", pinned version)"
+],
+"：": [
+": ",
+": "
+],
+"：全身单人・性感系（399 张）、双人缠绵（275 张）": [
+": Toàn thân 1 người · Gợi cảm (399 ảnh), Hai người · Quấn quýt (275 ảnh)",
+": Full body solo · Sexy (399 images), Couple · Intimate (275 images)"
+],
+"：内衣・睡衣（199 套）、性感穿搭（140 套）": [
+": Nội y · Đồ ngủ (199 bộ), Trang phục gợi cảm (140 bộ)",
+": Lingerie · Sleepwear (199 sets), Sexy outfits (140 sets)"
+],
+"：原有图鉴素材来自 ギア（@giaaibusi）；二次元服装来自 たき AI · CharaDB，适用独立来源条件，禁止真人、未成年人用途及图片再分发，首次使用须确认。": [
+": tư liệu gốc đến từ Gia (@giaaibusi); trang phục anime đến từ Taki AI · CharaDB, áp dụng điều kiện nguồn riêng: cấm dùng cho người thật, trẻ vị thành niên và phân phối lại ảnh; cần xác nhận khi dùng lần đầu.",
+": original assets come from Gia (@giaaibusi); anime costumes come from Taki AI · CharaDB under their own terms: no real people, minors or image redistribution; confirm on first use."
+],
+"：未满 18 周岁的未成年人严禁关闭安全模式或浏览上述敏感分类。": [
+": người dưới 18 tuổi tuyệt đối không được tắt chế độ an toàn hoặc xem các danh mục nhạy cảm trên.",
+": anyone under 18 must not turn off safe mode or browse these categories."
+],
+"：本工具与素材": [
+": công cụ và tư liệu này",
+": this tool and its assets are"
+],
+"；HTTP 检测不代表任务 WebSocket 已连接": [
+"; kiểm tra HTTP không có nghĩa là WebSocket của tác vụ đã kết nối",
+"; an HTTP check does not mean the task WebSocket is connected"
+],
+"；原有姿势库与现实服装库免费供个人学习与 AI 生图参考使用，": [
+"; thư viện tư thế và trang phục thực gốc được dùng miễn phí cho học tập cá nhân và tham chiếu tạo ảnh AI,",
+"; the original pose and realistic costume libraries are free for personal study and AI generation reference,"
+],
+"👗 服装穿搭库": [
+"👗 Thư viện trang phục",
+"👗 Costume library"
+],
+"👤 人像颜值库": [
+"👤 Thư viện chân dung",
+"👤 Portrait library"
+],
+"🔒 解锁 18+ 性感/双人系 (": [
+"🔒 Mở khóa 18+ gợi cảm/hai người (",
+"🔒 Unlock 18+ sexy/couple ("
+],
+"🔒 解锁 18+ 敏感服装 (": [
+"🔒 Mở khóa trang phục nhạy cảm 18+ (",
+"🔒 Unlock 18+ costumes ("
+],
+"🔞 年龄确认与免责声明（NSFW 18+）": [
+"🔞 Xác nhận tuổi & miễn trừ trách nhiệm (NSFW 18+)",
+"🔞 Age confirmation & disclaimer (NSFW 18+)"
+],
+"🕺 动作姿势库": [
+"🕺 Thư viện tư thế",
+"🕺 Pose library"
+]
+}
